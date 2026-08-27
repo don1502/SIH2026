@@ -1,0 +1,251 @@
+case_id,case_title,crime_type,status,date_registered
+CASE_0001,Operation Thunder-001,Homicide,Open,2025-01-19
+CASE_0002,Operation Eclipse-002,Homicide,Cold,2023-09-25
+CASE_0003,Operation Viper-003,Hawala Money Laundering,Open,2022-07-23
+CASE_0004,Operation Viper-004,Narcotics Trafficking,Cold,2024-01-23
+CASE_0005,Operation Eclipse-005,Cyber Fraud,Under Investigation,2025-07-26
+CASE_0006,Operation Thunder-006,Extortion,Cold,2022-04-06
+CASE_0007,Operation Viper-007,Cyber Fraud,Open,2022-07-13
+CASE_0008,Operation Trident-008,Arms Smuggling,Closed,2021-05-05
+CASE_0009,Operation Blackout-009,Homicide,Chargesheet Filed,2024-04-12
+CASE_0010,Operation Thunder-010,Cyber Fraud,Chargesheet Filed,2023-03-03
+CASE_0011,Operation Blackout-011,Homicide,Under Investigation,2023-02-08
+CASE_0012,Operation Thunder-012,Extortion,Under Investigation,2024-11-03
+CASE_0013,Operation Blackout-013,Narcotics Trafficking,Under Investigation,2021-11-06
+CASE_0014,Operation Trident-014,Narcotics Trafficking,Open,2021-05-27
+CASE_0015,Operation Falcon-015,Cyber Fraud,Cold,2025-05-15
+CASE_0016,Operation Falcon-016,Extortion,Chargesheet Filed,2024-07-16
+CASE_0017,Operation Eclipse-017,Cyber Fraud,Open,2021-08-18
+CASE_0018,Operation Thunder-018,Narcotics Trafficking,Cold,2023-06-25
+CASE_0019,Operation Eclipse-019,Narcotics Trafficking,Under Investigation,2022-04-15
+CASE_0020,Operation Viper-020,Narcotics Trafficking,Closed,2023-02-22
+CASE_0021,Operation Eclipse-021,Arms Smuggling,Under Investigation,2023-09-17
+CASE_0022,Operation Eclipse-022,Narcotics Trafficking,Cold,2021-11-13
+CASE_0023,Operation Trident-023,Extortion,Under Investigation,2025-03-10
+CASE_0024,Operation Thunder-024,Homicide,Chargesheet Filed,2023-02-16
+CASE_0025,Operation Trident-025,Cyber Fraud,Cold,2022-07-19
+CASE_0026,Operation Trident-026,Narcotics Trafficking,Chargesheet Filed,2023-06-18
+CASE_0027,Operation Trident-027,Extortion,Open,2024-03-13
+CASE_0028,Operation Trident-028,Hawala Money Laundering,Chargesheet Filed,2023-03-21
+CASE_0029,Operation Blackout-029,Homicide,Cold,2022-08-21
+CASE_0030,Operation Trident-030,Homicide,Open,2022-08-31
+CASE_0031,Operation Trident-031,Arms Smuggling,Chargesheet Filed,2023-07-28
+CASE_0032,Operation Thunder-032,Narcotics Trafficking,Chargesheet Filed,2025-04-10
+CASE_0033,Operation Blackout-033,Hawala Money Laundering,Closed,2023-10-25
+CASE_0034,Operation Falcon-034,Arms Smuggling,Cold,2021-03-06
+CASE_0035,Operation Trident-035,Narcotics Trafficking,Chargesheet Filed,2024-03-18
+CASE_0036,Operation Blackout-036,Homicide,Chargesheet Filed,2021-08-10
+CASE_0037,Operation Blackout-037,Arms Smuggling,Under Investigation,2024-10-24
+CASE_0038,Operation Thunder-038,Arms Smuggling,Closed,2022-07-19
+CASE_0039,Operation Thunder-039,Hawala Money Laundering,Under Investigation,2022-05-12
+CASE_0040,Operation Blackout-040,Homicide,Chargesheet Filed,2024-07-10
+CASE_0041,Operation Trident-041,Arms Smuggling,Under Investigation,2024-11-06
+CASE_0042,Operation Thunder-042,Hawala Money Laundering,Chargesheet Filed,2022-06-14
+CASE_0043,Operation Trident-043,Arms Smuggling,Closed,2022-04-23
+CASE_0044,Operation Falcon-044,Hawala Money Laundering,Open,2024-05-25
+CASE_0045,Operation Viper-045,Cyber Fraud,Open,2022-03-17
+CASE_0046,Operation Blackout-046,Extortion,Open,2024-02-21
+CASE_0047,Operation Blackout-047,Homicide,Under Investigation,2022-04-14
+CASE_0048,Operation Blackout-048,Arms Smuggling,Open,2021-08-10
+CASE_0049,Operation Viper-049,Hawala Money Laundering,Under Investigation,2021-05-11
+CASE_0050,Operation Trident-050,Cyber Fraud,Chargesheet Filed,2023-09-09
+CASE_0051,Operation Eclipse-051,Homicide,Closed,2024-06-03
+CASE_0052,Operation Trident-052,Hawala Money Laundering,Under Investigation,2024-12-10
+CASE_0053,Operation Eclipse-053,Homicide,Under Investigation,2024-06-23
+CASE_0054,Operation Trident-054,Cyber Fraud,Chargesheet Filed,2022-07-13
+CASE_0055,Operation Falcon-055,Hawala Money Laundering,Cold,2021-08-25
+CASE_0056,Operation Viper-056,Homicide,Chargesheet Filed,2025-05-18
+CASE_0057,Operation Falcon-057,Homicide,Closed,2023-11-22
+CASE_0058,Operation Falcon-058,Extortion,Under Investigation,2021-11-29
+CASE_0059,Operation Trident-059,Homicide,Closed,2021-05-06
+CASE_0060,Operation Falcon-060,Arms Smuggling,Closed,2025-07-19
+CASE_0061,Operation Trident-061,Homicide,Under Investigation,2021-07-19
+CASE_0062,Operation Eclipse-062,Narcotics Trafficking,Under Investigation,2022-04-17
+CASE_0063,Operation Falcon-063,Extortion,Open,2024-03-02
+CASE_0064,Operation Eclipse-064,Arms Smuggling,Closed,2021-12-16
+CASE_0065,Operation Eclipse-065,Arms Smuggling,Closed,2022-04-23
+CASE_0066,Operation Thunder-066,Cyber Fraud,Cold,2025-07-23
+CASE_0067,Operation Thunder-067,Hawala Money Laundering,Chargesheet Filed,2021-01-27
+CASE_0068,Operation Falcon-068,Cyber Fraud,Open,2025-07-08
+CASE_0069,Operation Viper-069,Arms Smuggling,Closed,2025-07-28
+CASE_0070,Operation Falcon-070,Hawala Money Laundering,Chargesheet Filed,2023-08-08
+CASE_0071,Operation Trident-071,Homicide,Open,2021-05-13
+CASE_0072,Operation Thunder-072,Extortion,Closed,2025-04-11
+CASE_0073,Operation Thunder-073,Hawala Money Laundering,Closed,2025-02-01
+CASE_0074,Operation Trident-074,Arms Smuggling,Closed,2023-10-14
+CASE_0075,Operation Eclipse-075,Hawala Money Laundering,Cold,2023-05-26
+CASE_0076,Operation Thunder-076,Homicide,Chargesheet Filed,2022-01-04
+CASE_0077,Operation Blackout-077,Hawala Money Laundering,Under Investigation,2022-11-08
+CASE_0078,Operation Viper-078,Homicide,Under Investigation,2021-12-14
+CASE_0079,Operation Blackout-079,Extortion,Cold,2022-03-26
+CASE_0080,Operation Trident-080,Narcotics Trafficking,Under Investigation,2022-07-23
+CASE_0081,Operation Falcon-081,Arms Smuggling,Open,2021-05-22
+CASE_0082,Operation Viper-082,Extortion,Closed,2023-02-25
+CASE_0083,Operation Blackout-083,Extortion,Open,2023-05-25
+CASE_0084,Operation Eclipse-084,Hawala Money Laundering,Closed,2021-12-14
+CASE_0085,Operation Falcon-085,Hawala Money Laundering,Closed,2024-10-19
+CASE_0086,Operation Trident-086,Hawala Money Laundering,Closed,2023-05-13
+CASE_0087,Operation Blackout-087,Homicide,Closed,2021-10-27
+CASE_0088,Operation Eclipse-088,Extortion,Closed,2022-09-11
+CASE_0089,Operation Falcon-089,Homicide,Closed,2021-03-03
+CASE_0090,Operation Falcon-090,Extortion,Cold,2024-08-04
+CASE_0091,Operation Thunder-091,Narcotics Trafficking,Under Investigation,2021-01-07
+CASE_0092,Operation Falcon-092,Narcotics Trafficking,Chargesheet Filed,2022-09-04
+CASE_0093,Operation Eclipse-093,Extortion,Closed,2023-11-12
+CASE_0094,Operation Trident-094,Cyber Fraud,Cold,2022-08-09
+CASE_0095,Operation Falcon-095,Narcotics Trafficking,Chargesheet Filed,2021-05-25
+CASE_0096,Operation Viper-096,Extortion,Chargesheet Filed,2023-01-29
+CASE_0097,Operation Blackout-097,Extortion,Closed,2021-01-06
+CASE_0098,Operation Viper-098,Cyber Fraud,Under Investigation,2024-07-22
+CASE_0099,Operation Blackout-099,Extortion,Closed,2021-07-14
+CASE_0100,Operation Falcon-100,Hawala Money Laundering,Cold,2025-07-18
+CASE_0101,Operation Eclipse-101,Hawala Money Laundering,Under Investigation,2024-11-22
+CASE_0102,Operation Thunder-102,Extortion,Under Investigation,2022-07-05
+CASE_0103,Operation Blackout-103,Extortion,Closed,2024-04-12
+CASE_0104,Operation Eclipse-104,Extortion,Under Investigation,2025-02-11
+CASE_0105,Operation Thunder-105,Homicide,Open,2025-04-21
+CASE_0106,Operation Viper-106,Homicide,Open,2024-06-04
+CASE_0107,Operation Trident-107,Hawala Money Laundering,Cold,2021-11-22
+CASE_0108,Operation Trident-108,Hawala Money Laundering,Closed,2023-08-05
+CASE_0109,Operation Falcon-109,Narcotics Trafficking,Open,2022-08-13
+CASE_0110,Operation Trident-110,Homicide,Closed,2022-05-03
+CASE_0111,Operation Trident-111,Extortion,Closed,2022-04-19
+CASE_0112,Operation Falcon-112,Homicide,Closed,2025-04-28
+CASE_0113,Operation Eclipse-113,Extortion,Chargesheet Filed,2022-08-04
+CASE_0114,Operation Thunder-114,Homicide,Closed,2021-07-16
+CASE_0115,Operation Blackout-115,Hawala Money Laundering,Chargesheet Filed,2021-03-03
+CASE_0116,Operation Thunder-116,Hawala Money Laundering,Cold,2024-04-13
+CASE_0117,Operation Falcon-117,Homicide,Open,2024-08-05
+CASE_0118,Operation Eclipse-118,Homicide,Chargesheet Filed,2022-06-04
+CASE_0119,Operation Falcon-119,Homicide,Closed,2025-06-12
+CASE_0120,Operation Falcon-120,Homicide,Chargesheet Filed,2023-02-08
+CASE_0121,Operation Falcon-121,Cyber Fraud,Under Investigation,2024-12-22
+CASE_0122,Operation Blackout-122,Hawala Money Laundering,Cold,2021-12-29
+CASE_0123,Operation Thunder-123,Cyber Fraud,Open,2023-12-31
+CASE_0124,Operation Blackout-124,Hawala Money Laundering,Closed,2025-07-15
+CASE_0125,Operation Eclipse-125,Extortion,Closed,2023-07-18
+CASE_0126,Operation Viper-126,Homicide,Cold,2022-07-08
+CASE_0127,Operation Eclipse-127,Homicide,Open,2022-04-14
+CASE_0128,Operation Eclipse-128,Hawala Money Laundering,Cold,2024-02-20
+CASE_0129,Operation Eclipse-129,Hawala Money Laundering,Closed,2024-04-09
+CASE_0130,Operation Trident-130,Cyber Fraud,Chargesheet Filed,2021-10-20
+CASE_0131,Operation Trident-131,Arms Smuggling,Cold,2022-09-27
+CASE_0132,Operation Viper-132,Cyber Fraud,Closed,2022-05-20
+CASE_0133,Operation Viper-133,Arms Smuggling,Under Investigation,2023-04-28
+CASE_0134,Operation Eclipse-134,Hawala Money Laundering,Open,2024-10-12
+CASE_0135,Operation Eclipse-135,Arms Smuggling,Under Investigation,2021-03-11
+CASE_0136,Operation Thunder-136,Arms Smuggling,Cold,2022-03-20
+CASE_0137,Operation Blackout-137,Hawala Money Laundering,Cold,2023-08-05
+CASE_0138,Operation Falcon-138,Hawala Money Laundering,Closed,2024-05-16
+CASE_0139,Operation Thunder-139,Narcotics Trafficking,Closed,2021-01-12
+CASE_0140,Operation Blackout-140,Cyber Fraud,Cold,2023-08-12
+CASE_0141,Operation Eclipse-141,Homicide,Cold,2023-03-03
+CASE_0142,Operation Blackout-142,Arms Smuggling,Closed,2023-06-03
+CASE_0143,Operation Thunder-143,Arms Smuggling,Open,2025-05-01
+CASE_0144,Operation Trident-144,Cyber Fraud,Closed,2023-07-29
+CASE_0145,Operation Falcon-145,Hawala Money Laundering,Cold,2023-01-24
+CASE_0146,Operation Viper-146,Hawala Money Laundering,Closed,2023-12-03
+CASE_0147,Operation Trident-147,Hawala Money Laundering,Closed,2025-07-25
+CASE_0148,Operation Blackout-148,Narcotics Trafficking,Cold,2023-06-30
+CASE_0149,Operation Blackout-149,Cyber Fraud,Open,2023-04-05
+CASE_0150,Operation Viper-150,Arms Smuggling,Open,2022-06-02
+CASE_0151,Operation Eclipse-151,Homicide,Closed,2024-05-10
+CASE_0152,Operation Falcon-152,Arms Smuggling,Under Investigation,2022-01-03
+CASE_0153,Operation Falcon-153,Extortion,Cold,2022-03-10
+CASE_0154,Operation Thunder-154,Narcotics Trafficking,Cold,2024-05-28
+CASE_0155,Operation Viper-155,Cyber Fraud,Closed,2021-07-10
+CASE_0156,Operation Falcon-156,Cyber Fraud,Under Investigation,2023-04-21
+CASE_0157,Operation Blackout-157,Arms Smuggling,Chargesheet Filed,2025-06-04
+CASE_0158,Operation Falcon-158,Extortion,Open,2022-08-14
+CASE_0159,Operation Eclipse-159,Narcotics Trafficking,Chargesheet Filed,2025-02-07
+CASE_0160,Operation Viper-160,Homicide,Closed,2023-01-07
+CASE_0161,Operation Blackout-161,Cyber Fraud,Cold,2023-03-25
+CASE_0162,Operation Eclipse-162,Narcotics Trafficking,Closed,2023-12-17
+CASE_0163,Operation Thunder-163,Extortion,Open,2022-04-10
+CASE_0164,Operation Thunder-164,Arms Smuggling,Open,2021-05-27
+CASE_0165,Operation Falcon-165,Extortion,Open,2023-12-08
+CASE_0166,Operation Eclipse-166,Hawala Money Laundering,Cold,2021-11-13
+CASE_0167,Operation Blackout-167,Cyber Fraud,Chargesheet Filed,2022-09-24
+CASE_0168,Operation Falcon-168,Arms Smuggling,Cold,2023-06-29
+CASE_0169,Operation Falcon-169,Cyber Fraud,Chargesheet Filed,2022-08-19
+CASE_0170,Operation Thunder-170,Cyber Fraud,Chargesheet Filed,2024-09-04
+CASE_0171,Operation Thunder-171,Cyber Fraud,Open,2025-04-11
+CASE_0172,Operation Thunder-172,Homicide,Open,2022-01-03
+CASE_0173,Operation Blackout-173,Hawala Money Laundering,Under Investigation,2024-07-11
+CASE_0174,Operation Eclipse-174,Narcotics Trafficking,Open,2021-12-18
+CASE_0175,Operation Eclipse-175,Extortion,Cold,2024-03-02
+CASE_0176,Operation Eclipse-176,Narcotics Trafficking,Open,2022-12-19
+CASE_0177,Operation Viper-177,Arms Smuggling,Chargesheet Filed,2023-02-23
+CASE_0178,Operation Trident-178,Cyber Fraud,Closed,2021-05-15
+CASE_0179,Operation Thunder-179,Hawala Money Laundering,Chargesheet Filed,2023-12-02
+CASE_0180,Operation Thunder-180,Cyber Fraud,Cold,2024-03-08
+CASE_0181,Operation Trident-181,Arms Smuggling,Open,2024-03-19
+CASE_0182,Operation Trident-182,Extortion,Open,2023-10-03
+CASE_0183,Operation Viper-183,Cyber Fraud,Closed,2024-09-17
+CASE_0184,Operation Thunder-184,Extortion,Chargesheet Filed,2024-08-14
+CASE_0185,Operation Trident-185,Extortion,Under Investigation,2022-01-24
+CASE_0186,Operation Blackout-186,Narcotics Trafficking,Chargesheet Filed,2023-01-03
+CASE_0187,Operation Trident-187,Homicide,Chargesheet Filed,2024-09-27
+CASE_0188,Operation Falcon-188,Arms Smuggling,Cold,2023-08-13
+CASE_0189,Operation Thunder-189,Hawala Money Laundering,Chargesheet Filed,2023-06-16
+CASE_0190,Operation Eclipse-190,Arms Smuggling,Chargesheet Filed,2022-11-24
+CASE_0191,Operation Blackout-191,Hawala Money Laundering,Chargesheet Filed,2022-06-15
+CASE_0192,Operation Falcon-192,Extortion,Closed,2022-12-01
+CASE_0193,Operation Viper-193,Narcotics Trafficking,Cold,2021-09-12
+CASE_0194,Operation Trident-194,Arms Smuggling,Chargesheet Filed,2023-12-17
+CASE_0195,Operation Trident-195,Narcotics Trafficking,Under Investigation,2021-06-25
+CASE_0196,Operation Falcon-196,Homicide,Under Investigation,2024-05-10
+CASE_0197,Operation Trident-197,Homicide,Under Investigation,2021-10-11
+CASE_0198,Operation Falcon-198,Homicide,Cold,2023-01-06
+CASE_0199,Operation Eclipse-199,Extortion,Cold,2025-03-17
+CASE_0200,Operation Trident-200,Hawala Money Laundering,Chargesheet Filed,2025-07-24
+CASE_0201,Operation Eclipse-201,Cyber Fraud,Under Investigation,2023-12-13
+CASE_0202,Operation Blackout-202,Arms Smuggling,Chargesheet Filed,2023-10-06
+CASE_0203,Operation Trident-203,Extortion,Closed,2023-08-07
+CASE_0204,Operation Trident-204,Homicide,Chargesheet Filed,2022-03-11
+CASE_0205,Operation Eclipse-205,Arms Smuggling,Open,2024-06-15
+CASE_0206,Operation Falcon-206,Cyber Fraud,Chargesheet Filed,2025-03-01
+CASE_0207,Operation Viper-207,Cyber Fraud,Open,2024-10-25
+CASE_0208,Operation Falcon-208,Narcotics Trafficking,Chargesheet Filed,2021-06-12
+CASE_0209,Operation Blackout-209,Homicide,Open,2024-02-03
+CASE_0210,Operation Viper-210,Cyber Fraud,Open,2023-03-14
+CASE_0211,Operation Thunder-211,Hawala Money Laundering,Chargesheet Filed,2023-04-17
+CASE_0212,Operation Thunder-212,Extortion,Chargesheet Filed,2022-10-30
+CASE_0213,Operation Viper-213,Extortion,Chargesheet Filed,2024-09-23
+CASE_0214,Operation Blackout-214,Homicide,Chargesheet Filed,2021-12-15
+CASE_0215,Operation Thunder-215,Narcotics Trafficking,Chargesheet Filed,2023-07-22
+CASE_0216,Operation Eclipse-216,Cyber Fraud,Cold,2022-09-12
+CASE_0217,Operation Viper-217,Arms Smuggling,Closed,2022-09-24
+CASE_0218,Operation Falcon-218,Arms Smuggling,Under Investigation,2025-02-26
+CASE_0219,Operation Blackout-219,Cyber Fraud,Open,2022-11-22
+CASE_0220,Operation Trident-220,Narcotics Trafficking,Closed,2022-11-08
+CASE_0221,Operation Thunder-221,Narcotics Trafficking,Open,2022-09-17
+CASE_0222,Operation Trident-222,Homicide,Closed,2022-07-21
+CASE_0223,Operation Thunder-223,Narcotics Trafficking,Closed,2025-01-14
+CASE_0224,Operation Blackout-224,Cyber Fraud,Under Investigation,2021-08-01
+CASE_0225,Operation Viper-225,Extortion,Cold,2025-01-16
+CASE_0226,Operation Trident-226,Narcotics Trafficking,Chargesheet Filed,2024-09-12
+CASE_0227,Operation Trident-227,Arms Smuggling,Open,2023-09-01
+CASE_0228,Operation Trident-228,Narcotics Trafficking,Cold,2023-08-08
+CASE_0229,Operation Thunder-229,Arms Smuggling,Under Investigation,2023-10-15
+CASE_0230,Operation Eclipse-230,Extortion,Cold,2025-05-10
+CASE_0231,Operation Falcon-231,Narcotics Trafficking,Closed,2021-11-30
+CASE_0232,Operation Viper-232,Hawala Money Laundering,Cold,2022-08-08
+CASE_0233,Operation Viper-233,Arms Smuggling,Cold,2025-03-23
+CASE_0234,Operation Falcon-234,Homicide,Cold,2024-10-07
+CASE_0235,Operation Eclipse-235,Hawala Money Laundering,Under Investigation,2024-05-19
+CASE_0236,Operation Blackout-236,Narcotics Trafficking,Chargesheet Filed,2022-11-29
+CASE_0237,Operation Trident-237,Hawala Money Laundering,Under Investigation,2023-03-10
+CASE_0238,Operation Thunder-238,Homicide,Cold,2023-03-25
+CASE_0239,Operation Viper-239,Narcotics Trafficking,Closed,2021-04-01
+CASE_0240,Operation Eclipse-240,Narcotics Trafficking,Open,2021-05-30
+CASE_0241,Operation Blackout-241,Cyber Fraud,Closed,2023-11-24
+CASE_0242,Operation Thunder-242,Extortion,Closed,2021-02-22
+CASE_0243,Operation Blackout-243,Extortion,Chargesheet Filed,2022-05-24
+CASE_0244,Operation Falcon-244,Homicide,Open,2024-06-26
+CASE_0245,Operation Eclipse-245,Cyber Fraud,Chargesheet Filed,2023-06-13
+CASE_0246,Operation Trident-246,Homicide,Chargesheet Filed,2024-04-26
+CASE_0247,Operation Viper-247,Homicide,Closed,2025-05-25
+CASE_0248,Operation Viper-248,Cyber Fraud,Closed,2024-11-23
+CASE_0249,Operation Blackout-249,Arms Smuggling,Cold,2022-06-15
+CASE_0250,Operation Blackout-250,Arms Smuggling,Cold,2023-10-18

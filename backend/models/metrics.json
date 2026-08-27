@@ -1,0 +1,153 @@
+{
+  "task": "suspect_prediction",
+  "label": "involvement in {Prime Suspect, Accused, Co-conspirator} vs Witness",
+  "n_labeled": 625,
+  "n_positive": 513,
+  "n_negative": 112,
+  "test": {
+    "accuracy": 0.816,
+    "precision": 0.8226,
+    "recall": 0.9903,
+    "f1": 0.8987,
+    "roc_auc": 0.7048,
+    "pr_auc": 0.9241
+  },
+  "cv_roc_auc_mean": 0.6883,
+  "cv_roc_auc_std": 0.0242,
+  "feature_importances": [
+    {
+      "feature": "n_cases",
+      "importance": 0.1183
+    },
+    {
+      "feature": "txn_amount_total",
+      "importance": 0.0988
+    },
+    {
+      "feature": "balance_total",
+      "importance": 0.0774
+    },
+    {
+      "feature": "age",
+      "importance": 0.0771
+    },
+    {
+      "feature": "call_duration_total",
+      "importance": 0.0744
+    },
+    {
+      "feature": "comm_degree",
+      "importance": 0.0709
+    },
+    {
+      "feature": "risk_score",
+      "importance": 0.0673
+    },
+    {
+      "feature": "txn_total",
+      "importance": 0.0494
+    },
+    {
+      "feature": "txn_distinct_counterparts",
+      "importance": 0.0493
+    },
+    {
+      "feature": "call_total",
+      "importance": 0.0482
+    },
+    {
+      "feature": "call_distinct_contacts",
+      "importance": 0.047
+    },
+    {
+      "feature": "org_threat_sum",
+      "importance": 0.0304
+    },
+    {
+      "feature": "n_locations",
+      "importance": 0.0288
+    },
+    {
+      "feature": "org_threat_max",
+      "importance": 0.0277
+    },
+    {
+      "feature": "role_Money Launderer",
+      "importance": 0.0232
+    }
+  ],
+  "population_stats": {
+    "age": {
+      "mean": 42.3408,
+      "std": 13.442446740046037
+    },
+    "risk_score": {
+      "mean": 0.540768,
+      "std": 0.25287269828603787
+    },
+    "n_phones": {
+      "mean": 1.5232,
+      "std": 0.49986151928463
+    },
+    "n_accounts": {
+      "mean": 1.5088,
+      "std": 0.500322972611769
+    },
+    "n_vehicles": {
+      "mean": 0.7024,
+      "std": 0.4575688262646733
+    },
+    "n_orgs": {
+      "mean": 0.7888,
+      "std": 0.40848688897140684
+    },
+    "n_locations": {
+      "mean": 1.9968,
+      "std": 0.8358873681948378
+    },
+    "n_cases": {
+      "mean": 1.5264,
+      "std": 0.8452491667231349
+    },
+    "org_threat_max": {
+      "mean": 1.9872,
+      "std": 1.4609761401375734
+    },
+    "org_threat_sum": {
+      "mean": 1.9872,
+      "std": 1.4609761401375734
+    },
+    "call_total": {
+      "mean": 10.8272,
+      "std": 4.715178980750658
+    },
+    "call_duration_total": {
+      "mean": 19473.144,
+      "std": 8978.810325641485
+    },
+    "call_distinct_contacts": {
+      "mean": 10.768,
+      "std": 4.664953898142496
+    },
+    "txn_total": {
+      "mean": 9.9488,
+      "std": 4.688768905176906
+    },
+    "txn_amount_total": {
+      "mean": 12562391.955376,
+      "std": 6424162.394380668
+    },
+    "txn_distinct_counterparts": {
+      "mean": 9.9152,
+      "std": 4.663776394340777
+    },
+    "balance_total": {
+      "mean": 3766484.008928,
+      "std": 2270060.029977276
+    },
+    "comm_degree": {
+      "mean": 24.1248,
+      "std": 9.325855429245056
+    }
+  }
+}

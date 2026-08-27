@@ -1,0 +1,142 @@
+======================================================================
+DATA QUALITY REPORT
+Crime Intelligence Graph Dataset - Cleaning Pipeline
+======================================================================
+
+STEP 1: Loading, encoding/format repair
+----------------------------------------------------------------------
+[persons.csv]
+  fixed: CRLF line endings -> LF
+  loaded 1000 data rows, 6 columns
+[organizations.csv]
+  fixed: CRLF line endings -> LF
+  loaded 120 data rows, 4 columns
+[locations.csv]
+  fixed: CRLF line endings -> LF
+  loaded 150 data rows, 4 columns
+[phones.csv]
+  fixed: CRLF line endings -> LF
+  loaded 1400 data rows, 4 columns
+[accounts.csv]
+  fixed: CRLF line endings -> LF
+  loaded 1200 data rows, 4 columns
+[vehicles.csv]
+  fixed: CRLF line endings -> LF
+  loaded 800 data rows, 4 columns
+[cases.csv]
+  fixed: CRLF line endings -> LF
+  loaded 250 data rows, 5 columns
+[person_phones.csv]
+  fixed: CRLF line endings -> LF
+  loaded 1517 data rows, 3 columns
+[person_accounts.csv]
+  fixed: CRLF line endings -> LF
+  loaded 1497 data rows, 3 columns
+[person_vehicles.csv]
+  fixed: CRLF line endings -> LF
+  loaded 700 data rows, 3 columns
+[person_locations.csv]
+  fixed: CRLF line endings -> LF
+  loaded 1987 data rows, 3 columns
+[person_organizations.csv]
+  fixed: CRLF line endings -> LF
+  loaded 778 data rows, 3 columns
+[case_persons.csv]
+  fixed: CRLF line endings -> LF
+  loaded 954 data rows, 3 columns
+[evidence.csv]
+  fixed: CRLF line endings -> LF
+  loaded 749 data rows, 4 columns
+[events.csv]
+  fixed: CRLF line endings -> LF
+  loaded 600 data rows, 5 columns
+[call_records.csv]
+  fixed: CRLF line endings -> LF
+  loaded 5000 data rows, 6 columns
+[transactions.csv]
+  fixed: CRLF line endings -> LF
+  loaded 4000 data rows, 6 columns
+
+STEP 2: Duplicate detection
+----------------------------------------------------------------------
+  No duplicate rows or duplicate primary keys found in any file.
+
+STEP 3: Timestamp standardization (ISO 8601)
+----------------------------------------------------------------------
+  [events] timestamps reformatted to ISO 8601 (YYYY-MM-DDTHH:MM:SSZ): 600, unparseable: 0
+  [call_records] timestamps reformatted to ISO 8601 (YYYY-MM-DDTHH:MM:SSZ): 5000, unparseable: 0
+  [transactions] timestamps reformatted to ISO 8601 (YYYY-MM-DDTHH:MM:SSZ): 4000, unparseable: 0
+
+STEP 4: Cross-reference resolution (non-ID foreign keys)
+----------------------------------------------------------------------
+  transactions.sender_account / receiver_account store account_number (bank account no.),
+  not accounts.account_id. Resolved via accounts.csv lookup for the ML graph export;
+  original columns are preserved unchanged in the cleaned transactions.csv.
+  call_records.caller_number / receiver_number store phone_number (E.164),
+  not phones.phone_id. Resolved via phones.csv lookup for the ML graph export;
+  original columns are preserved unchanged in the cleaned call_records.csv.
+
+STEP 5: Referential integrity (orphan check)
+----------------------------------------------------------------------
+  No orphan foreign keys found. All junction/activity tables reference valid parent records.
+
+STEP 6: Writing cleaned CSVs
+----------------------------------------------------------------------
+  wrote cleaned/persons.csv (1000 rows)
+  wrote cleaned/organizations.csv (120 rows)
+  wrote cleaned/locations.csv (150 rows)
+  wrote cleaned/phones.csv (1400 rows)
+  wrote cleaned/accounts.csv (1200 rows)
+  wrote cleaned/vehicles.csv (800 rows)
+  wrote cleaned/cases.csv (250 rows)
+  wrote cleaned/person_phones.csv (1517 rows)
+  wrote cleaned/person_accounts.csv (1497 rows)
+  wrote cleaned/person_vehicles.csv (700 rows)
+  wrote cleaned/person_locations.csv (1987 rows)
+  wrote cleaned/person_organizations.csv (778 rows)
+  wrote cleaned/case_persons.csv (954 rows)
+  wrote cleaned/evidence.csv (749 rows)
+  wrote cleaned/events.csv (600 rows)
+  wrote cleaned/call_records.csv (5000 rows)
+  wrote cleaned/transactions.csv (4000 rows)
+
+STEP 7: No files were excluded — all 17 input files were repaired successfully.
+
+======================================================================
+STEP 8: Summary
+----------------------------------------------------------------------
+Files processed: 17 / 17 (0 excluded)
+Encoding fixes: 0 files needed re-encoding (all source files were valid UTF-8/ASCII)
+Line-ending fixes: 17 files converted CRLF -> LF
+Header fixes: 0 (all headers already clean snake_case)
+Timestamp normalizations: events.csv (600 rows), call_records.csv (5000 rows), transactions.csv (4000 rows) -> ISO 8601 (YYYY-MM-DDTHH:MM:SSZ)
+Duplicate rows removed: 0
+Duplicate primary keys resolved: 0
+Orphaned foreign key rows removed: 0
+Cross-reference notes: transactions.csv uses account_number (not account_id); call_records.csv uses phone_number (not phone_id). Both resolved via lookup for the ML export; original columns left untouched in the cleaned CSVs.
+
+Graph export summary:
+  node type person: 1000
+  node type organization: 120
+  node type location: 150
+  node type phone_number: 1400
+  node type account: 1200
+  node type vehicle: 800
+  node type case: 250
+  total nodes: 4920
+  edge type OWNS: 3714
+  edge type ASSOCIATED_WITH: 2765
+  edge type PARTICIPATED_IN: 954
+  edge type CALLED: 5000
+  edge type TRANSACTED_WITH: 4000
+  total edges: 16433
+  train edges: 11503 (70.0%)
+  val edges: 2465 (15.0%)
+  test edges: 2465 (15.0%)
+
+Overall data quality assessment: The source dataset was already highly
+consistent (synthetic/generated data) — no orphan foreign keys, no duplicate
+rows, no duplicate primary keys, no encoding corruption, and only a single,
+consistent non-ISO timestamp format were found. Repairs applied were line-
+ending normalization, ISO 8601 timestamp reformatting, and resolution of two
+natural-key foreign keys (account_number, phone_number) for the graph export.

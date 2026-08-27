@@ -1,0 +1,1001 @@
+person_id,full_name,age,gender,role,risk_score
+PER_0001,Rohan Sharma,36,Male,Enforcer,0.76
+PER_0002,Arjun Pandey,46,Male,Lieutenant,0.29
+PER_0003,Vihaan Yadav,31,Male,Associate,0.3
+PER_0004,Ramesh Sharma,29,Male,Informant,0.35
+PER_0005,Pooja Joshi,25,Male,Lieutenant,0.42
+PER_0006,Manoj Mishra,35,Male,Courier,0.58
+PER_0007,Farhan Patel,54,Male,Informant,0.61
+PER_0008,Reyansh Verma,61,Male,Money Launderer,0.98
+PER_0009,Neha Reddy,43,Male,Informant,0.24
+PER_0010,Manoj Singh,61,Male,Lieutenant,0.64
+PER_0011,Ananya Yadav,65,Male,Courier,0.44
+PER_0012,Neha Hussain,39,Male,Kingpin,0.3
+PER_0013,Aditya Joshi,44,Male,Smuggler,0.91
+PER_0014,Deepak Singh,60,Male,Courier,0.23
+PER_0015,Vikram Kumar,54,Male,Associate,0.9
+PER_0016,Imran Choudhury,33,Female,Enforcer,0.55
+PER_0017,Arjun Verma,26,Male,Enforcer,0.8
+PER_0018,Zubair Mishra,23,Male,Courier,0.57
+PER_0019,Aarav Hussain,65,Male,Money Launderer,0.78
+PER_0020,Sunil Reddy,37,Male,Courier,0.1
+PER_0021,Suresh Deshmukh,30,Male,Lieutenant,0.87
+PER_0022,Rajesh Ali,51,Male,Enforcer,0.43
+PER_0023,Ananya Yadav,52,Female,Informant,0.53
+PER_0024,Rohan Choudhury,38,Male,Smuggler,0.88
+PER_0025,Arjun Patel,65,Male,Lieutenant,0.97
+PER_0026,Vikram Nair,61,Male,Enforcer,0.34
+PER_0027,Zubair Singh,53,Male,Smuggler,0.73
+PER_0028,Imran Hussain,60,Male,Courier,0.21
+PER_0029,Neha Patel,40,Male,Smuggler,0.62
+PER_0030,Aarav Patel,64,Male,Smuggler,0.16
+PER_0031,Aditya Joshi,23,Male,Money Launderer,0.7
+PER_0032,Pooja Yadav,27,Male,Courier,0.32
+PER_0033,Anil Bose,31,Male,Associate,0.42
+PER_0034,Tariq Mehta,65,Male,Lieutenant,0.15
+PER_0035,Sunil Reddy,34,Male,Courier,0.22
+PER_0036,Diya Gupta,48,Male,Lieutenant,0.49
+PER_0037,Kabir Verma,60,Female,Kingpin,0.96
+PER_0038,Priya Khan,45,Male,Smuggler,0.87
+PER_0039,Sai Khan,43,Male,Associate,0.34
+PER_0040,Sanjay Malhotra,46,Male,Courier,0.24
+PER_0041,Amit Singh,22,Male,Kingpin,0.77
+PER_0042,Sai Verma,56,Male,Enforcer,0.15
+PER_0043,Arjun Khan,23,Male,Smuggler,0.46
+PER_0044,Priya Pandey,57,Male,Lieutenant,0.47
+PER_0045,Deepak Gupta,32,Male,Informant,0.31
+PER_0046,Imran Nair,61,Male,Courier,0.38
+PER_0047,Reyansh Sharma,48,Male,Lieutenant,0.17
+PER_0048,Pooja Deshmukh,35,Male,Informant,0.88
+PER_0049,Priya Choudhury,37,Male,Money Launderer,0.64
+PER_0050,Aarav Hussain,54,Male,Lieutenant,0.94
+PER_0051,Vikram Gupta,26,Female,Enforcer,0.34
+PER_0052,Pooja Rao,40,Male,Money Launderer,0.55
+PER_0053,Suresh Verma,24,Male,Money Launderer,0.14
+PER_0054,Sunil Nair,59,Female,Enforcer,0.76
+PER_0055,Zubair Yadav,19,Male,Enforcer,0.59
+PER_0056,Ajay Pandey,54,Male,Enforcer,0.14
+PER_0057,Ajay Verma,41,Male,Smuggler,0.69
+PER_0058,Manoj Yadav,45,Female,Enforcer,0.92
+PER_0059,Priya Khan,30,Female,Kingpin,0.26
+PER_0060,Sunil Bose,61,Female,Smuggler,0.34
+PER_0061,Kabir Das,21,Female,Smuggler,0.28
+PER_0062,Sanjay Choudhury,38,Male,Smuggler,0.3
+PER_0063,Isha Das,40,Male,Lieutenant,0.96
+PER_0064,Ramesh Choudhury,60,Male,Informant,0.94
+PER_0065,Rohan Gupta,30,Male,Money Launderer,0.13
+PER_0066,Zubair Choudhury,65,Male,Associate,0.64
+PER_0067,Rohan Das,55,Male,Kingpin,0.73
+PER_0068,Aarav Deshmukh,53,Male,Smuggler,0.42
+PER_0069,Reyansh Hussain,40,Male,Lieutenant,0.74
+PER_0070,Rajesh Deshmukh,38,Male,Informant,0.46
+PER_0071,Amit Yadav,27,Male,Associate,0.7
+PER_0072,Diya Mishra,55,Male,Kingpin,0.37
+PER_0073,Pooja Bose,56,Male,Informant,0.51
+PER_0074,Bilal Hussain,32,Male,Enforcer,0.69
+PER_0075,Amit Deshmukh,61,Male,Informant,0.18
+PER_0076,Priya Hussain,38,Male,Smuggler,0.23
+PER_0077,Aditya Kumar,49,Male,Lieutenant,0.51
+PER_0078,Isha Rao,63,Male,Associate,0.32
+PER_0079,Aarav Reddy,46,Male,Courier,0.14
+PER_0080,Priya Reddy,48,Male,Courier,0.69
+PER_0081,Deepak Mehta,58,Male,Associate,0.84
+PER_0082,Bilal Khan,49,Male,Smuggler,0.85
+PER_0083,Ramesh Deshmukh,50,Male,Money Launderer,0.49
+PER_0084,Amit Kumar,36,Male,Lieutenant,0.22
+PER_0085,Neha Das,63,Male,Smuggler,0.16
+PER_0086,Tariq Joshi,53,Male,Kingpin,0.28
+PER_0087,Tariq Das,56,Female,Kingpin,0.86
+PER_0088,Farhan Shah,19,Female,Money Launderer,0.77
+PER_0089,Tariq Yadav,53,Male,Smuggler,0.53
+PER_0090,Ramesh Bose,50,Male,Informant,0.7
+PER_0091,Imran Pillai,29,Male,Enforcer,0.97
+PER_0092,Vihaan Das,56,Male,Kingpin,0.17
+PER_0093,Zubair Nair,48,Male,Money Launderer,0.44
+PER_0094,Pooja Mehta,39,Male,Associate,0.35
+PER_0095,Tariq Gupta,24,Male,Kingpin,0.99
+PER_0096,Manoj Kumar,60,Male,Kingpin,0.77
+PER_0097,Priya Singh,20,Male,Smuggler,0.21
+PER_0098,Rohan Pandey,32,Male,Money Launderer,0.78
+PER_0099,Ananya Mishra,57,Female,Lieutenant,0.79
+PER_0100,Ananya Malhotra,25,Male,Money Launderer,0.61
+PER_0101,Farhan Das,64,Male,Smuggler,0.19
+PER_0102,Rajesh Hussain,57,Male,Kingpin,0.41
+PER_0103,Zubair Hussain,42,Male,Informant,0.11
+PER_0104,Tariq Shah,25,Male,Informant,0.67
+PER_0105,Sanjay Rao,28,Male,Money Launderer,0.65
+PER_0106,Anil Mehta,46,Male,Money Launderer,0.39
+PER_0107,Priya Patel,36,Female,Smuggler,0.77
+PER_0108,Farhan Joshi,20,Male,Informant,0.26
+PER_0109,Pooja Choudhury,35,Male,Money Launderer,0.59
+PER_0110,Isha Patel,34,Male,Courier,0.59
+PER_0111,Priya Rao,49,Male,Courier,0.5
+PER_0112,Vihaan Patel,37,Male,Smuggler,0.37
+PER_0113,Ajay Shah,54,Male,Associate,0.99
+PER_0114,Sunil Choudhury,63,Male,Money Launderer,0.32
+PER_0115,Rohan Pillai,31,Male,Enforcer,0.27
+PER_0116,Anil Gupta,65,Male,Money Launderer,0.97
+PER_0117,Isha Malhotra,33,Male,Money Launderer,0.11
+PER_0118,Vikram Gupta,21,Female,Money Launderer,0.72
+PER_0119,Vikram Ali,50,Male,Kingpin,0.61
+PER_0120,Anil Shah,47,Male,Kingpin,0.32
+PER_0121,Anil Reddy,23,Male,Lieutenant,0.61
+PER_0122,Sai Nair,28,Male,Money Launderer,0.18
+PER_0123,Priya Reddy,54,Male,Smuggler,0.79
+PER_0124,Farhan Mehta,47,Male,Associate,0.37
+PER_0125,Sai Mishra,25,Female,Smuggler,0.66
+PER_0126,Suresh Hussain,24,Male,Enforcer,0.59
+PER_0127,Ananya Sharma,45,Male,Courier,0.36
+PER_0128,Neha Malhotra,64,Male,Courier,0.16
+PER_0129,Neha Gupta,59,Male,Smuggler,0.48
+PER_0130,Neha Ali,28,Female,Enforcer,0.16
+PER_0131,Ananya Malhotra,57,Male,Money Launderer,0.49
+PER_0132,Sanjay Rao,38,Male,Money Launderer,0.55
+PER_0133,Dev Mehta,24,Male,Associate,0.75
+PER_0134,Suresh Sharma,24,Male,Kingpin,0.99
+PER_0135,Ramesh Pandey,21,Male,Enforcer,0.52
+PER_0136,Bilal Gupta,30,Female,Associate,0.66
+PER_0137,Dev Patel,49,Male,Informant,0.39
+PER_0138,Kabir Khan,40,Male,Courier,0.36
+PER_0139,Imran Yadav,21,Male,Informant,0.32
+PER_0140,Rohan Das,51,Male,Kingpin,0.69
+PER_0141,Sanjay Bose,22,Male,Informant,0.65
+PER_0142,Dev Ali,47,Male,Smuggler,0.34
+PER_0143,Vikram Malhotra,47,Female,Courier,0.21
+PER_0144,Priya Rao,29,Male,Kingpin,0.59
+PER_0145,Arjun Kumar,26,Male,Lieutenant,0.68
+PER_0146,Rahul Shah,64,Male,Money Launderer,0.47
+PER_0147,Anil Shah,34,Male,Enforcer,0.44
+PER_0148,Vikram Patel,36,Male,Associate,0.4
+PER_0149,Ramesh Sharma,37,Male,Courier,0.87
+PER_0150,Bilal Yadav,49,Male,Associate,0.51
+PER_0151,Deepak Singh,63,Male,Associate,0.31
+PER_0152,Tariq Verma,39,Male,Associate,0.44
+PER_0153,Rahul Shah,21,Male,Informant,0.87
+PER_0154,Bilal Reddy,52,Female,Kingpin,0.74
+PER_0155,Tariq Ali,28,Male,Money Launderer,0.4
+PER_0156,Imran Ali,24,Female,Associate,0.95
+PER_0157,Dev Yadav,21,Male,Smuggler,0.66
+PER_0158,Amit Kumar,24,Male,Lieutenant,0.78
+PER_0159,Kabir Mehta,29,Male,Kingpin,0.14
+PER_0160,Sai Malhotra,41,Male,Enforcer,0.32
+PER_0161,Tariq Pandey,62,Male,Enforcer,0.26
+PER_0162,Farhan Mishra,62,Male,Enforcer,0.31
+PER_0163,Suresh Mehta,35,Male,Courier,0.9
+PER_0164,Ananya Patel,47,Female,Money Launderer,0.67
+PER_0165,Zubair Rao,35,Male,Money Launderer,0.28
+PER_0166,Farhan Shah,25,Male,Informant,0.61
+PER_0167,Amit Sharma,61,Male,Kingpin,0.6
+PER_0168,Sai Mishra,50,Male,Money Launderer,0.79
+PER_0169,Neha Mishra,41,Male,Smuggler,0.65
+PER_0170,Vikram Ali,25,Female,Kingpin,0.37
+PER_0171,Bilal Verma,56,Male,Enforcer,0.18
+PER_0172,Amit Joshi,45,Male,Enforcer,0.8
+PER_0173,Ajay Deshmukh,51,Female,Enforcer,0.33
+PER_0174,Anil Malhotra,40,Male,Courier,0.96
+PER_0175,Rahul Kumar,62,Male,Associate,0.96
+PER_0176,Ajay Patel,44,Male,Lieutenant,0.5
+PER_0177,Suresh Pandey,43,Male,Informant,0.2
+PER_0178,Neha Shah,20,Male,Informant,0.91
+PER_0179,Neha Ali,23,Male,Courier,0.91
+PER_0180,Rajesh Ali,45,Male,Kingpin,0.94
+PER_0181,Rajesh Shah,26,Male,Enforcer,0.45
+PER_0182,Ajay Hussain,63,Female,Associate,0.62
+PER_0183,Rahul Bose,60,Male,Courier,0.65
+PER_0184,Ramesh Verma,63,Male,Courier,0.5
+PER_0185,Priya Choudhury,25,Female,Informant,0.58
+PER_0186,Manoj Verma,44,Male,Lieutenant,0.94
+PER_0187,Sanjay Patel,61,Male,Kingpin,0.15
+PER_0188,Sunil Kumar,27,Male,Smuggler,0.16
+PER_0189,Pooja Pandey,32,Male,Smuggler,0.39
+PER_0190,Rahul Mishra,19,Male,Enforcer,0.98
+PER_0191,Suresh Khan,26,Male,Kingpin,0.22
+PER_0192,Manoj Kumar,56,Male,Enforcer,0.34
+PER_0193,Vikram Pillai,45,Male,Lieutenant,0.52
+PER_0194,Ajay Deshmukh,56,Male,Smuggler,0.94
+PER_0195,Aditya Pillai,61,Male,Courier,0.67
+PER_0196,Vihaan Verma,49,Male,Associate,0.71
+PER_0197,Dev Rao,47,Male,Lieutenant,0.39
+PER_0198,Rahul Patel,27,Male,Informant,0.44
+PER_0199,Amit Mehta,51,Male,Lieutenant,0.81
+PER_0200,Rohan Ali,60,Female,Smuggler,0.48
+PER_0201,Neha Bose,40,Male,Associate,0.47
+PER_0202,Kabir Joshi,46,Male,Money Launderer,0.43
+PER_0203,Rahul Hussain,49,Male,Lieutenant,0.18
+PER_0204,Kabir Pillai,42,Male,Kingpin,0.62
+PER_0205,Sunil Hussain,26,Male,Associate,0.87
+PER_0206,Sai Malhotra,57,Male,Lieutenant,0.61
+PER_0207,Pooja Nair,61,Male,Lieutenant,0.41
+PER_0208,Ajay Reddy,36,Male,Associate,0.85
+PER_0209,Vihaan Mishra,61,Male,Money Launderer,0.13
+PER_0210,Ramesh Rao,38,Female,Informant,0.11
+PER_0211,Rahul Pandey,61,Male,Enforcer,0.76
+PER_0212,Vihaan Patel,52,Male,Associate,0.5
+PER_0213,Ananya Choudhury,38,Male,Lieutenant,0.89
+PER_0214,Rahul Khan,58,Male,Lieutenant,0.34
+PER_0215,Zubair Shah,57,Male,Money Launderer,0.29
+PER_0216,Rohan Choudhury,46,Male,Courier,0.57
+PER_0217,Rajesh Verma,33,Male,Kingpin,0.11
+PER_0218,Rajesh Singh,27,Male,Money Launderer,0.39
+PER_0219,Aarav Shah,46,Male,Associate,0.57
+PER_0220,Neha Deshmukh,54,Male,Informant,0.16
+PER_0221,Aditya Bose,20,Male,Lieutenant,0.87
+PER_0222,Zubair Pandey,44,Male,Associate,0.36
+PER_0223,Imran Sharma,39,Male,Courier,0.84
+PER_0224,Ajay Patel,46,Male,Smuggler,0.49
+PER_0225,Imran Deshmukh,24,Male,Money Launderer,0.76
+PER_0226,Neha Joshi,29,Male,Lieutenant,0.57
+PER_0227,Isha Choudhury,41,Male,Enforcer,0.31
+PER_0228,Rahul Gupta,31,Male,Enforcer,0.78
+PER_0229,Reyansh Khan,59,Male,Courier,0.71
+PER_0230,Deepak Ali,39,Male,Lieutenant,0.52
+PER_0231,Rajesh Gupta,56,Male,Lieutenant,0.38
+PER_0232,Bilal Verma,22,Male,Money Launderer,0.17
+PER_0233,Arjun Mishra,57,Male,Courier,0.62
+PER_0234,Aditya Mehta,55,Male,Informant,0.64
+PER_0235,Rahul Verma,47,Male,Informant,0.97
+PER_0236,Arjun Deshmukh,60,Male,Smuggler,0.73
+PER_0237,Bilal Deshmukh,52,Male,Informant,0.43
+PER_0238,Amit Das,45,Male,Kingpin,0.8
+PER_0239,Sunil Patel,40,Male,Associate,0.35
+PER_0240,Rahul Joshi,24,Male,Enforcer,0.92
+PER_0241,Rajesh Ali,63,Male,Enforcer,0.63
+PER_0242,Arjun Malhotra,54,Male,Informant,0.82
+PER_0243,Arjun Ali,61,Male,Informant,0.12
+PER_0244,Rajesh Khan,32,Male,Courier,0.27
+PER_0245,Vikram Nair,23,Male,Lieutenant,0.55
+PER_0246,Aditya Hussain,40,Female,Enforcer,0.63
+PER_0247,Rahul Khan,30,Male,Enforcer,0.74
+PER_0248,Aditya Bose,42,Male,Smuggler,0.96
+PER_0249,Amit Pillai,47,Male,Smuggler,0.38
+PER_0250,Anil Singh,42,Male,Courier,0.51
+PER_0251,Amit Das,51,Male,Enforcer,0.83
+PER_0252,Vikram Gupta,22,Male,Informant,0.59
+PER_0253,Kabir Rao,52,Female,Money Launderer,0.17
+PER_0254,Ananya Gupta,47,Female,Enforcer,0.84
+PER_0255,Arjun Kumar,47,Female,Kingpin,0.47
+PER_0256,Imran Deshmukh,42,Male,Lieutenant,0.43
+PER_0257,Vihaan Joshi,25,Male,Informant,0.8
+PER_0258,Vikram Verma,37,Female,Courier,0.72
+PER_0259,Vikram Rao,49,Male,Kingpin,0.91
+PER_0260,Vihaan Gupta,32,Male,Associate,0.2
+PER_0261,Amit Kumar,38,Male,Smuggler,0.47
+PER_0262,Sanjay Patel,26,Male,Courier,0.63
+PER_0263,Vihaan Ali,51,Male,Enforcer,0.36
+PER_0264,Aarav Mishra,41,Male,Associate,0.27
+PER_0265,Arjun Deshmukh,42,Male,Kingpin,0.45
+PER_0266,Anil Verma,59,Male,Informant,0.33
+PER_0267,Vihaan Choudhury,23,Male,Lieutenant,0.79
+PER_0268,Sunil Nair,21,Male,Informant,0.82
+PER_0269,Diya Hussain,48,Female,Courier,0.66
+PER_0270,Vikram Patel,64,Male,Courier,0.13
+PER_0271,Isha Verma,31,Female,Informant,0.93
+PER_0272,Imran Yadav,49,Male,Smuggler,0.35
+PER_0273,Sai Ali,40,Male,Informant,0.49
+PER_0274,Imran Pillai,47,Female,Associate,0.4
+PER_0275,Diya Shah,63,Male,Money Launderer,0.81
+PER_0276,Zubair Patel,46,Male,Enforcer,0.59
+PER_0277,Deepak Reddy,24,Male,Money Launderer,0.37
+PER_0278,Zubair Khan,63,Male,Courier,0.14
+PER_0279,Manoj Mishra,46,Male,Kingpin,0.17
+PER_0280,Imran Choudhury,51,Male,Enforcer,0.95
+PER_0281,Rahul Mishra,62,Male,Kingpin,0.21
+PER_0282,Priya Ali,42,Male,Kingpin,0.64
+PER_0283,Bilal Choudhury,42,Male,Lieutenant,0.61
+PER_0284,Ajay Das,39,Male,Smuggler,0.95
+PER_0285,Vihaan Pillai,30,Male,Associate,0.91
+PER_0286,Rohan Gupta,35,Male,Smuggler,0.99
+PER_0287,Amit Rao,50,Male,Enforcer,0.86
+PER_0288,Bilal Khan,64,Male,Lieutenant,0.82
+PER_0289,Deepak Hussain,41,Male,Money Launderer,0.89
+PER_0290,Ananya Rao,64,Female,Enforcer,0.81
+PER_0291,Neha Reddy,31,Male,Smuggler,0.8
+PER_0292,Vihaan Choudhury,54,Male,Courier,0.82
+PER_0293,Vikram Mishra,24,Male,Associate,0.99
+PER_0294,Anil Deshmukh,45,Male,Lieutenant,0.21
+PER_0295,Deepak Ali,23,Male,Informant,0.21
+PER_0296,Diya Nair,46,Male,Kingpin,0.84
+PER_0297,Rahul Malhotra,29,Male,Smuggler,0.41
+PER_0298,Amit Patel,35,Male,Money Launderer,0.21
+PER_0299,Rajesh Mishra,53,Male,Enforcer,0.63
+PER_0300,Rahul Khan,61,Male,Informant,0.85
+PER_0301,Aditya Sharma,24,Male,Money Launderer,0.68
+PER_0302,Tariq Mishra,59,Male,Money Launderer,0.67
+PER_0303,Rajesh Shah,34,Male,Associate,0.36
+PER_0304,Reyansh Rao,22,Male,Associate,0.53
+PER_0305,Pooja Joshi,57,Male,Informant,0.75
+PER_0306,Manoj Das,27,Male,Lieutenant,0.38
+PER_0307,Sanjay Reddy,36,Male,Enforcer,0.19
+PER_0308,Amit Das,58,Male,Enforcer,0.82
+PER_0309,Deepak Singh,29,Male,Courier,0.54
+PER_0310,Rajesh Shah,20,Male,Associate,0.55
+PER_0311,Priya Singh,56,Male,Kingpin,0.35
+PER_0312,Anil Malhotra,53,Male,Lieutenant,0.48
+PER_0313,Suresh Pillai,42,Male,Informant,0.14
+PER_0314,Sai Pandey,54,Male,Money Launderer,0.17
+PER_0315,Bilal Yadav,36,Male,Lieutenant,0.21
+PER_0316,Kabir Das,42,Male,Informant,0.6
+PER_0317,Ajay Nair,31,Male,Associate,0.55
+PER_0318,Aditya Verma,27,Male,Courier,0.56
+PER_0319,Rahul Mishra,51,Male,Informant,0.24
+PER_0320,Rajesh Pandey,40,Male,Courier,0.73
+PER_0321,Rajesh Shah,20,Male,Lieutenant,0.97
+PER_0322,Rajesh Pillai,63,Male,Courier,0.34
+PER_0323,Neha Pillai,22,Male,Enforcer,0.57
+PER_0324,Farhan Nair,62,Male,Lieutenant,0.27
+PER_0325,Bilal Joshi,45,Male,Smuggler,0.47
+PER_0326,Anil Pillai,65,Male,Enforcer,0.56
+PER_0327,Deepak Hussain,49,Male,Informant,0.95
+PER_0328,Sanjay Yadav,40,Male,Money Launderer,0.64
+PER_0329,Isha Kumar,36,Male,Smuggler,0.94
+PER_0330,Rajesh Malhotra,64,Male,Courier,0.38
+PER_0331,Manoj Yadav,65,Male,Lieutenant,0.61
+PER_0332,Farhan Das,41,Female,Enforcer,0.36
+PER_0333,Amit Rao,24,Male,Courier,0.68
+PER_0334,Anil Singh,31,Male,Money Launderer,0.93
+PER_0335,Ramesh Nair,25,Male,Smuggler,0.32
+PER_0336,Neha Ali,33,Male,Associate,0.39
+PER_0337,Anil Reddy,62,Male,Kingpin,0.96
+PER_0338,Ananya Bose,60,Female,Courier,0.52
+PER_0339,Isha Malhotra,39,Male,Kingpin,0.91
+PER_0340,Arjun Ali,55,Male,Kingpin,0.91
+PER_0341,Diya Bose,30,Female,Kingpin,0.99
+PER_0342,Imran Shah,30,Female,Money Launderer,0.88
+PER_0343,Aarav Malhotra,55,Male,Informant,0.35
+PER_0344,Dev Nair,51,Male,Smuggler,0.82
+PER_0345,Sunil Khan,65,Male,Money Launderer,0.74
+PER_0346,Aarav Pillai,40,Male,Smuggler,0.26
+PER_0347,Imran Bose,51,Male,Associate,0.7
+PER_0348,Diya Nair,49,Male,Smuggler,0.11
+PER_0349,Farhan Kumar,47,Male,Informant,0.37
+PER_0350,Aarav Gupta,60,Male,Smuggler,0.16
+PER_0351,Rohan Mehta,38,Male,Money Launderer,0.71
+PER_0352,Amit Choudhury,58,Male,Enforcer,0.53
+PER_0353,Sanjay Pillai,57,Male,Courier,0.77
+PER_0354,Pooja Kumar,62,Male,Lieutenant,0.57
+PER_0355,Ajay Patel,55,Male,Smuggler,0.61
+PER_0356,Rahul Khan,39,Female,Courier,0.2
+PER_0357,Pooja Rao,56,Male,Courier,0.82
+PER_0358,Sanjay Nair,51,Male,Kingpin,0.6
+PER_0359,Rajesh Pillai,20,Male,Kingpin,0.76
+PER_0360,Reyansh Verma,46,Male,Lieutenant,0.58
+PER_0361,Sai Patel,49,Male,Associate,0.26
+PER_0362,Vikram Ali,65,Male,Associate,0.43
+PER_0363,Farhan Mehta,43,Male,Enforcer,0.68
+PER_0364,Manoj Reddy,30,Female,Associate,0.57
+PER_0365,Neha Sharma,20,Female,Courier,0.7
+PER_0366,Zubair Yadav,43,Male,Smuggler,0.51
+PER_0367,Rahul Gupta,31,Female,Lieutenant,0.13
+PER_0368,Tariq Mishra,20,Male,Lieutenant,0.19
+PER_0369,Aditya Mehta,57,Male,Kingpin,0.32
+PER_0370,Aditya Das,47,Male,Smuggler,0.77
+PER_0371,Sai Nair,51,Female,Smuggler,0.83
+PER_0372,Deepak Pandey,57,Male,Informant,0.31
+PER_0373,Rahul Hussain,52,Male,Money Launderer,0.34
+PER_0374,Diya Ali,62,Male,Courier,0.14
+PER_0375,Manoj Ali,61,Male,Informant,0.72
+PER_0376,Tariq Nair,38,Male,Courier,0.31
+PER_0377,Neha Malhotra,64,Male,Courier,0.91
+PER_0378,Tariq Bose,54,Male,Associate,0.32
+PER_0379,Pooja Joshi,60,Male,Courier,0.85
+PER_0380,Arjun Yadav,65,Male,Kingpin,0.34
+PER_0381,Aditya Patel,31,Male,Smuggler,0.53
+PER_0382,Sunil Malhotra,19,Male,Smuggler,0.96
+PER_0383,Rohan Pillai,49,Female,Smuggler,0.45
+PER_0384,Priya Yadav,39,Male,Associate,0.51
+PER_0385,Manoj Malhotra,35,Male,Courier,0.51
+PER_0386,Anil Joshi,32,Male,Associate,0.14
+PER_0387,Neha Pillai,28,Male,Associate,0.36
+PER_0388,Isha Joshi,33,Male,Smuggler,0.54
+PER_0389,Sunil Gupta,50,Female,Courier,0.51
+PER_0390,Manoj Khan,27,Male,Courier,0.26
+PER_0391,Sai Deshmukh,21,Male,Lieutenant,0.94
+PER_0392,Sai Sharma,45,Male,Smuggler,0.16
+PER_0393,Rahul Sharma,32,Male,Informant,0.15
+PER_0394,Anil Hussain,50,Male,Associate,0.11
+PER_0395,Ramesh Yadav,37,Male,Associate,0.82
+PER_0396,Diya Reddy,25,Male,Smuggler,0.27
+PER_0397,Suresh Choudhury,36,Male,Lieutenant,0.43
+PER_0398,Imran Mehta,55,Male,Smuggler,0.37
+PER_0399,Arjun Ali,60,Male,Lieutenant,0.46
+PER_0400,Farhan Yadav,49,Male,Kingpin,0.73
+PER_0401,Arjun Shah,46,Male,Informant,0.6
+PER_0402,Kabir Deshmukh,21,Male,Courier,0.34
+PER_0403,Reyansh Hussain,36,Female,Kingpin,0.26
+PER_0404,Deepak Sharma,32,Male,Associate,0.93
+PER_0405,Rajesh Khan,55,Male,Associate,0.7
+PER_0406,Sunil Das,27,Male,Lieutenant,0.55
+PER_0407,Manoj Verma,25,Male,Lieutenant,0.4
+PER_0408,Imran Joshi,20,Male,Courier,0.54
+PER_0409,Manoj Yadav,43,Male,Associate,0.18
+PER_0410,Amit Kumar,64,Male,Money Launderer,0.24
+PER_0411,Rahul Pillai,43,Male,Lieutenant,0.18
+PER_0412,Rajesh Mehta,42,Male,Lieutenant,0.22
+PER_0413,Diya Bose,47,Male,Associate,0.19
+PER_0414,Arjun Choudhury,54,Male,Informant,0.87
+PER_0415,Aarav Malhotra,45,Male,Lieutenant,0.75
+PER_0416,Priya Pandey,52,Male,Associate,0.25
+PER_0417,Ramesh Malhotra,36,Male,Lieutenant,0.25
+PER_0418,Ramesh Bose,38,Male,Lieutenant,0.42
+PER_0419,Priya Pillai,59,Male,Smuggler,0.51
+PER_0420,Vikram Malhotra,19,Female,Informant,0.85
+PER_0421,Farhan Joshi,47,Male,Enforcer,0.37
+PER_0422,Isha Shah,39,Male,Associate,0.96
+PER_0423,Amit Pillai,63,Male,Smuggler,0.39
+PER_0424,Ramesh Das,42,Male,Smuggler,0.63
+PER_0425,Diya Hussain,54,Male,Courier,0.94
+PER_0426,Pooja Mehta,37,Male,Lieutenant,0.83
+PER_0427,Tariq Hussain,50,Male,Money Launderer,0.32
+PER_0428,Rahul Rao,46,Male,Lieutenant,0.5
+PER_0429,Anil Pandey,44,Male,Associate,0.58
+PER_0430,Ajay Rao,53,Male,Lieutenant,0.2
+PER_0431,Priya Hussain,61,Male,Kingpin,0.6
+PER_0432,Imran Joshi,46,Male,Lieutenant,0.33
+PER_0433,Neha Mehta,42,Male,Enforcer,0.41
+PER_0434,Vihaan Shah,25,Male,Lieutenant,0.2
+PER_0435,Rahul Choudhury,38,Male,Smuggler,0.56
+PER_0436,Manoj Shah,25,Male,Courier,0.38
+PER_0437,Rajesh Verma,64,Male,Informant,0.68
+PER_0438,Ananya Pillai,34,Male,Enforcer,0.39
+PER_0439,Zubair Mehta,33,Male,Enforcer,0.27
+PER_0440,Zubair Das,20,Male,Smuggler,0.5
+PER_0441,Zubair Das,19,Male,Smuggler,0.35
+PER_0442,Reyansh Pandey,25,Male,Enforcer,0.43
+PER_0443,Isha Mehta,26,Male,Courier,0.57
+PER_0444,Deepak Mishra,43,Male,Lieutenant,0.41
+PER_0445,Sanjay Mishra,30,Male,Money Launderer,0.92
+PER_0446,Arjun Hussain,27,Male,Smuggler,0.37
+PER_0447,Diya Choudhury,63,Male,Associate,0.47
+PER_0448,Vikram Pandey,43,Male,Courier,0.67
+PER_0449,Diya Yadav,29,Male,Enforcer,0.27
+PER_0450,Bilal Mishra,22,Female,Kingpin,0.53
+PER_0451,Isha Das,54,Male,Courier,0.46
+PER_0452,Dev Bose,64,Male,Courier,0.25
+PER_0453,Vihaan Kumar,37,Male,Smuggler,0.58
+PER_0454,Ananya Mehta,55,Male,Courier,0.59
+PER_0455,Rohan Pandey,26,Male,Informant,0.58
+PER_0456,Aditya Pillai,47,Male,Associate,0.19
+PER_0457,Priya Malhotra,21,Male,Informant,0.87
+PER_0458,Arjun Mehta,26,Male,Smuggler,0.29
+PER_0459,Manoj Rao,58,Male,Enforcer,0.65
+PER_0460,Pooja Singh,22,Male,Money Launderer,0.63
+PER_0461,Ananya Joshi,64,Male,Money Launderer,0.95
+PER_0462,Kabir Nair,45,Female,Money Launderer,0.87
+PER_0463,Vikram Rao,27,Male,Informant,0.84
+PER_0464,Imran Shah,28,Male,Money Launderer,0.66
+PER_0465,Farhan Mehta,23,Male,Lieutenant,0.46
+PER_0466,Ramesh Rao,42,Male,Courier,0.39
+PER_0467,Aarav Pillai,24,Male,Courier,0.67
+PER_0468,Manoj Patel,53,Male,Associate,0.83
+PER_0469,Dev Gupta,39,Male,Informant,0.59
+PER_0470,Vikram Pandey,50,Male,Kingpin,0.14
+PER_0471,Sanjay Sharma,26,Female,Enforcer,0.49
+PER_0472,Aarav Bose,31,Female,Enforcer,0.89
+PER_0473,Rajesh Khan,36,Male,Informant,0.32
+PER_0474,Ajay Hussain,60,Male,Associate,0.66
+PER_0475,Neha Bose,60,Male,Lieutenant,0.1
+PER_0476,Anil Patel,27,Male,Courier,0.11
+PER_0477,Sunil Reddy,46,Male,Courier,0.16
+PER_0478,Farhan Patel,65,Male,Lieutenant,0.38
+PER_0479,Rajesh Nair,43,Male,Enforcer,0.67
+PER_0480,Rahul Patel,52,Male,Enforcer,0.49
+PER_0481,Pooja Ali,28,Female,Courier,0.87
+PER_0482,Arjun Reddy,27,Male,Associate,0.41
+PER_0483,Zubair Joshi,27,Male,Lieutenant,0.32
+PER_0484,Amit Rao,20,Male,Money Launderer,0.28
+PER_0485,Isha Pillai,44,Male,Kingpin,0.8
+PER_0486,Priya Shah,43,Male,Courier,0.67
+PER_0487,Reyansh Deshmukh,19,Female,Informant,0.22
+PER_0488,Tariq Choudhury,53,Male,Courier,0.95
+PER_0489,Reyansh Sharma,56,Male,Money Launderer,0.29
+PER_0490,Sai Das,51,Male,Associate,0.48
+PER_0491,Imran Patel,59,Male,Enforcer,0.35
+PER_0492,Rajesh Patel,51,Female,Enforcer,0.58
+PER_0493,Imran Pandey,59,Male,Lieutenant,0.38
+PER_0494,Zubair Pillai,34,Male,Lieutenant,0.92
+PER_0495,Rohan Mehta,58,Male,Money Launderer,0.69
+PER_0496,Diya Reddy,19,Male,Kingpin,0.25
+PER_0497,Manoj Deshmukh,52,Male,Money Launderer,0.25
+PER_0498,Vikram Pillai,36,Male,Lieutenant,0.79
+PER_0499,Vihaan Joshi,46,Male,Lieutenant,0.33
+PER_0500,Reyansh Shah,48,Male,Kingpin,0.54
+PER_0501,Ananya Choudhury,29,Male,Lieutenant,0.9
+PER_0502,Rohan Kumar,51,Male,Kingpin,0.32
+PER_0503,Anil Choudhury,43,Female,Enforcer,0.93
+PER_0504,Aditya Yadav,64,Male,Associate,0.3
+PER_0505,Priya Bose,65,Male,Lieutenant,0.61
+PER_0506,Rohan Deshmukh,62,Female,Enforcer,0.3
+PER_0507,Aditya Das,23,Female,Money Launderer,0.79
+PER_0508,Rajesh Joshi,24,Male,Kingpin,0.43
+PER_0509,Amit Pandey,38,Male,Smuggler,0.51
+PER_0510,Dev Singh,65,Female,Smuggler,0.23
+PER_0511,Tariq Sharma,33,Male,Kingpin,0.95
+PER_0512,Aarav Hussain,43,Male,Money Launderer,0.19
+PER_0513,Priya Bose,50,Female,Enforcer,0.73
+PER_0514,Arjun Verma,33,Female,Associate,0.72
+PER_0515,Ajay Mehta,24,Male,Enforcer,0.67
+PER_0516,Imran Patel,56,Male,Associate,0.69
+PER_0517,Vikram Kumar,37,Male,Informant,0.92
+PER_0518,Imran Rao,39,Male,Money Launderer,0.31
+PER_0519,Isha Nair,56,Male,Lieutenant,0.25
+PER_0520,Sanjay Joshi,45,Male,Informant,0.96
+PER_0521,Pooja Mehta,38,Male,Lieutenant,0.18
+PER_0522,Rajesh Rao,63,Male,Smuggler,0.84
+PER_0523,Deepak Nair,24,Male,Informant,0.45
+PER_0524,Sai Hussain,38,Male,Enforcer,0.13
+PER_0525,Imran Mehta,54,Male,Smuggler,0.18
+PER_0526,Kabir Nair,26,Male,Smuggler,0.22
+PER_0527,Imran Choudhury,62,Male,Lieutenant,0.62
+PER_0528,Suresh Patel,20,Female,Smuggler,0.9
+PER_0529,Bilal Nair,24,Female,Informant,0.21
+PER_0530,Sanjay Verma,29,Female,Associate,0.83
+PER_0531,Imran Shah,20,Male,Associate,0.25
+PER_0532,Pooja Khan,36,Male,Enforcer,0.13
+PER_0533,Priya Ali,37,Male,Courier,0.15
+PER_0534,Ramesh Das,27,Male,Smuggler,0.66
+PER_0535,Vihaan Das,64,Male,Courier,0.41
+PER_0536,Deepak Das,36,Male,Informant,0.63
+PER_0537,Vihaan Gupta,22,Male,Courier,0.57
+PER_0538,Neha Khan,25,Male,Smuggler,0.34
+PER_0539,Sai Kumar,55,Male,Associate,0.42
+PER_0540,Diya Khan,34,Male,Informant,0.91
+PER_0541,Vihaan Rao,63,Male,Enforcer,0.6
+PER_0542,Isha Shah,53,Male,Courier,0.13
+PER_0543,Sai Kumar,57,Male,Courier,0.1
+PER_0544,Isha Nair,40,Male,Informant,0.15
+PER_0545,Rahul Pandey,64,Female,Lieutenant,0.85
+PER_0546,Ajay Patel,42,Male,Associate,0.62
+PER_0547,Sunil Malhotra,39,Male,Enforcer,0.75
+PER_0548,Zubair Ali,50,Male,Enforcer,0.73
+PER_0549,Manoj Kumar,61,Male,Enforcer,0.44
+PER_0550,Amit Nair,30,Male,Associate,0.86
+PER_0551,Aditya Khan,57,Male,Smuggler,0.67
+PER_0552,Kabir Shah,28,Male,Lieutenant,0.31
+PER_0553,Deepak Khan,59,Female,Lieutenant,0.83
+PER_0554,Sunil Mehta,19,Male,Smuggler,0.72
+PER_0555,Manoj Gupta,25,Male,Kingpin,0.44
+PER_0556,Tariq Khan,45,Male,Associate,0.41
+PER_0557,Farhan Reddy,49,Male,Smuggler,0.24
+PER_0558,Reyansh Verma,37,Male,Money Launderer,0.95
+PER_0559,Reyansh Joshi,29,Female,Enforcer,0.75
+PER_0560,Arjun Joshi,57,Female,Courier,0.73
+PER_0561,Zubair Ali,29,Male,Associate,0.24
+PER_0562,Kabir Joshi,32,Female,Associate,0.72
+PER_0563,Suresh Hussain,37,Male,Lieutenant,0.14
+PER_0564,Dev Nair,22,Male,Associate,0.18
+PER_0565,Anil Singh,25,Male,Enforcer,0.67
+PER_0566,Arjun Shah,26,Male,Associate,0.52
+PER_0567,Suresh Patel,60,Male,Enforcer,0.43
+PER_0568,Farhan Choudhury,30,Male,Money Launderer,0.49
+PER_0569,Suresh Kumar,36,Male,Enforcer,0.77
+PER_0570,Kabir Patel,61,Male,Associate,0.96
+PER_0571,Neha Yadav,22,Male,Associate,0.96
+PER_0572,Anil Pandey,34,Male,Lieutenant,0.45
+PER_0573,Aditya Deshmukh,55,Female,Enforcer,0.21
+PER_0574,Bilal Khan,29,Female,Smuggler,0.21
+PER_0575,Zubair Patel,62,Male,Enforcer,0.84
+PER_0576,Suresh Joshi,65,Female,Lieutenant,0.18
+PER_0577,Imran Yadav,39,Female,Courier,0.92
+PER_0578,Aarav Rao,58,Male,Associate,0.2
+PER_0579,Rahul Nair,55,Male,Lieutenant,0.92
+PER_0580,Kabir Malhotra,53,Female,Associate,0.34
+PER_0581,Dev Pandey,57,Male,Enforcer,0.35
+PER_0582,Rahul Mishra,57,Male,Associate,0.13
+PER_0583,Sunil Rao,34,Male,Courier,0.92
+PER_0584,Ajay Sharma,40,Male,Money Launderer,0.38
+PER_0585,Dev Rao,62,Male,Smuggler,0.22
+PER_0586,Bilal Joshi,36,Male,Lieutenant,0.27
+PER_0587,Pooja Bose,50,Male,Informant,0.83
+PER_0588,Ananya Patel,38,Male,Associate,0.22
+PER_0589,Vihaan Khan,31,Female,Smuggler,0.84
+PER_0590,Priya Verma,48,Male,Informant,0.73
+PER_0591,Ramesh Choudhury,48,Male,Lieutenant,0.71
+PER_0592,Priya Choudhury,50,Male,Enforcer,0.95
+PER_0593,Anil Pandey,54,Male,Enforcer,0.85
+PER_0594,Suresh Pillai,63,Male,Kingpin,0.44
+PER_0595,Ananya Pandey,32,Female,Smuggler,0.7
+PER_0596,Ramesh Ali,45,Male,Kingpin,0.52
+PER_0597,Vikram Ali,30,Male,Kingpin,0.3
+PER_0598,Rajesh Rao,64,Male,Associate,0.9
+PER_0599,Manoj Mehta,35,Male,Money Launderer,0.7
+PER_0600,Imran Pandey,25,Male,Informant,0.6
+PER_0601,Amit Malhotra,62,Male,Lieutenant,0.4
+PER_0602,Ramesh Ali,39,Female,Money Launderer,0.68
+PER_0603,Rajesh Singh,28,Male,Smuggler,0.9
+PER_0604,Imran Hussain,39,Male,Kingpin,0.68
+PER_0605,Amit Gupta,45,Male,Kingpin,0.62
+PER_0606,Isha Joshi,65,Male,Courier,0.91
+PER_0607,Manoj Deshmukh,38,Male,Enforcer,0.36
+PER_0608,Anil Nair,35,Male,Enforcer,0.94
+PER_0609,Sunil Ali,24,Male,Smuggler,0.76
+PER_0610,Rajesh Bose,40,Male,Money Launderer,0.51
+PER_0611,Rohan Shah,22,Female,Lieutenant,0.52
+PER_0612,Isha Deshmukh,26,Female,Associate,0.57
+PER_0613,Tariq Verma,28,Male,Smuggler,0.4
+PER_0614,Sanjay Nair,39,Female,Enforcer,0.79
+PER_0615,Dev Joshi,59,Female,Informant,0.66
+PER_0616,Aarav Mehta,36,Male,Enforcer,0.61
+PER_0617,Ananya Shah,24,Male,Associate,0.66
+PER_0618,Imran Bose,49,Male,Kingpin,0.58
+PER_0619,Ajay Sharma,39,Male,Smuggler,0.12
+PER_0620,Aarav Ali,65,Male,Informant,0.38
+PER_0621,Kabir Das,51,Male,Enforcer,0.16
+PER_0622,Aditya Malhotra,37,Male,Informant,0.49
+PER_0623,Vikram Joshi,50,Male,Smuggler,0.25
+PER_0624,Imran Sharma,33,Male,Enforcer,0.29
+PER_0625,Vihaan Pandey,51,Male,Informant,0.73
+PER_0626,Aditya Das,59,Male,Kingpin,0.63
+PER_0627,Sai Hussain,25,Male,Kingpin,0.14
+PER_0628,Rohan Bose,47,Male,Money Launderer,0.52
+PER_0629,Rahul Singh,63,Male,Kingpin,0.37
+PER_0630,Kabir Hussain,52,Male,Enforcer,0.47
+PER_0631,Kabir Deshmukh,65,Male,Money Launderer,0.2
+PER_0632,Kabir Shah,31,Male,Money Launderer,0.84
+PER_0633,Isha Choudhury,64,Male,Enforcer,0.14
+PER_0634,Dev Singh,63,Female,Informant,0.31
+PER_0635,Aarav Hussain,24,Female,Courier,0.23
+PER_0636,Arjun Deshmukh,23,Male,Lieutenant,0.91
+PER_0637,Neha Mehta,37,Male,Kingpin,0.19
+PER_0638,Diya Verma,37,Male,Informant,0.48
+PER_0639,Rohan Reddy,21,Male,Enforcer,0.69
+PER_0640,Ananya Joshi,41,Female,Money Launderer,0.88
+PER_0641,Arjun Choudhury,40,Male,Associate,0.46
+PER_0642,Sanjay Gupta,43,Male,Courier,0.81
+PER_0643,Ananya Reddy,27,Male,Kingpin,0.97
+PER_0644,Ananya Reddy,45,Female,Courier,0.81
+PER_0645,Bilal Khan,58,Male,Informant,0.64
+PER_0646,Vikram Shah,50,Male,Associate,0.49
+PER_0647,Reyansh Gupta,60,Male,Smuggler,0.97
+PER_0648,Sunil Deshmukh,52,Male,Lieutenant,0.49
+PER_0649,Priya Shah,41,Male,Associate,0.23
+PER_0650,Sai Sharma,60,Female,Courier,0.86
+PER_0651,Ananya Patel,50,Male,Informant,0.96
+PER_0652,Sai Deshmukh,33,Male,Associate,0.46
+PER_0653,Priya Patel,48,Male,Courier,0.18
+PER_0654,Dev Mehta,39,Male,Courier,0.76
+PER_0655,Vihaan Reddy,44,Male,Kingpin,0.84
+PER_0656,Rajesh Deshmukh,54,Male,Courier,0.95
+PER_0657,Ajay Verma,33,Male,Informant,0.6
+PER_0658,Anil Rao,61,Male,Courier,0.2
+PER_0659,Neha Sharma,40,Male,Money Launderer,0.59
+PER_0660,Ajay Rao,25,Male,Enforcer,0.54
+PER_0661,Tariq Reddy,35,Male,Smuggler,0.21
+PER_0662,Imran Singh,48,Male,Smuggler,0.74
+PER_0663,Kabir Bose,21,Female,Lieutenant,0.79
+PER_0664,Bilal Mehta,61,Male,Enforcer,0.96
+PER_0665,Aarav Deshmukh,22,Male,Associate,0.85
+PER_0666,Anil Deshmukh,30,Male,Enforcer,0.75
+PER_0667,Vikram Reddy,43,Male,Informant,0.55
+PER_0668,Farhan Bose,57,Female,Smuggler,0.34
+PER_0669,Sunil Malhotra,47,Male,Enforcer,0.47
+PER_0670,Rajesh Rao,54,Female,Smuggler,0.28
+PER_0671,Amit Hussain,41,Female,Enforcer,0.97
+PER_0672,Diya Deshmukh,53,Male,Informant,0.73
+PER_0673,Manoj Yadav,49,Male,Associate,0.7
+PER_0674,Amit Bose,19,Male,Kingpin,0.44
+PER_0675,Sai Hussain,22,Male,Enforcer,0.98
+PER_0676,Suresh Nair,22,Male,Money Launderer,0.28
+PER_0677,Aditya Choudhury,47,Male,Smuggler,0.76
+PER_0678,Farhan Kumar,51,Male,Money Launderer,0.72
+PER_0679,Sai Das,43,Male,Informant,0.96
+PER_0680,Sai Sharma,35,Male,Courier,0.84
+PER_0681,Ajay Pandey,53,Male,Smuggler,0.79
+PER_0682,Isha Malhotra,47,Male,Lieutenant,0.27
+PER_0683,Diya Pillai,51,Male,Kingpin,0.48
+PER_0684,Suresh Nair,29,Male,Money Launderer,0.11
+PER_0685,Sanjay Rao,28,Male,Informant,0.63
+PER_0686,Rajesh Shah,55,Male,Lieutenant,0.8
+PER_0687,Deepak Deshmukh,33,Female,Lieutenant,0.8
+PER_0688,Ananya Bose,53,Male,Lieutenant,0.41
+PER_0689,Pooja Hussain,40,Male,Money Launderer,0.29
+PER_0690,Anil Yadav,60,Male,Informant,0.5
+PER_0691,Priya Verma,62,Female,Associate,0.92
+PER_0692,Rohan Das,35,Male,Money Launderer,0.12
+PER_0693,Ajay Deshmukh,51,Male,Kingpin,0.36
+PER_0694,Isha Joshi,51,Male,Lieutenant,0.25
+PER_0695,Aarav Ali,23,Male,Smuggler,0.87
+PER_0696,Zubair Reddy,32,Male,Associate,0.68
+PER_0697,Reyansh Pillai,62,Male,Courier,0.74
+PER_0698,Aditya Patel,23,Male,Money Launderer,0.6
+PER_0699,Neha Gupta,45,Male,Associate,0.49
+PER_0700,Vihaan Das,62,Male,Kingpin,0.67
+PER_0701,Reyansh Pillai,56,Male,Lieutenant,0.42
+PER_0702,Kabir Malhotra,62,Male,Lieutenant,0.35
+PER_0703,Bilal Das,44,Male,Kingpin,0.52
+PER_0704,Neha Nair,44,Male,Money Launderer,0.95
+PER_0705,Rahul Malhotra,62,Female,Informant,0.95
+PER_0706,Aarav Yadav,54,Male,Kingpin,0.1
+PER_0707,Imran Yadav,54,Female,Money Launderer,0.29
+PER_0708,Manoj Singh,45,Female,Enforcer,0.24
+PER_0709,Neha Mishra,35,Male,Enforcer,0.7
+PER_0710,Sai Yadav,48,Male,Lieutenant,0.36
+PER_0711,Reyansh Gupta,25,Male,Courier,0.95
+PER_0712,Manoj Nair,61,Male,Lieutenant,0.35
+PER_0713,Reyansh Singh,39,Male,Informant,0.65
+PER_0714,Rajesh Rao,56,Male,Informant,0.82
+PER_0715,Zubair Khan,19,Male,Smuggler,0.73
+PER_0716,Zubair Gupta,42,Male,Informant,0.88
+PER_0717,Sanjay Mehta,41,Male,Courier,0.59
+PER_0718,Diya Ali,57,Male,Money Launderer,0.86
+PER_0719,Vikram Yadav,31,Male,Lieutenant,0.75
+PER_0720,Vihaan Deshmukh,59,Male,Associate,0.78
+PER_0721,Pooja Verma,54,Male,Courier,0.68
+PER_0722,Rahul Choudhury,44,Male,Money Launderer,0.22
+PER_0723,Arjun Das,42,Male,Smuggler,0.85
+PER_0724,Ananya Deshmukh,27,Male,Enforcer,0.6
+PER_0725,Rahul Pillai,65,Male,Informant,0.14
+PER_0726,Dev Kumar,23,Male,Smuggler,0.14
+PER_0727,Pooja Deshmukh,42,Male,Courier,0.88
+PER_0728,Aditya Ali,39,Male,Money Launderer,0.84
+PER_0729,Suresh Pandey,53,Male,Associate,0.68
+PER_0730,Ajay Pandey,60,Female,Lieutenant,0.56
+PER_0731,Farhan Kumar,52,Male,Informant,0.53
+PER_0732,Anil Mishra,19,Male,Enforcer,0.49
+PER_0733,Neha Patel,51,Male,Smuggler,0.23
+PER_0734,Ananya Choudhury,57,Male,Lieutenant,0.69
+PER_0735,Tariq Joshi,65,Male,Courier,0.53
+PER_0736,Ananya Ali,45,Male,Kingpin,0.21
+PER_0737,Ananya Nair,59,Male,Enforcer,0.15
+PER_0738,Suresh Khan,52,Female,Kingpin,0.88
+PER_0739,Amit Patel,32,Male,Courier,0.87
+PER_0740,Ananya Kumar,45,Male,Enforcer,0.65
+PER_0741,Suresh Khan,65,Male,Courier,0.63
+PER_0742,Reyansh Kumar,43,Male,Lieutenant,0.11
+PER_0743,Tariq Nair,57,Male,Courier,0.9
+PER_0744,Aditya Yadav,51,Male,Lieutenant,0.53
+PER_0745,Vikram Mishra,53,Male,Associate,0.56
+PER_0746,Ajay Verma,63,Male,Smuggler,0.94
+PER_0747,Anil Das,41,Male,Lieutenant,0.48
+PER_0748,Suresh Shah,33,Female,Lieutenant,0.35
+PER_0749,Tariq Gupta,31,Male,Kingpin,0.61
+PER_0750,Rohan Deshmukh,19,Male,Smuggler,0.71
+PER_0751,Deepak Bose,42,Male,Associate,0.68
+PER_0752,Suresh Gupta,53,Male,Informant,0.64
+PER_0753,Imran Singh,45,Male,Courier,0.26
+PER_0754,Anil Gupta,38,Male,Associate,0.75
+PER_0755,Rohan Pillai,33,Male,Enforcer,0.19
+PER_0756,Imran Joshi,54,Male,Kingpin,0.24
+PER_0757,Aarav Patel,28,Male,Associate,0.18
+PER_0758,Suresh Kumar,42,Male,Kingpin,0.74
+PER_0759,Imran Mishra,60,Male,Kingpin,0.94
+PER_0760,Diya Ali,50,Male,Smuggler,0.86
+PER_0761,Amit Singh,21,Male,Smuggler,0.65
+PER_0762,Aditya Choudhury,34,Male,Enforcer,0.18
+PER_0763,Ramesh Das,41,Male,Associate,0.62
+PER_0764,Aarav Pillai,64,Male,Lieutenant,0.59
+PER_0765,Manoj Choudhury,36,Male,Smuggler,0.5
+PER_0766,Imran Pandey,19,Male,Associate,0.55
+PER_0767,Reyansh Deshmukh,37,Male,Lieutenant,0.81
+PER_0768,Suresh Yadav,55,Male,Courier,0.96
+PER_0769,Anil Kumar,40,Female,Courier,0.71
+PER_0770,Vihaan Shah,26,Male,Associate,0.66
+PER_0771,Neha Hussain,63,Male,Informant,0.47
+PER_0772,Manoj Deshmukh,53,Male,Money Launderer,0.32
+PER_0773,Arjun Das,62,Male,Informant,0.17
+PER_0774,Diya Shah,39,Male,Money Launderer,0.26
+PER_0775,Isha Shah,31,Male,Smuggler,0.88
+PER_0776,Pooja Kumar,31,Male,Informant,0.24
+PER_0777,Kabir Reddy,24,Male,Courier,0.65
+PER_0778,Aditya Shah,42,Male,Courier,0.9
+PER_0779,Ramesh Shah,30,Female,Money Launderer,0.45
+PER_0780,Vikram Verma,52,Male,Courier,0.94
+PER_0781,Aditya Deshmukh,41,Male,Enforcer,0.51
+PER_0782,Rohan Rao,52,Male,Kingpin,0.11
+PER_0783,Pooja Das,56,Male,Informant,0.65
+PER_0784,Suresh Khan,54,Male,Money Launderer,0.52
+PER_0785,Sunil Choudhury,30,Male,Smuggler,0.47
+PER_0786,Ajay Choudhury,44,Male,Enforcer,0.61
+PER_0787,Neha Reddy,65,Male,Smuggler,0.59
+PER_0788,Farhan Singh,28,Male,Enforcer,0.52
+PER_0789,Aarav Khan,45,Male,Informant,0.8
+PER_0790,Rajesh Gupta,54,Female,Kingpin,0.45
+PER_0791,Ananya Verma,32,Male,Courier,0.85
+PER_0792,Kabir Mehta,40,Male,Informant,0.6
+PER_0793,Suresh Choudhury,20,Male,Informant,0.87
+PER_0794,Isha Pandey,55,Male,Enforcer,0.97
+PER_0795,Amit Choudhury,39,Male,Courier,0.79
+PER_0796,Bilal Patel,43,Male,Courier,0.66
+PER_0797,Rahul Khan,59,Male,Informant,0.48
+PER_0798,Imran Patel,24,Male,Smuggler,0.38
+PER_0799,Amit Rao,36,Male,Associate,0.34
+PER_0800,Bilal Choudhury,56,Male,Courier,0.47
+PER_0801,Diya Sharma,27,Male,Money Launderer,0.94
+PER_0802,Arjun Singh,29,Male,Lieutenant,0.16
+PER_0803,Anil Yadav,22,Male,Associate,0.57
+PER_0804,Arjun Reddy,35,Male,Lieutenant,0.68
+PER_0805,Farhan Malhotra,33,Male,Money Launderer,0.49
+PER_0806,Vikram Nair,52,Male,Kingpin,0.13
+PER_0807,Manoj Joshi,49,Male,Money Launderer,0.59
+PER_0808,Vikram Rao,53,Male,Courier,0.66
+PER_0809,Zubair Deshmukh,59,Male,Money Launderer,0.91
+PER_0810,Anil Yadav,33,Male,Courier,0.37
+PER_0811,Tariq Gupta,28,Male,Kingpin,0.57
+PER_0812,Vikram Choudhury,37,Male,Kingpin,0.71
+PER_0813,Dev Shah,38,Male,Associate,0.81
+PER_0814,Neha Sharma,54,Male,Associate,0.89
+PER_0815,Zubair Das,34,Male,Associate,0.84
+PER_0816,Neha Gupta,24,Male,Smuggler,0.56
+PER_0817,Ramesh Malhotra,60,Male,Money Launderer,0.47
+PER_0818,Reyansh Khan,27,Male,Courier,0.65
+PER_0819,Ramesh Rao,58,Male,Informant,0.12
+PER_0820,Sai Yadav,20,Male,Lieutenant,0.35
+PER_0821,Vikram Rao,47,Male,Smuggler,0.18
+PER_0822,Aarav Shah,32,Male,Money Launderer,0.8
+PER_0823,Dev Choudhury,48,Male,Kingpin,0.39
+PER_0824,Rahul Verma,36,Male,Lieutenant,0.58
+PER_0825,Diya Singh,35,Male,Kingpin,0.21
+PER_0826,Priya Das,47,Male,Kingpin,0.28
+PER_0827,Kabir Deshmukh,61,Female,Courier,0.45
+PER_0828,Rajesh Joshi,29,Male,Kingpin,0.76
+PER_0829,Rohan Gupta,49,Male,Smuggler,0.42
+PER_0830,Sai Hussain,32,Female,Smuggler,0.66
+PER_0831,Deepak Sharma,29,Male,Lieutenant,0.45
+PER_0832,Priya Sharma,21,Male,Courier,0.71
+PER_0833,Rahul Choudhury,24,Male,Courier,0.18
+PER_0834,Sunil Ali,22,Male,Enforcer,0.72
+PER_0835,Kabir Nair,50,Male,Informant,0.82
+PER_0836,Bilal Pillai,31,Male,Associate,0.42
+PER_0837,Vikram Gupta,21,Male,Courier,0.6
+PER_0838,Dev Singh,55,Male,Informant,0.39
+PER_0839,Sanjay Gupta,57,Female,Enforcer,0.16
+PER_0840,Rahul Mehta,37,Male,Informant,0.5
+PER_0841,Farhan Pillai,30,Female,Informant,0.79
+PER_0842,Priya Joshi,65,Male,Associate,0.27
+PER_0843,Dev Yadav,28,Male,Informant,0.46
+PER_0844,Deepak Reddy,25,Male,Lieutenant,0.14
+PER_0845,Vikram Khan,21,Male,Courier,0.27
+PER_0846,Aditya Pandey,60,Male,Courier,0.57
+PER_0847,Suresh Verma,42,Male,Lieutenant,0.11
+PER_0848,Pooja Ali,50,Female,Lieutenant,0.52
+PER_0849,Sai Choudhury,54,Male,Associate,0.83
+PER_0850,Sai Mishra,36,Male,Lieutenant,0.84
+PER_0851,Reyansh Singh,52,Male,Smuggler,0.57
+PER_0852,Isha Singh,52,Male,Enforcer,0.6
+PER_0853,Tariq Pillai,25,Male,Informant,0.7
+PER_0854,Zubair Reddy,29,Male,Associate,0.55
+PER_0855,Ananya Yadav,57,Male,Informant,0.9
+PER_0856,Deepak Choudhury,45,Male,Associate,0.84
+PER_0857,Deepak Mishra,34,Male,Smuggler,0.43
+PER_0858,Suresh Choudhury,47,Male,Associate,0.1
+PER_0859,Aditya Malhotra,57,Male,Enforcer,0.98
+PER_0860,Rajesh Sharma,38,Female,Smuggler,0.86
+PER_0861,Vihaan Rao,36,Female,Enforcer,0.18
+PER_0862,Sanjay Choudhury,28,Male,Informant,0.89
+PER_0863,Priya Kumar,35,Male,Lieutenant,0.61
+PER_0864,Pooja Pillai,23,Male,Courier,0.25
+PER_0865,Kabir Mishra,60,Male,Associate,0.17
+PER_0866,Sai Joshi,41,Female,Associate,0.47
+PER_0867,Rohan Kumar,60,Male,Kingpin,0.66
+PER_0868,Farhan Verma,38,Male,Informant,0.58
+PER_0869,Rahul Joshi,51,Male,Enforcer,0.14
+PER_0870,Imran Mehta,57,Male,Lieutenant,0.3
+PER_0871,Amit Das,28,Male,Lieutenant,0.52
+PER_0872,Sai Yadav,44,Male,Associate,0.55
+PER_0873,Vikram Nair,49,Male,Courier,0.45
+PER_0874,Isha Yadav,58,Female,Smuggler,0.32
+PER_0875,Ramesh Bose,39,Male,Lieutenant,0.2
+PER_0876,Tariq Bose,42,Male,Informant,0.41
+PER_0877,Vihaan Malhotra,29,Female,Courier,0.65
+PER_0878,Bilal Verma,33,Male,Informant,0.24
+PER_0879,Arjun Reddy,22,Male,Enforcer,0.87
+PER_0880,Amit Sharma,40,Male,Lieutenant,0.37
+PER_0881,Anil Sharma,40,Male,Smuggler,0.28
+PER_0882,Suresh Yadav,49,Male,Enforcer,0.72
+PER_0883,Vihaan Das,56,Female,Kingpin,0.33
+PER_0884,Sai Malhotra,31,Male,Money Launderer,0.15
+PER_0885,Aarav Patel,43,Male,Informant,0.87
+PER_0886,Vihaan Malhotra,60,Male,Associate,0.55
+PER_0887,Kabir Joshi,50,Female,Lieutenant,0.27
+PER_0888,Sanjay Yadav,64,Male,Smuggler,0.92
+PER_0889,Rajesh Joshi,50,Male,Enforcer,0.12
+PER_0890,Manoj Choudhury,59,Male,Money Launderer,0.82
+PER_0891,Suresh Das,20,Female,Money Launderer,0.3
+PER_0892,Sunil Das,61,Male,Associate,0.56
+PER_0893,Neha Bose,34,Male,Associate,0.96
+PER_0894,Sunil Mehta,53,Male,Enforcer,0.62
+PER_0895,Isha Nair,38,Male,Enforcer,0.48
+PER_0896,Rahul Ali,55,Female,Informant,0.16
+PER_0897,Rohan Khan,39,Male,Enforcer,0.75
+PER_0898,Deepak Bose,45,Male,Money Launderer,0.24
+PER_0899,Isha Reddy,27,Male,Money Launderer,0.64
+PER_0900,Neha Mishra,33,Male,Kingpin,0.42
+PER_0901,Anil Nair,51,Male,Courier,0.73
+PER_0902,Ajay Khan,43,Male,Enforcer,0.25
+PER_0903,Neha Verma,45,Male,Kingpin,0.92
+PER_0904,Tariq Kumar,61,Female,Smuggler,0.16
+PER_0905,Bilal Mishra,50,Male,Courier,0.89
+PER_0906,Zubair Das,21,Male,Associate,0.74
+PER_0907,Imran Mishra,55,Male,Kingpin,0.56
+PER_0908,Bilal Mehta,21,Female,Smuggler,0.56
+PER_0909,Imran Pillai,21,Male,Kingpin,0.27
+PER_0910,Bilal Das,38,Male,Money Launderer,0.51
+PER_0911,Zubair Malhotra,58,Female,Enforcer,0.51
+PER_0912,Bilal Patel,65,Male,Enforcer,0.79
+PER_0913,Vikram Das,45,Male,Kingpin,0.26
+PER_0914,Isha Mehta,24,Male,Enforcer,0.74
+PER_0915,Rohan Patel,26,Male,Informant,0.18
+PER_0916,Farhan Pillai,51,Male,Enforcer,0.44
+PER_0917,Farhan Verma,29,Female,Enforcer,0.24
+PER_0918,Rahul Khan,64,Male,Money Launderer,0.38
+PER_0919,Bilal Malhotra,59,Male,Enforcer,0.95
+PER_0920,Aarav Mishra,35,Male,Courier,0.86
+PER_0921,Aarav Mishra,50,Male,Courier,0.5
+PER_0922,Bilal Patel,57,Male,Smuggler,0.89
+PER_0923,Ramesh Mishra,59,Male,Smuggler,0.14
+PER_0924,Rahul Verma,60,Male,Enforcer,0.86
+PER_0925,Rajesh Joshi,24,Male,Associate,0.98
+PER_0926,Ananya Hussain,37,Male,Enforcer,0.96
+PER_0927,Ajay Verma,24,Male,Informant,0.43
+PER_0928,Farhan Patel,46,Male,Lieutenant,0.36
+PER_0929,Vikram Reddy,63,Female,Informant,0.57
+PER_0930,Pooja Rao,32,Male,Lieutenant,0.61
+PER_0931,Arjun Shah,65,Male,Money Launderer,0.48
+PER_0932,Deepak Gupta,52,Male,Informant,0.93
+PER_0933,Dev Deshmukh,65,Male,Courier,0.82
+PER_0934,Neha Rao,37,Female,Kingpin,0.21
+PER_0935,Sanjay Ali,26,Male,Smuggler,0.81
+PER_0936,Tariq Bose,21,Male,Smuggler,0.11
+PER_0937,Isha Rao,37,Male,Lieutenant,0.37
+PER_0938,Deepak Sharma,26,Male,Informant,0.45
+PER_0939,Vihaan Khan,31,Male,Informant,0.92
+PER_0940,Anil Shah,21,Male,Courier,0.24
+PER_0941,Sanjay Yadav,40,Male,Associate,0.93
+PER_0942,Sai Deshmukh,38,Male,Informant,0.59
+PER_0943,Vihaan Singh,55,Male,Informant,0.16
+PER_0944,Rahul Gupta,20,Male,Associate,0.66
+PER_0945,Ananya Pandey,57,Male,Lieutenant,0.87
+PER_0946,Rajesh Rao,39,Male,Money Launderer,0.47
+PER_0947,Dev Kumar,42,Male,Money Launderer,0.29
+PER_0948,Rajesh Khan,26,Male,Kingpin,0.79
+PER_0949,Arjun Mehta,51,Male,Courier,0.91
+PER_0950,Rahul Singh,40,Female,Money Launderer,0.79
+PER_0951,Rahul Reddy,52,Male,Enforcer,0.28
+PER_0952,Aditya Mehta,43,Male,Lieutenant,0.1
+PER_0953,Aditya Hussain,57,Female,Informant,0.52
+PER_0954,Aditya Reddy,52,Male,Money Launderer,0.12
+PER_0955,Rajesh Ali,32,Male,Smuggler,0.36
+PER_0956,Deepak Mehta,61,Male,Enforcer,0.24
+PER_0957,Rohan Sharma,58,Male,Lieutenant,0.28
+PER_0958,Manoj Yadav,39,Male,Money Launderer,0.61
+PER_0959,Ananya Patel,38,Male,Informant,0.58
+PER_0960,Sai Nair,20,Male,Kingpin,0.19
+PER_0961,Sai Patel,46,Male,Courier,0.65
+PER_0962,Rajesh Joshi,31,Male,Lieutenant,0.97
+PER_0963,Sanjay Pandey,27,Male,Courier,0.19
+PER_0964,Rajesh Hussain,60,Male,Courier,0.52
+PER_0965,Neha Nair,58,Male,Informant,0.45
+PER_0966,Sunil Joshi,48,Male,Lieutenant,0.52
+PER_0967,Manoj Shah,48,Male,Money Launderer,0.78
+PER_0968,Vikram Deshmukh,25,Male,Lieutenant,0.39
+PER_0969,Reyansh Malhotra,53,Male,Associate,0.31
+PER_0970,Priya Yadav,29,Female,Associate,0.16
+PER_0971,Pooja Rao,56,Male,Associate,0.6
+PER_0972,Sunil Yadav,63,Male,Lieutenant,0.76
+PER_0973,Dev Reddy,56,Male,Informant,0.59
+PER_0974,Bilal Khan,38,Female,Lieutenant,0.63
+PER_0975,Farhan Joshi,50,Male,Kingpin,0.18
+PER_0976,Vikram Pandey,59,Male,Enforcer,0.69
+PER_0977,Bilal Yadav,37,Male,Courier,0.27
+PER_0978,Deepak Malhotra,55,Male,Money Launderer,0.92
+PER_0979,Zubair Rao,41,Female,Kingpin,0.64
+PER_0980,Imran Nair,37,Male,Kingpin,0.1
+PER_0981,Manoj Reddy,37,Female,Smuggler,0.48
+PER_0982,Imran Ali,39,Male,Associate,0.44
+PER_0983,Pooja Hussain,30,Male,Smuggler,0.59
+PER_0984,Ajay Bose,28,Male,Enforcer,0.22
+PER_0985,Reyansh Ali,20,Male,Courier,0.69
+PER_0986,Vikram Patel,27,Male,Associate,0.87
+PER_0987,Zubair Mishra,30,Male,Associate,0.59
+PER_0988,Bilal Das,41,Male,Associate,0.64
+PER_0989,Dev Pillai,34,Male,Money Launderer,0.47
+PER_0990,Ajay Verma,21,Male,Informant,0.2
+PER_0991,Anil Rao,24,Male,Money Launderer,0.51
+PER_0992,Arjun Deshmukh,58,Male,Courier,0.66
+PER_0993,Reyansh Hussain,59,Male,Money Launderer,0.65
+PER_0994,Sunil Yadav,19,Male,Courier,0.61
+PER_0995,Sunil Bose,41,Female,Money Launderer,0.36
+PER_0996,Aditya Rao,57,Male,Money Launderer,0.15
+PER_0997,Anil Pandey,29,Male,Money Launderer,0.82
+PER_0998,Vihaan Malhotra,50,Male,Lieutenant,0.86
+PER_0999,Ramesh Gupta,27,Male,Money Launderer,0.86
+PER_1000,Aarav Pillai,26,Male,Enforcer,0.69

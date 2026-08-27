@@ -1,0 +1,121 @@
+org_id,org_name,type,threat_level
+ORG_0001,Syndicate-001 Hawala Ring,Gang,High
+ORG_0002,Syndicate-002 Cybercrime Cell,Gang,Critical
+ORG_0003,Syndicate-003 Gang,Smuggling Syndicate,Low
+ORG_0004,Syndicate-004 Hawala Ring,Cartel,Medium
+ORG_0005,Syndicate-005 Smuggling Syndicate,Gang,Critical
+ORG_0006,Syndicate-006 Front Company,Front Company,Medium
+ORG_0007,Syndicate-007 Cybercrime Cell,Front Company,Medium
+ORG_0008,Syndicate-008 Gang,Smuggling Syndicate,High
+ORG_0009,Syndicate-009 Cartel,Cybercrime Cell,High
+ORG_0010,Syndicate-010 Cartel,Cartel,Medium
+ORG_0011,Syndicate-011 Front Company,Front Company,Critical
+ORG_0012,Syndicate-012 Hawala Ring,Front Company,Medium
+ORG_0013,Syndicate-013 Front Company,Cybercrime Cell,Critical
+ORG_0014,Syndicate-014 Front Company,Hawala Ring,Medium
+ORG_0015,Syndicate-015 Smuggling Syndicate,Front Company,Low
+ORG_0016,Syndicate-016 Hawala Ring,Front Company,Critical
+ORG_0017,Syndicate-017 Cybercrime Cell,Hawala Ring,Low
+ORG_0018,Syndicate-018 Cartel,Smuggling Syndicate,High
+ORG_0019,Syndicate-019 Front Company,Smuggling Syndicate,High
+ORG_0020,Syndicate-020 Hawala Ring,Hawala Ring,High
+ORG_0021,Syndicate-021 Cartel,Hawala Ring,Critical
+ORG_0022,Syndicate-022 Front Company,Cybercrime Cell,Medium
+ORG_0023,Syndicate-023 Cybercrime Cell,Cybercrime Cell,Medium
+ORG_0024,Syndicate-024 Smuggling Syndicate,Hawala Ring,Medium
+ORG_0025,Syndicate-025 Hawala Ring,Smuggling Syndicate,Low
+ORG_0026,Syndicate-026 Cybercrime Cell,Cartel,Low
+ORG_0027,Syndicate-027 Cartel,Front Company,Low
+ORG_0028,Syndicate-028 Smuggling Syndicate,Cartel,Critical
+ORG_0029,Syndicate-029 Hawala Ring,Gang,High
+ORG_0030,Syndicate-030 Hawala Ring,Gang,Low
+ORG_0031,Syndicate-031 Cartel,Smuggling Syndicate,Low
+ORG_0032,Syndicate-032 Cartel,Smuggling Syndicate,Medium
+ORG_0033,Syndicate-033 Smuggling Syndicate,Cybercrime Cell,Low
+ORG_0034,Syndicate-034 Cybercrime Cell,Cartel,Low
+ORG_0035,Syndicate-035 Smuggling Syndicate,Gang,Critical
+ORG_0036,Syndicate-036 Cybercrime Cell,Cybercrime Cell,Medium
+ORG_0037,Syndicate-037 Cartel,Cybercrime Cell,Medium
+ORG_0038,Syndicate-038 Hawala Ring,Hawala Ring,Critical
+ORG_0039,Syndicate-039 Cybercrime Cell,Cartel,Critical
+ORG_0040,Syndicate-040 Hawala Ring,Front Company,High
+ORG_0041,Syndicate-041 Hawala Ring,Gang,Low
+ORG_0042,Syndicate-042 Hawala Ring,Cartel,Critical
+ORG_0043,Syndicate-043 Front Company,Hawala Ring,Low
+ORG_0044,Syndicate-044 Hawala Ring,Hawala Ring,Medium
+ORG_0045,Syndicate-045 Front Company,Cartel,Critical
+ORG_0046,Syndicate-046 Gang,Smuggling Syndicate,Critical
+ORG_0047,Syndicate-047 Gang,Cybercrime Cell,Critical
+ORG_0048,Syndicate-048 Cartel,Gang,Critical
+ORG_0049,Syndicate-049 Gang,Smuggling Syndicate,Low
+ORG_0050,Syndicate-050 Front Company,Cybercrime Cell,High
+ORG_0051,Syndicate-051 Cartel,Cartel,Low
+ORG_0052,Syndicate-052 Cartel,Smuggling Syndicate,High
+ORG_0053,Syndicate-053 Front Company,Cartel,Critical
+ORG_0054,Syndicate-054 Gang,Cybercrime Cell,Low
+ORG_0055,Syndicate-055 Cartel,Cybercrime Cell,Critical
+ORG_0056,Syndicate-056 Hawala Ring,Gang,High
+ORG_0057,Syndicate-057 Front Company,Smuggling Syndicate,Low
+ORG_0058,Syndicate-058 Smuggling Syndicate,Cybercrime Cell,Critical
+ORG_0059,Syndicate-059 Front Company,Front Company,Critical
+ORG_0060,Syndicate-060 Cybercrime Cell,Cartel,Medium
+ORG_0061,Syndicate-061 Cartel,Front Company,Critical
+ORG_0062,Syndicate-062 Cartel,Smuggling Syndicate,High
+ORG_0063,Syndicate-063 Hawala Ring,Cybercrime Cell,High
+ORG_0064,Syndicate-064 Front Company,Cartel,Low
+ORG_0065,Syndicate-065 Hawala Ring,Smuggling Syndicate,High
+ORG_0066,Syndicate-066 Cartel,Front Company,High
+ORG_0067,Syndicate-067 Cybercrime Cell,Gang,Medium
+ORG_0068,Syndicate-068 Smuggling Syndicate,Cartel,Critical
+ORG_0069,Syndicate-069 Cybercrime Cell,Gang,High
+ORG_0070,Syndicate-070 Cybercrime Cell,Front Company,Low
+ORG_0071,Syndicate-071 Cybercrime Cell,Cybercrime Cell,High
+ORG_0072,Syndicate-072 Front Company,Cartel,Critical
+ORG_0073,Syndicate-073 Cybercrime Cell,Gang,Medium
+ORG_0074,Syndicate-074 Cartel,Gang,Low
+ORG_0075,Syndicate-075 Cybercrime Cell,Smuggling Syndicate,Medium
+ORG_0076,Syndicate-076 Front Company,Front Company,Low
+ORG_0077,Syndicate-077 Smuggling Syndicate,Cybercrime Cell,High
+ORG_0078,Syndicate-078 Front Company,Smuggling Syndicate,Critical
+ORG_0079,Syndicate-079 Cartel,Cartel,High
+ORG_0080,Syndicate-080 Cartel,Hawala Ring,Low
+ORG_0081,Syndicate-081 Front Company,Cartel,Medium
+ORG_0082,Syndicate-082 Cybercrime Cell,Cybercrime Cell,Critical
+ORG_0083,Syndicate-083 Cybercrime Cell,Smuggling Syndicate,Medium
+ORG_0084,Syndicate-084 Cybercrime Cell,Smuggling Syndicate,Medium
+ORG_0085,Syndicate-085 Cartel,Cartel,Medium
+ORG_0086,Syndicate-086 Front Company,Cybercrime Cell,Low
+ORG_0087,Syndicate-087 Front Company,Smuggling Syndicate,Low
+ORG_0088,Syndicate-088 Gang,Cybercrime Cell,Medium
+ORG_0089,Syndicate-089 Cartel,Gang,Low
+ORG_0090,Syndicate-090 Hawala Ring,Cartel,Critical
+ORG_0091,Syndicate-091 Smuggling Syndicate,Gang,Low
+ORG_0092,Syndicate-092 Cartel,Cartel,Critical
+ORG_0093,Syndicate-093 Smuggling Syndicate,Smuggling Syndicate,Medium
+ORG_0094,Syndicate-094 Cartel,Gang,Critical
+ORG_0095,Syndicate-095 Hawala Ring,Cybercrime Cell,Critical
+ORG_0096,Syndicate-096 Hawala Ring,Cartel,Medium
+ORG_0097,Syndicate-097 Hawala Ring,Gang,Low
+ORG_0098,Syndicate-098 Smuggling Syndicate,Gang,High
+ORG_0099,Syndicate-099 Cartel,Cartel,High
+ORG_0100,Syndicate-100 Gang,Front Company,Medium
+ORG_0101,Syndicate-101 Cybercrime Cell,Hawala Ring,Medium
+ORG_0102,Syndicate-102 Front Company,Gang,Low
+ORG_0103,Syndicate-103 Gang,Cartel,Critical
+ORG_0104,Syndicate-104 Gang,Cartel,Critical
+ORG_0105,Syndicate-105 Cartel,Cartel,Low
+ORG_0106,Syndicate-106 Gang,Cartel,High
+ORG_0107,Syndicate-107 Front Company,Cybercrime Cell,Critical
+ORG_0108,Syndicate-108 Cybercrime Cell,Gang,Medium
+ORG_0109,Syndicate-109 Gang,Cybercrime Cell,High
+ORG_0110,Syndicate-110 Smuggling Syndicate,Front Company,Critical
+ORG_0111,Syndicate-111 Gang,Gang,Low
+ORG_0112,Syndicate-112 Smuggling Syndicate,Gang,Critical
+ORG_0113,Syndicate-113 Smuggling Syndicate,Cartel,High
+ORG_0114,Syndicate-114 Hawala Ring,Front Company,Low
+ORG_0115,Syndicate-115 Smuggling Syndicate,Gang,Medium
+ORG_0116,Syndicate-116 Cartel,Smuggling Syndicate,Low
+ORG_0117,Syndicate-117 Smuggling Syndicate,Hawala Ring,Medium
+ORG_0118,Syndicate-118 Front Company,Cybercrime Cell,Medium
+ORG_0119,Syndicate-119 Hawala Ring,Cartel,Medium
+ORG_0120,Syndicate-120 Cartel,Gang,Critical

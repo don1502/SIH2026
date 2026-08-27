@@ -1,0 +1,750 @@
+evidence_id,case_id,evidence_type,description
+EVD_0001,CASE_0014,Digital Phone Dump,Physical item recovered during raid
+EVD_0002,CASE_0174,Seized Narcotics,Physical item recovered during raid
+EVD_0003,CASE_0162,CCTV Footage,Physical item recovered during raid
+EVD_0004,CASE_0236,Digital Phone Dump,Physical item recovered during raid
+EVD_0005,CASE_0023,Digital Phone Dump,Physical item recovered during raid
+EVD_0006,CASE_0121,CCTV Footage,Physical item recovered during raid
+EVD_0007,CASE_0139,Seized Narcotics,Physical item recovered during raid
+EVD_0008,CASE_0188,Digital Phone Dump,Physical item recovered during raid
+EVD_0009,CASE_0176,Seized Narcotics,Physical item recovered during raid
+EVD_0010,CASE_0009,CCTV Footage,Physical item recovered during raid
+EVD_0011,CASE_0062,Forged Documents,Physical item recovered during raid
+EVD_0012,CASE_0125,Forged Documents,Physical item recovered during raid
+EVD_0013,CASE_0128,Forged Documents,Physical item recovered during raid
+EVD_0014,CASE_0201,Forged Documents,Physical item recovered during raid
+EVD_0015,CASE_0117,Digital Phone Dump,Physical item recovered during raid
+EVD_0016,CASE_0219,Forged Documents,Physical item recovered during raid
+EVD_0017,CASE_0088,Forged Documents,Physical item recovered during raid
+EVD_0018,CASE_0097,Financial Ledger,Physical item recovered during raid
+EVD_0019,CASE_0092,Financial Ledger,Physical item recovered during raid
+EVD_0020,CASE_0077,Financial Ledger,Physical item recovered during raid
+EVD_0021,CASE_0159,Seized Narcotics,Physical item recovered during raid
+EVD_0022,CASE_0054,Financial Ledger,Physical item recovered during raid
+EVD_0023,CASE_0231,CCTV Footage,Physical item recovered during raid
+EVD_0024,CASE_0029,CCTV Footage,Physical item recovered during raid
+EVD_0025,CASE_0085,Financial Ledger,Physical item recovered during raid
+EVD_0026,CASE_0052,Financial Ledger,Physical item recovered during raid
+EVD_0027,CASE_0198,Seized Narcotics,Physical item recovered during raid
+EVD_0028,CASE_0028,Seized Narcotics,Physical item recovered during raid
+EVD_0029,CASE_0036,Forged Documents,Physical item recovered during raid
+EVD_0030,CASE_0160,Digital Phone Dump,Physical item recovered during raid
+EVD_0031,CASE_0147,Financial Ledger,Physical item recovered during raid
+EVD_0032,CASE_0096,Digital Phone Dump,Physical item recovered during raid
+EVD_0033,CASE_0061,Seized Narcotics,Physical item recovered during raid
+EVD_0034,CASE_0138,CCTV Footage,Physical item recovered during raid
+EVD_0035,CASE_0188,Digital Phone Dump,Physical item recovered during raid
+EVD_0036,CASE_0050,Digital Phone Dump,Physical item recovered during raid
+EVD_0037,CASE_0049,Seized Narcotics,Physical item recovered during raid
+EVD_0038,CASE_0053,Financial Ledger,Physical item recovered during raid
+EVD_0039,CASE_0174,Seized Narcotics,Physical item recovered during raid
+EVD_0040,CASE_0080,CCTV Footage,Physical item recovered during raid
+EVD_0041,CASE_0081,Financial Ledger,Physical item recovered during raid
+EVD_0042,CASE_0192,Seized Narcotics,Physical item recovered during raid
+EVD_0043,CASE_0119,Seized Narcotics,Physical item recovered during raid
+EVD_0044,CASE_0037,Forged Documents,Physical item recovered during raid
+EVD_0045,CASE_0065,Seized Narcotics,Physical item recovered during raid
+EVD_0046,CASE_0111,Digital Phone Dump,Physical item recovered during raid
+EVD_0047,CASE_0205,Forged Documents,Physical item recovered during raid
+EVD_0048,CASE_0004,Forged Documents,Physical item recovered during raid
+EVD_0049,CASE_0113,Financial Ledger,Physical item recovered during raid
+EVD_0050,CASE_0184,Seized Narcotics,Physical item recovered during raid
+EVD_0051,CASE_0082,Seized Narcotics,Physical item recovered during raid
+EVD_0052,CASE_0192,Financial Ledger,Physical item recovered during raid
+EVD_0053,CASE_0079,CCTV Footage,Physical item recovered during raid
+EVD_0054,CASE_0123,Forged Documents,Physical item recovered during raid
+EVD_0055,CASE_0041,Seized Narcotics,Physical item recovered during raid
+EVD_0056,CASE_0239,Forged Documents,Physical item recovered during raid
+EVD_0057,CASE_0246,Financial Ledger,Physical item recovered during raid
+EVD_0058,CASE_0144,Digital Phone Dump,Physical item recovered during raid
+EVD_0059,CASE_0189,Financial Ledger,Physical item recovered during raid
+EVD_0060,CASE_0170,Digital Phone Dump,Physical item recovered during raid
+EVD_0061,CASE_0117,CCTV Footage,Physical item recovered during raid
+EVD_0062,CASE_0117,Digital Phone Dump,Physical item recovered during raid
+EVD_0063,CASE_0014,Digital Phone Dump,Physical item recovered during raid
+EVD_0064,CASE_0150,Financial Ledger,Physical item recovered during raid
+EVD_0065,CASE_0014,Forged Documents,Physical item recovered during raid
+EVD_0066,CASE_0146,Financial Ledger,Physical item recovered during raid
+EVD_0067,CASE_0212,Forged Documents,Physical item recovered during raid
+EVD_0068,CASE_0236,Digital Phone Dump,Physical item recovered during raid
+EVD_0069,CASE_0089,Digital Phone Dump,Physical item recovered during raid
+EVD_0070,CASE_0171,Seized Narcotics,Physical item recovered during raid
+EVD_0071,CASE_0041,Digital Phone Dump,Physical item recovered during raid
+EVD_0072,CASE_0190,Financial Ledger,Physical item recovered during raid
+EVD_0073,CASE_0130,CCTV Footage,Physical item recovered during raid
+EVD_0074,CASE_0053,Forged Documents,Physical item recovered during raid
+EVD_0075,CASE_0119,Seized Narcotics,Physical item recovered during raid
+EVD_0076,CASE_0042,Financial Ledger,Physical item recovered during raid
+EVD_0077,CASE_0140,Digital Phone Dump,Physical item recovered during raid
+EVD_0078,CASE_0138,Financial Ledger,Physical item recovered during raid
+EVD_0079,CASE_0136,CCTV Footage,Physical item recovered during raid
+EVD_0080,CASE_0155,Seized Narcotics,Physical item recovered during raid
+EVD_0081,CASE_0152,CCTV Footage,Physical item recovered during raid
+EVD_0082,CASE_0245,Financial Ledger,Physical item recovered during raid
+EVD_0083,CASE_0213,CCTV Footage,Physical item recovered during raid
+EVD_0084,CASE_0092,Seized Narcotics,Physical item recovered during raid
+EVD_0085,CASE_0099,Financial Ledger,Physical item recovered during raid
+EVD_0086,CASE_0160,CCTV Footage,Physical item recovered during raid
+EVD_0087,CASE_0018,CCTV Footage,Physical item recovered during raid
+EVD_0088,CASE_0071,Financial Ledger,Physical item recovered during raid
+EVD_0089,CASE_0215,Forged Documents,Physical item recovered during raid
+EVD_0090,CASE_0169,Financial Ledger,Physical item recovered during raid
+EVD_0091,CASE_0077,Forged Documents,Physical item recovered during raid
+EVD_0092,CASE_0065,Financial Ledger,Physical item recovered during raid
+EVD_0093,CASE_0037,Digital Phone Dump,Physical item recovered during raid
+EVD_0094,CASE_0212,CCTV Footage,Physical item recovered during raid
+EVD_0095,CASE_0002,Seized Narcotics,Physical item recovered during raid
+EVD_0096,CASE_0067,Seized Narcotics,Physical item recovered during raid
+EVD_0097,CASE_0248,Financial Ledger,Physical item recovered during raid
+EVD_0098,CASE_0044,Financial Ledger,Physical item recovered during raid
+EVD_0099,CASE_0224,Digital Phone Dump,Physical item recovered during raid
+EVD_0100,CASE_0225,CCTV Footage,Physical item recovered during raid
+EVD_0101,CASE_0097,Forged Documents,Physical item recovered during raid
+EVD_0102,CASE_0138,Financial Ledger,Physical item recovered during raid
+EVD_0103,CASE_0085,Financial Ledger,Physical item recovered during raid
+EVD_0104,CASE_0127,Seized Narcotics,Physical item recovered during raid
+EVD_0105,CASE_0202,Seized Narcotics,Physical item recovered during raid
+EVD_0106,CASE_0129,CCTV Footage,Physical item recovered during raid
+EVD_0107,CASE_0121,Forged Documents,Physical item recovered during raid
+EVD_0108,CASE_0154,Financial Ledger,Physical item recovered during raid
+EVD_0109,CASE_0196,Seized Narcotics,Physical item recovered during raid
+EVD_0110,CASE_0032,Financial Ledger,Physical item recovered during raid
+EVD_0111,CASE_0097,Forged Documents,Physical item recovered during raid
+EVD_0112,CASE_0241,Seized Narcotics,Physical item recovered during raid
+EVD_0113,CASE_0192,CCTV Footage,Physical item recovered during raid
+EVD_0114,CASE_0174,Digital Phone Dump,Physical item recovered during raid
+EVD_0115,CASE_0109,Forged Documents,Physical item recovered during raid
+EVD_0116,CASE_0037,Financial Ledger,Physical item recovered during raid
+EVD_0117,CASE_0232,Seized Narcotics,Physical item recovered during raid
+EVD_0118,CASE_0191,Digital Phone Dump,Physical item recovered during raid
+EVD_0119,CASE_0233,CCTV Footage,Physical item recovered during raid
+EVD_0120,CASE_0179,Seized Narcotics,Physical item recovered during raid
+EVD_0121,CASE_0015,Financial Ledger,Physical item recovered during raid
+EVD_0122,CASE_0171,Seized Narcotics,Physical item recovered during raid
+EVD_0123,CASE_0119,Forged Documents,Physical item recovered during raid
+EVD_0124,CASE_0231,Seized Narcotics,Physical item recovered during raid
+EVD_0125,CASE_0213,Forged Documents,Physical item recovered during raid
+EVD_0126,CASE_0062,Financial Ledger,Physical item recovered during raid
+EVD_0127,CASE_0180,Forged Documents,Physical item recovered during raid
+EVD_0128,CASE_0011,Digital Phone Dump,Physical item recovered during raid
+EVD_0129,CASE_0028,Forged Documents,Physical item recovered during raid
+EVD_0130,CASE_0026,Digital Phone Dump,Physical item recovered during raid
+EVD_0131,CASE_0170,Financial Ledger,Physical item recovered during raid
+EVD_0132,CASE_0004,Forged Documents,Physical item recovered during raid
+EVD_0133,CASE_0151,CCTV Footage,Physical item recovered during raid
+EVD_0134,CASE_0033,Seized Narcotics,Physical item recovered during raid
+EVD_0135,CASE_0099,Financial Ledger,Physical item recovered during raid
+EVD_0136,CASE_0090,Forged Documents,Physical item recovered during raid
+EVD_0137,CASE_0083,Digital Phone Dump,Physical item recovered during raid
+EVD_0138,CASE_0125,Financial Ledger,Physical item recovered during raid
+EVD_0139,CASE_0074,Digital Phone Dump,Physical item recovered during raid
+EVD_0140,CASE_0184,CCTV Footage,Physical item recovered during raid
+EVD_0141,CASE_0183,Digital Phone Dump,Physical item recovered during raid
+EVD_0142,CASE_0223,Digital Phone Dump,Physical item recovered during raid
+EVD_0143,CASE_0195,CCTV Footage,Physical item recovered during raid
+EVD_0144,CASE_0194,Forged Documents,Physical item recovered during raid
+EVD_0145,CASE_0126,CCTV Footage,Physical item recovered during raid
+EVD_0146,CASE_0087,Seized Narcotics,Physical item recovered during raid
+EVD_0147,CASE_0246,Financial Ledger,Physical item recovered during raid
+EVD_0148,CASE_0175,Seized Narcotics,Physical item recovered during raid
+EVD_0149,CASE_0109,Forged Documents,Physical item recovered during raid
+EVD_0150,CASE_0134,CCTV Footage,Physical item recovered during raid
+EVD_0151,CASE_0018,Financial Ledger,Physical item recovered during raid
+EVD_0152,CASE_0092,Forged Documents,Physical item recovered during raid
+EVD_0153,CASE_0029,Financial Ledger,Physical item recovered during raid
+EVD_0154,CASE_0094,Forged Documents,Physical item recovered during raid
+EVD_0155,CASE_0174,Forged Documents,Physical item recovered during raid
+EVD_0156,CASE_0021,Forged Documents,Physical item recovered during raid
+EVD_0157,CASE_0107,CCTV Footage,Physical item recovered during raid
+EVD_0158,CASE_0150,Financial Ledger,Physical item recovered during raid
+EVD_0159,CASE_0012,CCTV Footage,Physical item recovered during raid
+EVD_0160,CASE_0062,Forged Documents,Physical item recovered during raid
+EVD_0161,CASE_0240,Digital Phone Dump,Physical item recovered during raid
+EVD_0162,CASE_0100,Financial Ledger,Physical item recovered during raid
+EVD_0163,CASE_0105,Seized Narcotics,Physical item recovered during raid
+EVD_0164,CASE_0088,CCTV Footage,Physical item recovered during raid
+EVD_0165,CASE_0226,Financial Ledger,Physical item recovered during raid
+EVD_0166,CASE_0081,Seized Narcotics,Physical item recovered during raid
+EVD_0167,CASE_0179,Forged Documents,Physical item recovered during raid
+EVD_0168,CASE_0030,Seized Narcotics,Physical item recovered during raid
+EVD_0169,CASE_0057,Digital Phone Dump,Physical item recovered during raid
+EVD_0170,CASE_0151,Financial Ledger,Physical item recovered during raid
+EVD_0171,CASE_0107,Digital Phone Dump,Physical item recovered during raid
+EVD_0172,CASE_0048,Digital Phone Dump,Physical item recovered during raid
+EVD_0173,CASE_0067,Financial Ledger,Physical item recovered during raid
+EVD_0174,CASE_0239,Seized Narcotics,Physical item recovered during raid
+EVD_0175,CASE_0131,Digital Phone Dump,Physical item recovered during raid
+EVD_0176,CASE_0096,Forged Documents,Physical item recovered during raid
+EVD_0177,CASE_0156,Forged Documents,Physical item recovered during raid
+EVD_0178,CASE_0018,CCTV Footage,Physical item recovered during raid
+EVD_0179,CASE_0033,Seized Narcotics,Physical item recovered during raid
+EVD_0180,CASE_0243,Digital Phone Dump,Physical item recovered during raid
+EVD_0181,CASE_0165,Forged Documents,Physical item recovered during raid
+EVD_0182,CASE_0232,CCTV Footage,Physical item recovered during raid
+EVD_0183,CASE_0116,Financial Ledger,Physical item recovered during raid
+EVD_0184,CASE_0143,Forged Documents,Physical item recovered during raid
+EVD_0185,CASE_0149,Forged Documents,Physical item recovered during raid
+EVD_0186,CASE_0142,Financial Ledger,Physical item recovered during raid
+EVD_0187,CASE_0135,Forged Documents,Physical item recovered during raid
+EVD_0188,CASE_0147,CCTV Footage,Physical item recovered during raid
+EVD_0189,CASE_0161,CCTV Footage,Physical item recovered during raid
+EVD_0190,CASE_0105,Digital Phone Dump,Physical item recovered during raid
+EVD_0191,CASE_0022,CCTV Footage,Physical item recovered during raid
+EVD_0192,CASE_0109,Digital Phone Dump,Physical item recovered during raid
+EVD_0193,CASE_0015,Financial Ledger,Physical item recovered during raid
+EVD_0194,CASE_0042,Forged Documents,Physical item recovered during raid
+EVD_0195,CASE_0161,Seized Narcotics,Physical item recovered during raid
+EVD_0196,CASE_0067,Digital Phone Dump,Physical item recovered during raid
+EVD_0197,CASE_0100,CCTV Footage,Physical item recovered during raid
+EVD_0198,CASE_0225,Digital Phone Dump,Physical item recovered during raid
+EVD_0199,CASE_0047,Financial Ledger,Physical item recovered during raid
+EVD_0200,CASE_0209,CCTV Footage,Physical item recovered during raid
+EVD_0201,CASE_0188,Seized Narcotics,Physical item recovered during raid
+EVD_0202,CASE_0109,Financial Ledger,Physical item recovered during raid
+EVD_0203,CASE_0035,Digital Phone Dump,Physical item recovered during raid
+EVD_0204,CASE_0002,Seized Narcotics,Physical item recovered during raid
+EVD_0205,CASE_0035,Forged Documents,Physical item recovered during raid
+EVD_0206,CASE_0073,Forged Documents,Physical item recovered during raid
+EVD_0207,CASE_0151,Seized Narcotics,Physical item recovered during raid
+EVD_0208,CASE_0029,Forged Documents,Physical item recovered during raid
+EVD_0209,CASE_0100,Digital Phone Dump,Physical item recovered during raid
+EVD_0210,CASE_0250,Seized Narcotics,Physical item recovered during raid
+EVD_0211,CASE_0193,CCTV Footage,Physical item recovered during raid
+EVD_0212,CASE_0024,CCTV Footage,Physical item recovered during raid
+EVD_0213,CASE_0212,CCTV Footage,Physical item recovered during raid
+EVD_0214,CASE_0221,Forged Documents,Physical item recovered during raid
+EVD_0215,CASE_0063,Forged Documents,Physical item recovered during raid
+EVD_0216,CASE_0175,Seized Narcotics,Physical item recovered during raid
+EVD_0217,CASE_0215,CCTV Footage,Physical item recovered during raid
+EVD_0218,CASE_0093,Financial Ledger,Physical item recovered during raid
+EVD_0219,CASE_0058,Forged Documents,Physical item recovered during raid
+EVD_0220,CASE_0002,Forged Documents,Physical item recovered during raid
+EVD_0221,CASE_0202,Digital Phone Dump,Physical item recovered during raid
+EVD_0222,CASE_0045,Digital Phone Dump,Physical item recovered during raid
+EVD_0223,CASE_0004,Forged Documents,Physical item recovered during raid
+EVD_0224,CASE_0049,Financial Ledger,Physical item recovered during raid
+EVD_0225,CASE_0107,Forged Documents,Physical item recovered during raid
+EVD_0226,CASE_0053,Financial Ledger,Physical item recovered during raid
+EVD_0227,CASE_0126,Forged Documents,Physical item recovered during raid
+EVD_0228,CASE_0096,Forged Documents,Physical item recovered during raid
+EVD_0229,CASE_0159,Financial Ledger,Physical item recovered during raid
+EVD_0230,CASE_0043,CCTV Footage,Physical item recovered during raid
+EVD_0231,CASE_0134,Financial Ledger,Physical item recovered during raid
+EVD_0232,CASE_0205,Seized Narcotics,Physical item recovered during raid
+EVD_0233,CASE_0001,Financial Ledger,Physical item recovered during raid
+EVD_0234,CASE_0226,Seized Narcotics,Physical item recovered during raid
+EVD_0235,CASE_0215,Seized Narcotics,Physical item recovered during raid
+EVD_0236,CASE_0056,Digital Phone Dump,Physical item recovered during raid
+EVD_0237,CASE_0121,Digital Phone Dump,Physical item recovered during raid
+EVD_0238,CASE_0005,Digital Phone Dump,Physical item recovered during raid
+EVD_0239,CASE_0193,Digital Phone Dump,Physical item recovered during raid
+EVD_0240,CASE_0079,CCTV Footage,Physical item recovered during raid
+EVD_0241,CASE_0045,Forged Documents,Physical item recovered during raid
+EVD_0242,CASE_0078,Forged Documents,Physical item recovered during raid
+EVD_0243,CASE_0053,Financial Ledger,Physical item recovered during raid
+EVD_0244,CASE_0033,Digital Phone Dump,Physical item recovered during raid
+EVD_0245,CASE_0202,Financial Ledger,Physical item recovered during raid
+EVD_0246,CASE_0215,Forged Documents,Physical item recovered during raid
+EVD_0247,CASE_0021,Seized Narcotics,Physical item recovered during raid
+EVD_0248,CASE_0143,CCTV Footage,Physical item recovered during raid
+EVD_0249,CASE_0177,Digital Phone Dump,Physical item recovered during raid
+EVD_0250,CASE_0004,Digital Phone Dump,Physical item recovered during raid
+EVD_0251,CASE_0214,CCTV Footage,Physical item recovered during raid
+EVD_0252,CASE_0001,Forged Documents,Physical item recovered during raid
+EVD_0253,CASE_0220,CCTV Footage,Physical item recovered during raid
+EVD_0254,CASE_0085,CCTV Footage,Physical item recovered during raid
+EVD_0255,CASE_0171,Forged Documents,Physical item recovered during raid
+EVD_0256,CASE_0248,Digital Phone Dump,Physical item recovered during raid
+EVD_0257,CASE_0170,Seized Narcotics,Physical item recovered during raid
+EVD_0258,CASE_0144,Financial Ledger,Physical item recovered during raid
+EVD_0259,CASE_0052,Seized Narcotics,Physical item recovered during raid
+EVD_0260,CASE_0182,Seized Narcotics,Physical item recovered during raid
+EVD_0261,CASE_0025,Digital Phone Dump,Physical item recovered during raid
+EVD_0262,CASE_0129,Seized Narcotics,Physical item recovered during raid
+EVD_0263,CASE_0120,Forged Documents,Physical item recovered during raid
+EVD_0264,CASE_0204,CCTV Footage,Physical item recovered during raid
+EVD_0265,CASE_0008,Digital Phone Dump,Physical item recovered during raid
+EVD_0266,CASE_0164,Forged Documents,Physical item recovered during raid
+EVD_0267,CASE_0109,Forged Documents,Physical item recovered during raid
+EVD_0268,CASE_0101,Digital Phone Dump,Physical item recovered during raid
+EVD_0269,CASE_0101,CCTV Footage,Physical item recovered during raid
+EVD_0270,CASE_0078,Forged Documents,Physical item recovered during raid
+EVD_0271,CASE_0045,CCTV Footage,Physical item recovered during raid
+EVD_0272,CASE_0019,Digital Phone Dump,Physical item recovered during raid
+EVD_0273,CASE_0041,Forged Documents,Physical item recovered during raid
+EVD_0274,CASE_0244,Financial Ledger,Physical item recovered during raid
+EVD_0275,CASE_0149,CCTV Footage,Physical item recovered during raid
+EVD_0276,CASE_0072,Financial Ledger,Physical item recovered during raid
+EVD_0277,CASE_0003,Digital Phone Dump,Physical item recovered during raid
+EVD_0278,CASE_0052,Forged Documents,Physical item recovered during raid
+EVD_0279,CASE_0157,Seized Narcotics,Physical item recovered during raid
+EVD_0280,CASE_0184,Digital Phone Dump,Physical item recovered during raid
+EVD_0281,CASE_0171,CCTV Footage,Physical item recovered during raid
+EVD_0282,CASE_0072,Seized Narcotics,Physical item recovered during raid
+EVD_0283,CASE_0214,Digital Phone Dump,Physical item recovered during raid
+EVD_0284,CASE_0126,Financial Ledger,Physical item recovered during raid
+EVD_0285,CASE_0056,Financial Ledger,Physical item recovered during raid
+EVD_0286,CASE_0163,Digital Phone Dump,Physical item recovered during raid
+EVD_0287,CASE_0171,Seized Narcotics,Physical item recovered during raid
+EVD_0288,CASE_0169,Digital Phone Dump,Physical item recovered during raid
+EVD_0289,CASE_0040,Financial Ledger,Physical item recovered during raid
+EVD_0290,CASE_0190,Financial Ledger,Physical item recovered during raid
+EVD_0291,CASE_0033,Forged Documents,Physical item recovered during raid
+EVD_0292,CASE_0244,Financial Ledger,Physical item recovered during raid
+EVD_0293,CASE_0107,Forged Documents,Physical item recovered during raid
+EVD_0294,CASE_0213,Seized Narcotics,Physical item recovered during raid
+EVD_0295,CASE_0150,Financial Ledger,Physical item recovered during raid
+EVD_0296,CASE_0013,Digital Phone Dump,Physical item recovered during raid
+EVD_0297,CASE_0014,Financial Ledger,Physical item recovered during raid
+EVD_0298,CASE_0104,CCTV Footage,Physical item recovered during raid
+EVD_0299,CASE_0117,CCTV Footage,Physical item recovered during raid
+EVD_0300,CASE_0016,Forged Documents,Physical item recovered during raid
+EVD_0301,CASE_0203,Seized Narcotics,Physical item recovered during raid
+EVD_0302,CASE_0033,Forged Documents,Physical item recovered during raid
+EVD_0303,CASE_0085,Digital Phone Dump,Physical item recovered during raid
+EVD_0304,CASE_0073,CCTV Footage,Physical item recovered during raid
+EVD_0305,CASE_0075,CCTV Footage,Physical item recovered during raid
+EVD_0306,CASE_0155,Seized Narcotics,Physical item recovered during raid
+EVD_0307,CASE_0129,Financial Ledger,Physical item recovered during raid
+EVD_0308,CASE_0041,CCTV Footage,Physical item recovered during raid
+EVD_0309,CASE_0245,CCTV Footage,Physical item recovered during raid
+EVD_0310,CASE_0061,CCTV Footage,Physical item recovered during raid
+EVD_0311,CASE_0129,Digital Phone Dump,Physical item recovered during raid
+EVD_0312,CASE_0233,Seized Narcotics,Physical item recovered during raid
+EVD_0313,CASE_0233,Seized Narcotics,Physical item recovered during raid
+EVD_0314,CASE_0084,Seized Narcotics,Physical item recovered during raid
+EVD_0315,CASE_0071,CCTV Footage,Physical item recovered during raid
+EVD_0316,CASE_0120,Forged Documents,Physical item recovered during raid
+EVD_0317,CASE_0128,Forged Documents,Physical item recovered during raid
+EVD_0318,CASE_0069,CCTV Footage,Physical item recovered during raid
+EVD_0319,CASE_0023,Digital Phone Dump,Physical item recovered during raid
+EVD_0320,CASE_0103,Seized Narcotics,Physical item recovered during raid
+EVD_0321,CASE_0105,Financial Ledger,Physical item recovered during raid
+EVD_0322,CASE_0113,Forged Documents,Physical item recovered during raid
+EVD_0323,CASE_0215,Financial Ledger,Physical item recovered during raid
+EVD_0324,CASE_0036,CCTV Footage,Physical item recovered during raid
+EVD_0325,CASE_0231,Digital Phone Dump,Physical item recovered during raid
+EVD_0326,CASE_0246,Digital Phone Dump,Physical item recovered during raid
+EVD_0327,CASE_0181,Forged Documents,Physical item recovered during raid
+EVD_0328,CASE_0028,CCTV Footage,Physical item recovered during raid
+EVD_0329,CASE_0168,Financial Ledger,Physical item recovered during raid
+EVD_0330,CASE_0169,Financial Ledger,Physical item recovered during raid
+EVD_0331,CASE_0182,CCTV Footage,Physical item recovered during raid
+EVD_0332,CASE_0171,Seized Narcotics,Physical item recovered during raid
+EVD_0333,CASE_0228,Digital Phone Dump,Physical item recovered during raid
+EVD_0334,CASE_0145,Financial Ledger,Physical item recovered during raid
+EVD_0335,CASE_0144,Financial Ledger,Physical item recovered during raid
+EVD_0336,CASE_0149,Financial Ledger,Physical item recovered during raid
+EVD_0337,CASE_0049,Financial Ledger,Physical item recovered during raid
+EVD_0338,CASE_0190,Financial Ledger,Physical item recovered during raid
+EVD_0339,CASE_0118,Forged Documents,Physical item recovered during raid
+EVD_0340,CASE_0214,Forged Documents,Physical item recovered during raid
+EVD_0341,CASE_0222,Forged Documents,Physical item recovered during raid
+EVD_0342,CASE_0020,Digital Phone Dump,Physical item recovered during raid
+EVD_0343,CASE_0236,CCTV Footage,Physical item recovered during raid
+EVD_0344,CASE_0138,Forged Documents,Physical item recovered during raid
+EVD_0345,CASE_0088,Financial Ledger,Physical item recovered during raid
+EVD_0346,CASE_0005,Seized Narcotics,Physical item recovered during raid
+EVD_0347,CASE_0182,CCTV Footage,Physical item recovered during raid
+EVD_0348,CASE_0218,Seized Narcotics,Physical item recovered during raid
+EVD_0349,CASE_0179,Financial Ledger,Physical item recovered during raid
+EVD_0350,CASE_0153,Financial Ledger,Physical item recovered during raid
+EVD_0351,CASE_0185,Forged Documents,Physical item recovered during raid
+EVD_0352,CASE_0191,Forged Documents,Physical item recovered during raid
+EVD_0353,CASE_0132,Digital Phone Dump,Physical item recovered during raid
+EVD_0354,CASE_0037,Digital Phone Dump,Physical item recovered during raid
+EVD_0355,CASE_0145,Financial Ledger,Physical item recovered during raid
+EVD_0356,CASE_0246,CCTV Footage,Physical item recovered during raid
+EVD_0357,CASE_0194,Digital Phone Dump,Physical item recovered during raid
+EVD_0358,CASE_0099,Seized Narcotics,Physical item recovered during raid
+EVD_0359,CASE_0237,Seized Narcotics,Physical item recovered during raid
+EVD_0360,CASE_0149,Financial Ledger,Physical item recovered during raid
+EVD_0361,CASE_0023,Digital Phone Dump,Physical item recovered during raid
+EVD_0362,CASE_0164,Forged Documents,Physical item recovered during raid
+EVD_0363,CASE_0008,Forged Documents,Physical item recovered during raid
+EVD_0364,CASE_0099,Seized Narcotics,Physical item recovered during raid
+EVD_0365,CASE_0144,Financial Ledger,Physical item recovered during raid
+EVD_0366,CASE_0172,Digital Phone Dump,Physical item recovered during raid
+EVD_0367,CASE_0105,Seized Narcotics,Physical item recovered during raid
+EVD_0368,CASE_0181,CCTV Footage,Physical item recovered during raid
+EVD_0369,CASE_0127,CCTV Footage,Physical item recovered during raid
+EVD_0370,CASE_0011,Forged Documents,Physical item recovered during raid
+EVD_0371,CASE_0035,Seized Narcotics,Physical item recovered during raid
+EVD_0372,CASE_0172,Digital Phone Dump,Physical item recovered during raid
+EVD_0373,CASE_0008,Digital Phone Dump,Physical item recovered during raid
+EVD_0374,CASE_0238,Digital Phone Dump,Physical item recovered during raid
+EVD_0375,CASE_0141,CCTV Footage,Physical item recovered during raid
+EVD_0376,CASE_0026,Seized Narcotics,Physical item recovered during raid
+EVD_0377,CASE_0041,Seized Narcotics,Physical item recovered during raid
+EVD_0378,CASE_0195,CCTV Footage,Physical item recovered during raid
+EVD_0379,CASE_0159,Forged Documents,Physical item recovered during raid
+EVD_0380,CASE_0102,Forged Documents,Physical item recovered during raid
+EVD_0381,CASE_0110,Digital Phone Dump,Physical item recovered during raid
+EVD_0382,CASE_0114,Digital Phone Dump,Physical item recovered during raid
+EVD_0383,CASE_0242,Seized Narcotics,Physical item recovered during raid
+EVD_0384,CASE_0052,Forged Documents,Physical item recovered during raid
+EVD_0385,CASE_0058,Financial Ledger,Physical item recovered during raid
+EVD_0386,CASE_0199,Financial Ledger,Physical item recovered during raid
+EVD_0387,CASE_0129,Digital Phone Dump,Physical item recovered during raid
+EVD_0388,CASE_0230,Forged Documents,Physical item recovered during raid
+EVD_0389,CASE_0093,Forged Documents,Physical item recovered during raid
+EVD_0390,CASE_0124,Seized Narcotics,Physical item recovered during raid
+EVD_0391,CASE_0118,Seized Narcotics,Physical item recovered during raid
+EVD_0392,CASE_0149,Seized Narcotics,Physical item recovered during raid
+EVD_0393,CASE_0089,Forged Documents,Physical item recovered during raid
+EVD_0394,CASE_0169,Financial Ledger,Physical item recovered during raid
+EVD_0395,CASE_0126,Financial Ledger,Physical item recovered during raid
+EVD_0396,CASE_0215,Digital Phone Dump,Physical item recovered during raid
+EVD_0397,CASE_0151,Forged Documents,Physical item recovered during raid
+EVD_0398,CASE_0126,Forged Documents,Physical item recovered during raid
+EVD_0399,CASE_0009,Financial Ledger,Physical item recovered during raid
+EVD_0400,CASE_0067,Forged Documents,Physical item recovered during raid
+EVD_0401,CASE_0210,Forged Documents,Physical item recovered during raid
+EVD_0402,CASE_0052,CCTV Footage,Physical item recovered during raid
+EVD_0403,CASE_0063,Seized Narcotics,Physical item recovered during raid
+EVD_0404,CASE_0101,Financial Ledger,Physical item recovered during raid
+EVD_0405,CASE_0186,CCTV Footage,Physical item recovered during raid
+EVD_0406,CASE_0002,CCTV Footage,Physical item recovered during raid
+EVD_0407,CASE_0243,Financial Ledger,Physical item recovered during raid
+EVD_0408,CASE_0070,Forged Documents,Physical item recovered during raid
+EVD_0409,CASE_0229,CCTV Footage,Physical item recovered during raid
+EVD_0410,CASE_0168,CCTV Footage,Physical item recovered during raid
+EVD_0411,CASE_0127,Digital Phone Dump,Physical item recovered during raid
+EVD_0412,CASE_0184,Seized Narcotics,Physical item recovered during raid
+EVD_0413,CASE_0194,Financial Ledger,Physical item recovered during raid
+EVD_0414,CASE_0133,CCTV Footage,Physical item recovered during raid
+EVD_0415,CASE_0110,CCTV Footage,Physical item recovered during raid
+EVD_0416,CASE_0032,Seized Narcotics,Physical item recovered during raid
+EVD_0417,CASE_0218,Digital Phone Dump,Physical item recovered during raid
+EVD_0418,CASE_0085,Digital Phone Dump,Physical item recovered during raid
+EVD_0419,CASE_0025,Digital Phone Dump,Physical item recovered during raid
+EVD_0420,CASE_0248,CCTV Footage,Physical item recovered during raid
+EVD_0421,CASE_0206,Digital Phone Dump,Physical item recovered during raid
+EVD_0422,CASE_0109,Forged Documents,Physical item recovered during raid
+EVD_0423,CASE_0033,Financial Ledger,Physical item recovered during raid
+EVD_0424,CASE_0070,Forged Documents,Physical item recovered during raid
+EVD_0425,CASE_0200,CCTV Footage,Physical item recovered during raid
+EVD_0426,CASE_0230,Seized Narcotics,Physical item recovered during raid
+EVD_0427,CASE_0176,Seized Narcotics,Physical item recovered during raid
+EVD_0428,CASE_0145,Financial Ledger,Physical item recovered during raid
+EVD_0429,CASE_0133,Seized Narcotics,Physical item recovered during raid
+EVD_0430,CASE_0079,Seized Narcotics,Physical item recovered during raid
+EVD_0431,CASE_0218,Seized Narcotics,Physical item recovered during raid
+EVD_0432,CASE_0200,Financial Ledger,Physical item recovered during raid
+EVD_0433,CASE_0099,Seized Narcotics,Physical item recovered during raid
+EVD_0434,CASE_0213,Financial Ledger,Physical item recovered during raid
+EVD_0435,CASE_0156,Forged Documents,Physical item recovered during raid
+EVD_0436,CASE_0197,Seized Narcotics,Physical item recovered during raid
+EVD_0437,CASE_0011,Seized Narcotics,Physical item recovered during raid
+EVD_0438,CASE_0019,CCTV Footage,Physical item recovered during raid
+EVD_0439,CASE_0172,Seized Narcotics,Physical item recovered during raid
+EVD_0440,CASE_0248,Seized Narcotics,Physical item recovered during raid
+EVD_0441,CASE_0116,Digital Phone Dump,Physical item recovered during raid
+EVD_0442,CASE_0133,CCTV Footage,Physical item recovered during raid
+EVD_0443,CASE_0241,Financial Ledger,Physical item recovered during raid
+EVD_0444,CASE_0066,Forged Documents,Physical item recovered during raid
+EVD_0445,CASE_0113,Digital Phone Dump,Physical item recovered during raid
+EVD_0446,CASE_0162,Financial Ledger,Physical item recovered during raid
+EVD_0447,CASE_0187,Forged Documents,Physical item recovered during raid
+EVD_0448,CASE_0073,Digital Phone Dump,Physical item recovered during raid
+EVD_0449,CASE_0217,Forged Documents,Physical item recovered during raid
+EVD_0450,CASE_0193,CCTV Footage,Physical item recovered during raid
+EVD_0451,CASE_0060,CCTV Footage,Physical item recovered during raid
+EVD_0452,CASE_0163,Seized Narcotics,Physical item recovered during raid
+EVD_0453,CASE_0142,CCTV Footage,Physical item recovered during raid
+EVD_0454,CASE_0071,Seized Narcotics,Physical item recovered during raid
+EVD_0455,CASE_0054,Seized Narcotics,Physical item recovered during raid
+EVD_0456,CASE_0148,CCTV Footage,Physical item recovered during raid
+EVD_0457,CASE_0082,CCTV Footage,Physical item recovered during raid
+EVD_0458,CASE_0097,Forged Documents,Physical item recovered during raid
+EVD_0459,CASE_0018,CCTV Footage,Physical item recovered during raid
+EVD_0460,CASE_0057,Digital Phone Dump,Physical item recovered during raid
+EVD_0461,CASE_0028,Digital Phone Dump,Physical item recovered during raid
+EVD_0462,CASE_0246,Seized Narcotics,Physical item recovered during raid
+EVD_0463,CASE_0090,Financial Ledger,Physical item recovered during raid
+EVD_0464,CASE_0033,CCTV Footage,Physical item recovered during raid
+EVD_0465,CASE_0164,Financial Ledger,Physical item recovered during raid
+EVD_0466,CASE_0168,Digital Phone Dump,Physical item recovered during raid
+EVD_0467,CASE_0092,Seized Narcotics,Physical item recovered during raid
+EVD_0468,CASE_0027,Seized Narcotics,Physical item recovered during raid
+EVD_0469,CASE_0248,CCTV Footage,Physical item recovered during raid
+EVD_0470,CASE_0168,Seized Narcotics,Physical item recovered during raid
+EVD_0471,CASE_0051,Financial Ledger,Physical item recovered during raid
+EVD_0472,CASE_0154,Financial Ledger,Physical item recovered during raid
+EVD_0473,CASE_0221,Seized Narcotics,Physical item recovered during raid
+EVD_0474,CASE_0148,Financial Ledger,Physical item recovered during raid
+EVD_0475,CASE_0043,CCTV Footage,Physical item recovered during raid
+EVD_0476,CASE_0073,Seized Narcotics,Physical item recovered during raid
+EVD_0477,CASE_0212,Digital Phone Dump,Physical item recovered during raid
+EVD_0478,CASE_0081,CCTV Footage,Physical item recovered during raid
+EVD_0479,CASE_0115,CCTV Footage,Physical item recovered during raid
+EVD_0480,CASE_0160,CCTV Footage,Physical item recovered during raid
+EVD_0481,CASE_0010,Digital Phone Dump,Physical item recovered during raid
+EVD_0482,CASE_0195,Digital Phone Dump,Physical item recovered during raid
+EVD_0483,CASE_0064,CCTV Footage,Physical item recovered during raid
+EVD_0484,CASE_0139,Forged Documents,Physical item recovered during raid
+EVD_0485,CASE_0174,Forged Documents,Physical item recovered during raid
+EVD_0486,CASE_0120,Forged Documents,Physical item recovered during raid
+EVD_0487,CASE_0219,Forged Documents,Physical item recovered during raid
+EVD_0488,CASE_0010,Forged Documents,Physical item recovered during raid
+EVD_0489,CASE_0213,Digital Phone Dump,Physical item recovered during raid
+EVD_0490,CASE_0216,CCTV Footage,Physical item recovered during raid
+EVD_0491,CASE_0148,Financial Ledger,Physical item recovered during raid
+EVD_0492,CASE_0230,Seized Narcotics,Physical item recovered during raid
+EVD_0493,CASE_0229,Digital Phone Dump,Physical item recovered during raid
+EVD_0494,CASE_0200,Financial Ledger,Physical item recovered during raid
+EVD_0495,CASE_0005,Digital Phone Dump,Physical item recovered during raid
+EVD_0496,CASE_0145,CCTV Footage,Physical item recovered during raid
+EVD_0497,CASE_0210,Forged Documents,Physical item recovered during raid
+EVD_0498,CASE_0141,Digital Phone Dump,Physical item recovered during raid
+EVD_0499,CASE_0137,Forged Documents,Physical item recovered during raid
+EVD_0500,CASE_0074,Financial Ledger,Physical item recovered during raid
+EVD_0501,CASE_0172,Digital Phone Dump,Physical item recovered during raid
+EVD_0502,CASE_0006,CCTV Footage,Physical item recovered during raid
+EVD_0503,CASE_0026,CCTV Footage,Physical item recovered during raid
+EVD_0504,CASE_0051,Forged Documents,Physical item recovered during raid
+EVD_0505,CASE_0062,Digital Phone Dump,Physical item recovered during raid
+EVD_0506,CASE_0177,CCTV Footage,Physical item recovered during raid
+EVD_0507,CASE_0171,Digital Phone Dump,Physical item recovered during raid
+EVD_0508,CASE_0163,CCTV Footage,Physical item recovered during raid
+EVD_0509,CASE_0224,Forged Documents,Physical item recovered during raid
+EVD_0510,CASE_0181,Seized Narcotics,Physical item recovered during raid
+EVD_0511,CASE_0047,Forged Documents,Physical item recovered during raid
+EVD_0512,CASE_0193,Forged Documents,Physical item recovered during raid
+EVD_0513,CASE_0063,CCTV Footage,Physical item recovered during raid
+EVD_0514,CASE_0043,Seized Narcotics,Physical item recovered during raid
+EVD_0515,CASE_0121,Seized Narcotics,Physical item recovered during raid
+EVD_0516,CASE_0090,Financial Ledger,Physical item recovered during raid
+EVD_0517,CASE_0144,Seized Narcotics,Physical item recovered during raid
+EVD_0518,CASE_0142,Financial Ledger,Physical item recovered during raid
+EVD_0519,CASE_0031,Digital Phone Dump,Physical item recovered during raid
+EVD_0520,CASE_0058,Seized Narcotics,Physical item recovered during raid
+EVD_0521,CASE_0020,Forged Documents,Physical item recovered during raid
+EVD_0522,CASE_0131,Forged Documents,Physical item recovered during raid
+EVD_0523,CASE_0015,Financial Ledger,Physical item recovered during raid
+EVD_0524,CASE_0113,Forged Documents,Physical item recovered during raid
+EVD_0525,CASE_0104,Forged Documents,Physical item recovered during raid
+EVD_0526,CASE_0127,Seized Narcotics,Physical item recovered during raid
+EVD_0527,CASE_0152,Digital Phone Dump,Physical item recovered during raid
+EVD_0528,CASE_0181,CCTV Footage,Physical item recovered during raid
+EVD_0529,CASE_0142,CCTV Footage,Physical item recovered during raid
+EVD_0530,CASE_0035,Seized Narcotics,Physical item recovered during raid
+EVD_0531,CASE_0224,Digital Phone Dump,Physical item recovered during raid
+EVD_0532,CASE_0016,Digital Phone Dump,Physical item recovered during raid
+EVD_0533,CASE_0136,Forged Documents,Physical item recovered during raid
+EVD_0534,CASE_0082,Forged Documents,Physical item recovered during raid
+EVD_0535,CASE_0070,Seized Narcotics,Physical item recovered during raid
+EVD_0536,CASE_0092,CCTV Footage,Physical item recovered during raid
+EVD_0537,CASE_0160,Digital Phone Dump,Physical item recovered during raid
+EVD_0538,CASE_0061,Seized Narcotics,Physical item recovered during raid
+EVD_0539,CASE_0054,Forged Documents,Physical item recovered during raid
+EVD_0540,CASE_0004,Forged Documents,Physical item recovered during raid
+EVD_0541,CASE_0113,Forged Documents,Physical item recovered during raid
+EVD_0542,CASE_0136,Forged Documents,Physical item recovered during raid
+EVD_0543,CASE_0029,CCTV Footage,Physical item recovered during raid
+EVD_0544,CASE_0224,Digital Phone Dump,Physical item recovered during raid
+EVD_0545,CASE_0069,CCTV Footage,Physical item recovered during raid
+EVD_0546,CASE_0121,Digital Phone Dump,Physical item recovered during raid
+EVD_0547,CASE_0097,Financial Ledger,Physical item recovered during raid
+EVD_0548,CASE_0088,Forged Documents,Physical item recovered during raid
+EVD_0549,CASE_0017,Digital Phone Dump,Physical item recovered during raid
+EVD_0550,CASE_0237,Forged Documents,Physical item recovered during raid
+EVD_0551,CASE_0073,CCTV Footage,Physical item recovered during raid
+EVD_0552,CASE_0216,Forged Documents,Physical item recovered during raid
+EVD_0553,CASE_0123,Financial Ledger,Physical item recovered during raid
+EVD_0554,CASE_0179,Financial Ledger,Physical item recovered during raid
+EVD_0555,CASE_0025,Financial Ledger,Physical item recovered during raid
+EVD_0556,CASE_0081,Digital Phone Dump,Physical item recovered during raid
+EVD_0557,CASE_0116,Financial Ledger,Physical item recovered during raid
+EVD_0558,CASE_0196,Digital Phone Dump,Physical item recovered during raid
+EVD_0559,CASE_0091,Forged Documents,Physical item recovered during raid
+EVD_0560,CASE_0185,Financial Ledger,Physical item recovered during raid
+EVD_0561,CASE_0249,Financial Ledger,Physical item recovered during raid
+EVD_0562,CASE_0174,CCTV Footage,Physical item recovered during raid
+EVD_0563,CASE_0137,Digital Phone Dump,Physical item recovered during raid
+EVD_0564,CASE_0220,Financial Ledger,Physical item recovered during raid
+EVD_0565,CASE_0036,Forged Documents,Physical item recovered during raid
+EVD_0566,CASE_0168,CCTV Footage,Physical item recovered during raid
+EVD_0567,CASE_0147,Seized Narcotics,Physical item recovered during raid
+EVD_0568,CASE_0182,Seized Narcotics,Physical item recovered during raid
+EVD_0569,CASE_0209,CCTV Footage,Physical item recovered during raid
+EVD_0570,CASE_0094,Seized Narcotics,Physical item recovered during raid
+EVD_0571,CASE_0196,Seized Narcotics,Physical item recovered during raid
+EVD_0572,CASE_0210,Seized Narcotics,Physical item recovered during raid
+EVD_0573,CASE_0081,Forged Documents,Physical item recovered during raid
+EVD_0574,CASE_0122,Digital Phone Dump,Physical item recovered during raid
+EVD_0575,CASE_0202,Digital Phone Dump,Physical item recovered during raid
+EVD_0576,CASE_0140,Financial Ledger,Physical item recovered during raid
+EVD_0577,CASE_0020,Financial Ledger,Physical item recovered during raid
+EVD_0578,CASE_0118,Forged Documents,Physical item recovered during raid
+EVD_0579,CASE_0074,Forged Documents,Physical item recovered during raid
+EVD_0580,CASE_0127,Seized Narcotics,Physical item recovered during raid
+EVD_0581,CASE_0167,Financial Ledger,Physical item recovered during raid
+EVD_0582,CASE_0016,Forged Documents,Physical item recovered during raid
+EVD_0583,CASE_0193,CCTV Footage,Physical item recovered during raid
+EVD_0584,CASE_0003,CCTV Footage,Physical item recovered during raid
+EVD_0585,CASE_0140,Digital Phone Dump,Physical item recovered during raid
+EVD_0586,CASE_0130,Digital Phone Dump,Physical item recovered during raid
+EVD_0587,CASE_0018,CCTV Footage,Physical item recovered during raid
+EVD_0588,CASE_0058,Financial Ledger,Physical item recovered during raid
+EVD_0589,CASE_0112,Financial Ledger,Physical item recovered during raid
+EVD_0590,CASE_0180,Seized Narcotics,Physical item recovered during raid
+EVD_0591,CASE_0046,Forged Documents,Physical item recovered during raid
+EVD_0592,CASE_0082,CCTV Footage,Physical item recovered during raid
+EVD_0593,CASE_0244,Forged Documents,Physical item recovered during raid
+EVD_0594,CASE_0014,Digital Phone Dump,Physical item recovered during raid
+EVD_0595,CASE_0236,Financial Ledger,Physical item recovered during raid
+EVD_0596,CASE_0192,Financial Ledger,Physical item recovered during raid
+EVD_0597,CASE_0097,Digital Phone Dump,Physical item recovered during raid
+EVD_0598,CASE_0177,Digital Phone Dump,Physical item recovered during raid
+EVD_0599,CASE_0219,Digital Phone Dump,Physical item recovered during raid
+EVD_0600,CASE_0200,CCTV Footage,Physical item recovered during raid
+EVD_0601,CASE_0148,Digital Phone Dump,Physical item recovered during raid
+EVD_0602,CASE_0063,Financial Ledger,Physical item recovered during raid
+EVD_0603,CASE_0160,Financial Ledger,Physical item recovered during raid
+EVD_0604,CASE_0036,Financial Ledger,Physical item recovered during raid
+EVD_0605,CASE_0197,Financial Ledger,Physical item recovered during raid
+EVD_0606,CASE_0116,Seized Narcotics,Physical item recovered during raid
+EVD_0607,CASE_0087,Seized Narcotics,Physical item recovered during raid
+EVD_0608,CASE_0082,Financial Ledger,Physical item recovered during raid
+EVD_0609,CASE_0185,Forged Documents,Physical item recovered during raid
+EVD_0610,CASE_0219,CCTV Footage,Physical item recovered during raid
+EVD_0611,CASE_0241,Digital Phone Dump,Physical item recovered during raid
+EVD_0612,CASE_0104,Digital Phone Dump,Physical item recovered during raid
+EVD_0613,CASE_0138,CCTV Footage,Physical item recovered during raid
+EVD_0614,CASE_0002,Digital Phone Dump,Physical item recovered during raid
+EVD_0615,CASE_0206,Digital Phone Dump,Physical item recovered during raid
+EVD_0616,CASE_0247,Financial Ledger,Physical item recovered during raid
+EVD_0617,CASE_0174,Digital Phone Dump,Physical item recovered during raid
+EVD_0618,CASE_0119,Seized Narcotics,Physical item recovered during raid
+EVD_0619,CASE_0097,Seized Narcotics,Physical item recovered during raid
+EVD_0620,CASE_0171,CCTV Footage,Physical item recovered during raid
+EVD_0621,CASE_0192,Forged Documents,Physical item recovered during raid
+EVD_0622,CASE_0198,Digital Phone Dump,Physical item recovered during raid
+EVD_0623,CASE_0184,CCTV Footage,Physical item recovered during raid
+EVD_0624,CASE_0233,Forged Documents,Physical item recovered during raid
+EVD_0625,CASE_0149,Forged Documents,Physical item recovered during raid
+EVD_0626,CASE_0246,Financial Ledger,Physical item recovered during raid
+EVD_0627,CASE_0124,Forged Documents,Physical item recovered during raid
+EVD_0628,CASE_0186,Digital Phone Dump,Physical item recovered during raid
+EVD_0629,CASE_0244,Digital Phone Dump,Physical item recovered during raid
+EVD_0630,CASE_0162,Forged Documents,Physical item recovered during raid
+EVD_0631,CASE_0007,Digital Phone Dump,Physical item recovered during raid
+EVD_0632,CASE_0176,CCTV Footage,Physical item recovered during raid
+EVD_0633,CASE_0089,Financial Ledger,Physical item recovered during raid
+EVD_0634,CASE_0121,CCTV Footage,Physical item recovered during raid
+EVD_0635,CASE_0194,Forged Documents,Physical item recovered during raid
+EVD_0636,CASE_0193,Digital Phone Dump,Physical item recovered during raid
+EVD_0637,CASE_0106,CCTV Footage,Physical item recovered during raid
+EVD_0638,CASE_0025,CCTV Footage,Physical item recovered during raid
+EVD_0639,CASE_0223,Digital Phone Dump,Physical item recovered during raid
+EVD_0640,CASE_0236,Seized Narcotics,Physical item recovered during raid
+EVD_0641,CASE_0204,CCTV Footage,Physical item recovered during raid
+EVD_0642,CASE_0040,Digital Phone Dump,Physical item recovered during raid
+EVD_0643,CASE_0186,CCTV Footage,Physical item recovered during raid
+EVD_0644,CASE_0244,Financial Ledger,Physical item recovered during raid
+EVD_0645,CASE_0024,Digital Phone Dump,Physical item recovered during raid
+EVD_0646,CASE_0239,Digital Phone Dump,Physical item recovered during raid
+EVD_0647,CASE_0036,CCTV Footage,Physical item recovered during raid
+EVD_0648,CASE_0193,Seized Narcotics,Physical item recovered during raid
+EVD_0649,CASE_0222,Forged Documents,Physical item recovered during raid
+EVD_0650,CASE_0048,Financial Ledger,Physical item recovered during raid
+EVD_0651,CASE_0062,CCTV Footage,Physical item recovered during raid
+EVD_0652,CASE_0065,Seized Narcotics,Physical item recovered during raid
+EVD_0653,CASE_0234,CCTV Footage,Physical item recovered during raid
+EVD_0654,CASE_0093,Financial Ledger,Physical item recovered during raid
+EVD_0655,CASE_0088,Financial Ledger,Physical item recovered during raid
+EVD_0656,CASE_0072,Seized Narcotics,Physical item recovered during raid
+EVD_0657,CASE_0216,CCTV Footage,Physical item recovered during raid
+EVD_0658,CASE_0157,Digital Phone Dump,Physical item recovered during raid
+EVD_0659,CASE_0082,CCTV Footage,Physical item recovered during raid
+EVD_0660,CASE_0230,CCTV Footage,Physical item recovered during raid
+EVD_0661,CASE_0228,Digital Phone Dump,Physical item recovered during raid
+EVD_0662,CASE_0022,Financial Ledger,Physical item recovered during raid
+EVD_0663,CASE_0197,Seized Narcotics,Physical item recovered during raid
+EVD_0664,CASE_0014,Digital Phone Dump,Physical item recovered during raid
+EVD_0665,CASE_0089,Forged Documents,Physical item recovered during raid
+EVD_0666,CASE_0058,Seized Narcotics,Physical item recovered during raid
+EVD_0667,CASE_0052,Digital Phone Dump,Physical item recovered during raid
+EVD_0668,CASE_0130,Digital Phone Dump,Physical item recovered during raid
+EVD_0669,CASE_0111,Forged Documents,Physical item recovered during raid
+EVD_0670,CASE_0049,Financial Ledger,Physical item recovered during raid
+EVD_0671,CASE_0171,Financial Ledger,Physical item recovered during raid
+EVD_0672,CASE_0223,CCTV Footage,Physical item recovered during raid
+EVD_0673,CASE_0003,Financial Ledger,Physical item recovered during raid
+EVD_0674,CASE_0115,CCTV Footage,Physical item recovered during raid
+EVD_0675,CASE_0209,CCTV Footage,Physical item recovered during raid
+EVD_0676,CASE_0244,Forged Documents,Physical item recovered during raid
+EVD_0677,CASE_0093,Forged Documents,Physical item recovered during raid
+EVD_0678,CASE_0026,Forged Documents,Physical item recovered during raid
+EVD_0679,CASE_0213,CCTV Footage,Physical item recovered during raid
+EVD_0680,CASE_0150,Forged Documents,Physical item recovered during raid
+EVD_0681,CASE_0168,Digital Phone Dump,Physical item recovered during raid
+EVD_0682,CASE_0024,Digital Phone Dump,Physical item recovered during raid
+EVD_0683,CASE_0038,Financial Ledger,Physical item recovered during raid
+EVD_0684,CASE_0016,CCTV Footage,Physical item recovered during raid
+EVD_0685,CASE_0107,Digital Phone Dump,Physical item recovered during raid
+EVD_0686,CASE_0218,CCTV Footage,Physical item recovered during raid
+EVD_0687,CASE_0105,CCTV Footage,Physical item recovered during raid
+EVD_0688,CASE_0081,Forged Documents,Physical item recovered during raid
+EVD_0689,CASE_0075,Digital Phone Dump,Physical item recovered during raid
+EVD_0690,CASE_0077,Forged Documents,Physical item recovered during raid
+EVD_0691,CASE_0099,Seized Narcotics,Physical item recovered during raid
+EVD_0692,CASE_0176,CCTV Footage,Physical item recovered during raid
+EVD_0693,CASE_0211,CCTV Footage,Physical item recovered during raid
+EVD_0694,CASE_0045,Digital Phone Dump,Physical item recovered during raid
+EVD_0695,CASE_0006,CCTV Footage,Physical item recovered during raid
+EVD_0696,CASE_0044,Financial Ledger,Physical item recovered during raid
+EVD_0697,CASE_0140,Forged Documents,Physical item recovered during raid
+EVD_0698,CASE_0046,CCTV Footage,Physical item recovered during raid
+EVD_0699,CASE_0154,Financial Ledger,Physical item recovered during raid
+EVD_0700,CASE_0102,Forged Documents,Physical item recovered during raid
+EVD_0701,CASE_0239,Digital Phone Dump,Physical item recovered during raid
+EVD_0702,CASE_0101,Digital Phone Dump,Physical item recovered during raid
+EVD_0703,CASE_0020,Forged Documents,Physical item recovered during raid
+EVD_0704,CASE_0052,Digital Phone Dump,Physical item recovered during raid
+EVD_0705,CASE_0005,CCTV Footage,Physical item recovered during raid
+EVD_0706,CASE_0076,Forged Documents,Physical item recovered during raid
+EVD_0707,CASE_0011,Seized Narcotics,Physical item recovered during raid
+EVD_0708,CASE_0121,Digital Phone Dump,Physical item recovered during raid
+EVD_0709,CASE_0191,Forged Documents,Physical item recovered during raid
+EVD_0710,CASE_0248,Digital Phone Dump,Physical item recovered during raid
+EVD_0711,CASE_0132,Seized Narcotics,Physical item recovered during raid
+EVD_0712,CASE_0061,Digital Phone Dump,Physical item recovered during raid
+EVD_0713,CASE_0180,Forged Documents,Physical item recovered during raid
+EVD_0714,CASE_0080,CCTV Footage,Physical item recovered during raid
+EVD_0715,CASE_0013,CCTV Footage,Physical item recovered during raid
+EVD_0716,CASE_0212,Financial Ledger,Physical item recovered during raid
+EVD_0717,CASE_0201,Forged Documents,Physical item recovered during raid
+EVD_0718,CASE_0073,CCTV Footage,Physical item recovered during raid
+EVD_0719,CASE_0021,Seized Narcotics,Physical item recovered during raid
+EVD_0720,CASE_0111,Digital Phone Dump,Physical item recovered during raid
+EVD_0721,CASE_0066,Digital Phone Dump,Physical item recovered during raid
+EVD_0722,CASE_0220,Seized Narcotics,Physical item recovered during raid
+EVD_0723,CASE_0059,Seized Narcotics,Physical item recovered during raid
+EVD_0724,CASE_0016,Seized Narcotics,Physical item recovered during raid
+EVD_0725,CASE_0100,Forged Documents,Physical item recovered during raid
+EVD_0726,CASE_0061,Forged Documents,Physical item recovered during raid
+EVD_0727,CASE_0111,Digital Phone Dump,Physical item recovered during raid
+EVD_0728,CASE_0193,Digital Phone Dump,Physical item recovered during raid
+EVD_0729,CASE_0135,Financial Ledger,Physical item recovered during raid
+EVD_0730,CASE_0093,Financial Ledger,Physical item recovered during raid
+EVD_0731,CASE_0079,Seized Narcotics,Physical item recovered during raid
+EVD_0732,CASE_0075,Seized Narcotics,Physical item recovered during raid
+EVD_0733,CASE_0137,Financial Ledger,Physical item recovered during raid
+EVD_0734,CASE_0117,CCTV Footage,Physical item recovered during raid
+EVD_0735,CASE_0234,Forged Documents,Physical item recovered during raid
+EVD_0736,CASE_0039,Digital Phone Dump,Physical item recovered during raid
+EVD_0737,CASE_0230,CCTV Footage,Physical item recovered during raid
+EVD_0738,CASE_0091,Seized Narcotics,Physical item recovered during raid
+EVD_0739,CASE_0196,Seized Narcotics,Physical item recovered during raid
+EVD_0740,CASE_0163,Seized Narcotics,Physical item recovered during raid
+EVD_0741,CASE_0131,Financial Ledger,Physical item recovered during raid
+EVD_0742,CASE_0135,Forged Documents,Physical item recovered during raid
+EVD_0743,CASE_0021,Seized Narcotics,Physical item recovered during raid
+EVD_0744,CASE_0098,Forged Documents,Physical item recovered during raid
+EVD_0745,CASE_0192,Seized Narcotics,Physical item recovered during raid
+EVD_0746,CASE_0190,Seized Narcotics,Physical item recovered during raid
+EVD_0747,CASE_0047,Forged Documents,Physical item recovered during raid
+EVD_0748,CASE_0229,Seized Narcotics,Physical item recovered during raid
+EVD_0749,CASE_0076,Forged Documents,Physical item recovered during raid

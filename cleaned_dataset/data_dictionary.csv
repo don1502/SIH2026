@@ -1,0 +1,71 @@
+table,column,data_type,description,key_role
+persons.csv,person_id,string,Primary key,PK
+persons.csv,full_name,string,Full name of the individual,
+persons.csv,age,integer,Age in years,
+persons.csv,gender,string,Male / Female,
+persons.csv,role,string,"Role in criminal network (e.g. Kingpin, Enforcer, Courier)",
+persons.csv,risk_score,float,"Risk score, 0.0-1.0",
+organizations.csv,org_id,string,Primary key,PK
+organizations.csv,org_name,string,Organization / syndicate name,
+organizations.csv,type,string,"Organization type (Gang, Cartel, Smuggling Syndicate, etc.)",
+organizations.csv,threat_level,string,Low / Medium / High / Critical,
+locations.csv,location_id,string,Primary key,PK
+locations.csv,latitude,float,Latitude coordinate,
+locations.csv,longitude,float,Longitude coordinate,
+locations.csv,type,string,"Location type (Safehouse, Warehouse, Residential Hub, etc.)",
+phones.csv,phone_id,string,Primary key,PK
+phones.csv,phone_number,string,E.164-format phone number,
+phones.csv,imei,string,Device IMEI number,
+phones.csv,service_provider,string,Telecom provider,
+accounts.csv,account_id,string,Primary key,PK
+accounts.csv,account_number,string,Bank account number (used as FK by transactions.csv),
+accounts.csv,bank_name,string,Bank name,
+accounts.csv,balance,float,Account balance,
+vehicles.csv,vehicle_id,string,Primary key,PK
+vehicles.csv,registration_number,string,License plate number,
+vehicles.csv,vehicle_type,string,Van / SUV / Motorcycle / Truck / etc.,
+vehicles.csv,color,string,Vehicle color,
+cases.csv,case_id,string,Primary key,PK
+cases.csv,case_title,string,Case title,
+cases.csv,crime_type,string,"Crime category (Homicide, Narcotics Trafficking, etc.)",
+cases.csv,status,string,Open / Cold / Closed,
+cases.csv,date_registered,date,Date case was registered (YYYY-MM-DD),
+person_phones.csv,person_id,string,FK -> persons.person_id,FK
+person_phones.csv,phone_id,string,FK -> phones.phone_id,FK
+person_phones.csv,registered_since,date,Date phone was registered to person,
+person_accounts.csv,person_id,string,FK -> persons.person_id,FK
+person_accounts.csv,account_id,string,FK -> accounts.account_id,FK
+person_accounts.csv,account_role,string,Primary / Benami / etc.,
+person_vehicles.csv,person_id,string,FK -> persons.person_id,FK
+person_vehicles.csv,vehicle_id,string,FK -> vehicles.vehicle_id,FK
+person_vehicles.csv,ownership_type,string,Owner / Driver / Spotted In,
+person_locations.csv,person_id,string,FK -> persons.person_id,FK
+person_locations.csv,location_id,string,FK -> locations.location_id,FK
+person_locations.csv,association_type,string,Residence / Meeting Point / Spotted / etc.,
+person_organizations.csv,person_id,string,FK -> persons.person_id,FK
+person_organizations.csv,org_id,string,FK -> organizations.org_id,FK
+person_organizations.csv,role_in_org,string,Role within the organization,
+case_persons.csv,case_id,string,FK -> cases.case_id,FK
+case_persons.csv,person_id,string,FK -> persons.person_id,FK
+case_persons.csv,involvement_type,string,Witness / Accused / Prime Suspect / etc.,
+evidence.csv,evidence_id,string,Primary key,PK
+evidence.csv,case_id,string,FK -> cases.case_id,FK
+evidence.csv,evidence_type,string,Type of evidence collected,
+evidence.csv,description,string,Free-text description,
+events.csv,event_id,string,Primary key,PK
+events.csv,event_title,string,Event title,
+events.csv,timestamp,datetime,ISO 8601 UTC timestamp (YYYY-MM-DDTHH:MM:SSZ),
+events.csv,location_id,string,FK -> locations.location_id,FK
+events.csv,case_id,string,FK -> cases.case_id,FK
+call_records.csv,call_id,string,Primary key,PK
+call_records.csv,caller_number,string,FK -> phones.phone_number (not phone_id),FK*
+call_records.csv,receiver_number,string,FK -> phones.phone_number (not phone_id),FK*
+call_records.csv,timestamp,datetime,ISO 8601 UTC timestamp (YYYY-MM-DDTHH:MM:SSZ),
+call_records.csv,duration_seconds,integer,Call duration in seconds,
+call_records.csv,cell_tower_location_id,string,FK -> locations.location_id,FK
+transactions.csv,transaction_id,string,Primary key,PK
+transactions.csv,sender_account,string,FK -> accounts.account_number (not account_id),FK*
+transactions.csv,receiver_account,string,FK -> accounts.account_number (not account_id),FK*
+transactions.csv,amount,float,Transaction amount,
+transactions.csv,transaction_type,string,Cash Deposit / Crypto Off-ramp / ATM Withdrawal / etc.,
+transactions.csv,timestamp,datetime,ISO 8601 UTC timestamp (YYYY-MM-DDTHH:MM:SSZ),

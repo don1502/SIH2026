@@ -1,0 +1,1988 @@
+person_id,location_id,association_type
+PER_0001,LOC_0010,Meeting Point
+PER_0001,LOC_0096,Meeting Point
+PER_0002,LOC_0027,Spotted
+PER_0002,LOC_0048,Residence
+PER_0003,LOC_0095,Residence
+PER_0003,LOC_0133,Spotted
+PER_0003,LOC_0145,Residence
+PER_0004,LOC_0043,Spotted
+PER_0004,LOC_0130,Residence
+PER_0004,LOC_0004,Meeting Point
+PER_0005,LOC_0111,Residence
+PER_0005,LOC_0012,Frequent Hideout
+PER_0006,LOC_0149,Frequent Hideout
+PER_0007,LOC_0135,Spotted
+PER_0007,LOC_0142,Spotted
+PER_0008,LOC_0009,Meeting Point
+PER_0008,LOC_0150,Frequent Hideout
+PER_0009,LOC_0022,Frequent Hideout
+PER_0009,LOC_0084,Meeting Point
+PER_0010,LOC_0083,Spotted
+PER_0010,LOC_0142,Spotted
+PER_0011,LOC_0040,Frequent Hideout
+PER_0011,LOC_0004,Frequent Hideout
+PER_0012,LOC_0143,Spotted
+PER_0012,LOC_0039,Meeting Point
+PER_0013,LOC_0019,Frequent Hideout
+PER_0014,LOC_0061,Residence
+PER_0014,LOC_0119,Spotted
+PER_0015,LOC_0011,Residence
+PER_0015,LOC_0058,Residence
+PER_0016,LOC_0009,Meeting Point
+PER_0016,LOC_0040,Residence
+PER_0016,LOC_0098,Spotted
+PER_0017,LOC_0064,Meeting Point
+PER_0018,LOC_0099,Residence
+PER_0019,LOC_0068,Meeting Point
+PER_0020,LOC_0129,Residence
+PER_0021,LOC_0149,Frequent Hideout
+PER_0022,LOC_0081,Spotted
+PER_0022,LOC_0097,Meeting Point
+PER_0022,LOC_0037,Meeting Point
+PER_0023,LOC_0142,Residence
+PER_0023,LOC_0055,Residence
+PER_0023,LOC_0075,Frequent Hideout
+PER_0024,LOC_0021,Residence
+PER_0024,LOC_0072,Frequent Hideout
+PER_0025,LOC_0133,Residence
+PER_0026,LOC_0144,Residence
+PER_0027,LOC_0003,Residence
+PER_0027,LOC_0088,Frequent Hideout
+PER_0028,LOC_0081,Residence
+PER_0029,LOC_0001,Spotted
+PER_0029,LOC_0080,Meeting Point
+PER_0030,LOC_0129,Spotted
+PER_0031,LOC_0001,Spotted
+PER_0031,LOC_0147,Residence
+PER_0032,LOC_0117,Spotted
+PER_0032,LOC_0026,Meeting Point
+PER_0033,LOC_0055,Frequent Hideout
+PER_0033,LOC_0018,Residence
+PER_0033,LOC_0006,Spotted
+PER_0034,LOC_0100,Spotted
+PER_0034,LOC_0070,Meeting Point
+PER_0035,LOC_0040,Meeting Point
+PER_0036,LOC_0121,Residence
+PER_0036,LOC_0069,Meeting Point
+PER_0037,LOC_0069,Frequent Hideout
+PER_0037,LOC_0007,Meeting Point
+PER_0037,LOC_0057,Spotted
+PER_0038,LOC_0149,Meeting Point
+PER_0038,LOC_0135,Residence
+PER_0039,LOC_0059,Frequent Hideout
+PER_0039,LOC_0064,Meeting Point
+PER_0039,LOC_0028,Spotted
+PER_0040,LOC_0048,Meeting Point
+PER_0041,LOC_0019,Meeting Point
+PER_0041,LOC_0002,Residence
+PER_0042,LOC_0043,Meeting Point
+PER_0043,LOC_0090,Residence
+PER_0043,LOC_0060,Residence
+PER_0044,LOC_0126,Frequent Hideout
+PER_0044,LOC_0102,Residence
+PER_0045,LOC_0010,Meeting Point
+PER_0045,LOC_0021,Spotted
+PER_0045,LOC_0007,Spotted
+PER_0046,LOC_0025,Spotted
+PER_0046,LOC_0043,Frequent Hideout
+PER_0047,LOC_0010,Spotted
+PER_0047,LOC_0100,Residence
+PER_0048,LOC_0072,Meeting Point
+PER_0049,LOC_0134,Meeting Point
+PER_0049,LOC_0103,Spotted
+PER_0050,LOC_0097,Spotted
+PER_0050,LOC_0150,Spotted
+PER_0050,LOC_0133,Residence
+PER_0051,LOC_0004,Meeting Point
+PER_0051,LOC_0064,Residence
+PER_0052,LOC_0014,Meeting Point
+PER_0053,LOC_0002,Meeting Point
+PER_0053,LOC_0019,Meeting Point
+PER_0054,LOC_0124,Spotted
+PER_0055,LOC_0080,Residence
+PER_0055,LOC_0051,Meeting Point
+PER_0055,LOC_0052,Residence
+PER_0056,LOC_0019,Meeting Point
+PER_0057,LOC_0147,Meeting Point
+PER_0058,LOC_0010,Spotted
+PER_0059,LOC_0007,Spotted
+PER_0059,LOC_0044,Spotted
+PER_0059,LOC_0024,Spotted
+PER_0060,LOC_0092,Spotted
+PER_0061,LOC_0109,Frequent Hideout
+PER_0061,LOC_0115,Frequent Hideout
+PER_0061,LOC_0072,Frequent Hideout
+PER_0062,LOC_0133,Meeting Point
+PER_0062,LOC_0078,Spotted
+PER_0062,LOC_0145,Spotted
+PER_0063,LOC_0059,Residence
+PER_0064,LOC_0007,Frequent Hideout
+PER_0064,LOC_0055,Spotted
+PER_0065,LOC_0001,Residence
+PER_0066,LOC_0150,Meeting Point
+PER_0066,LOC_0047,Meeting Point
+PER_0067,LOC_0055,Residence
+PER_0067,LOC_0099,Meeting Point
+PER_0068,LOC_0117,Meeting Point
+PER_0068,LOC_0061,Frequent Hideout
+PER_0068,LOC_0027,Spotted
+PER_0069,LOC_0040,Meeting Point
+PER_0069,LOC_0070,Frequent Hideout
+PER_0070,LOC_0144,Spotted
+PER_0071,LOC_0097,Frequent Hideout
+PER_0071,LOC_0085,Meeting Point
+PER_0071,LOC_0063,Meeting Point
+PER_0072,LOC_0117,Residence
+PER_0072,LOC_0024,Frequent Hideout
+PER_0072,LOC_0067,Spotted
+PER_0073,LOC_0052,Meeting Point
+PER_0073,LOC_0032,Meeting Point
+PER_0073,LOC_0124,Residence
+PER_0074,LOC_0002,Spotted
+PER_0074,LOC_0094,Residence
+PER_0075,LOC_0059,Meeting Point
+PER_0075,LOC_0082,Frequent Hideout
+PER_0076,LOC_0032,Meeting Point
+PER_0077,LOC_0087,Residence
+PER_0078,LOC_0143,Spotted
+PER_0078,LOC_0049,Spotted
+PER_0079,LOC_0078,Frequent Hideout
+PER_0079,LOC_0103,Meeting Point
+PER_0080,LOC_0027,Spotted
+PER_0081,LOC_0084,Residence
+PER_0081,LOC_0093,Frequent Hideout
+PER_0081,LOC_0125,Frequent Hideout
+PER_0082,LOC_0034,Residence
+PER_0082,LOC_0122,Meeting Point
+PER_0083,LOC_0150,Spotted
+PER_0083,LOC_0039,Spotted
+PER_0084,LOC_0015,Spotted
+PER_0085,LOC_0045,Meeting Point
+PER_0086,LOC_0002,Residence
+PER_0087,LOC_0021,Residence
+PER_0087,LOC_0029,Spotted
+PER_0087,LOC_0015,Meeting Point
+PER_0088,LOC_0107,Residence
+PER_0089,LOC_0118,Spotted
+PER_0089,LOC_0050,Spotted
+PER_0089,LOC_0144,Residence
+PER_0090,LOC_0023,Frequent Hideout
+PER_0091,LOC_0013,Frequent Hideout
+PER_0092,LOC_0050,Meeting Point
+PER_0092,LOC_0136,Residence
+PER_0092,LOC_0078,Meeting Point
+PER_0093,LOC_0033,Frequent Hideout
+PER_0093,LOC_0051,Residence
+PER_0094,LOC_0068,Spotted
+PER_0095,LOC_0032,Frequent Hideout
+PER_0095,LOC_0127,Meeting Point
+PER_0095,LOC_0120,Spotted
+PER_0096,LOC_0108,Frequent Hideout
+PER_0096,LOC_0018,Frequent Hideout
+PER_0097,LOC_0136,Frequent Hideout
+PER_0098,LOC_0006,Meeting Point
+PER_0099,LOC_0021,Meeting Point
+PER_0100,LOC_0032,Meeting Point
+PER_0100,LOC_0124,Residence
+PER_0101,LOC_0058,Frequent Hideout
+PER_0101,LOC_0008,Meeting Point
+PER_0101,LOC_0040,Spotted
+PER_0102,LOC_0112,Frequent Hideout
+PER_0103,LOC_0130,Spotted
+PER_0103,LOC_0049,Residence
+PER_0104,LOC_0119,Spotted
+PER_0104,LOC_0112,Residence
+PER_0105,LOC_0038,Frequent Hideout
+PER_0106,LOC_0018,Frequent Hideout
+PER_0106,LOC_0147,Spotted
+PER_0106,LOC_0059,Frequent Hideout
+PER_0107,LOC_0039,Residence
+PER_0107,LOC_0103,Frequent Hideout
+PER_0107,LOC_0117,Meeting Point
+PER_0108,LOC_0062,Spotted
+PER_0108,LOC_0119,Spotted
+PER_0108,LOC_0150,Frequent Hideout
+PER_0109,LOC_0081,Frequent Hideout
+PER_0110,LOC_0107,Spotted
+PER_0110,LOC_0066,Spotted
+PER_0110,LOC_0067,Frequent Hideout
+PER_0111,LOC_0110,Residence
+PER_0111,LOC_0139,Residence
+PER_0111,LOC_0112,Residence
+PER_0112,LOC_0057,Meeting Point
+PER_0112,LOC_0012,Spotted
+PER_0113,LOC_0134,Residence
+PER_0114,LOC_0144,Meeting Point
+PER_0114,LOC_0128,Residence
+PER_0115,LOC_0082,Residence
+PER_0115,LOC_0090,Meeting Point
+PER_0116,LOC_0043,Meeting Point
+PER_0116,LOC_0124,Residence
+PER_0116,LOC_0136,Frequent Hideout
+PER_0117,LOC_0148,Frequent Hideout
+PER_0117,LOC_0026,Residence
+PER_0118,LOC_0069,Meeting Point
+PER_0118,LOC_0100,Frequent Hideout
+PER_0118,LOC_0061,Residence
+PER_0119,LOC_0046,Meeting Point
+PER_0119,LOC_0102,Residence
+PER_0120,LOC_0038,Frequent Hideout
+PER_0121,LOC_0131,Residence
+PER_0121,LOC_0077,Residence
+PER_0122,LOC_0082,Spotted
+PER_0123,LOC_0146,Frequent Hideout
+PER_0123,LOC_0126,Meeting Point
+PER_0123,LOC_0120,Frequent Hideout
+PER_0124,LOC_0092,Spotted
+PER_0124,LOC_0126,Spotted
+PER_0124,LOC_0149,Residence
+PER_0125,LOC_0038,Spotted
+PER_0125,LOC_0066,Residence
+PER_0125,LOC_0116,Residence
+PER_0126,LOC_0123,Frequent Hideout
+PER_0127,LOC_0117,Frequent Hideout
+PER_0127,LOC_0004,Meeting Point
+PER_0128,LOC_0091,Meeting Point
+PER_0129,LOC_0119,Residence
+PER_0129,LOC_0111,Frequent Hideout
+PER_0129,LOC_0027,Spotted
+PER_0130,LOC_0075,Frequent Hideout
+PER_0130,LOC_0042,Residence
+PER_0130,LOC_0053,Residence
+PER_0131,LOC_0011,Frequent Hideout
+PER_0131,LOC_0093,Residence
+PER_0131,LOC_0102,Frequent Hideout
+PER_0132,LOC_0043,Frequent Hideout
+PER_0132,LOC_0065,Meeting Point
+PER_0132,LOC_0144,Frequent Hideout
+PER_0133,LOC_0029,Residence
+PER_0134,LOC_0134,Frequent Hideout
+PER_0134,LOC_0135,Residence
+PER_0135,LOC_0113,Frequent Hideout
+PER_0136,LOC_0110,Spotted
+PER_0136,LOC_0091,Frequent Hideout
+PER_0136,LOC_0075,Frequent Hideout
+PER_0137,LOC_0121,Frequent Hideout
+PER_0138,LOC_0017,Meeting Point
+PER_0139,LOC_0141,Spotted
+PER_0140,LOC_0140,Meeting Point
+PER_0141,LOC_0018,Frequent Hideout
+PER_0141,LOC_0112,Meeting Point
+PER_0142,LOC_0111,Spotted
+PER_0142,LOC_0054,Residence
+PER_0142,LOC_0102,Frequent Hideout
+PER_0143,LOC_0084,Residence
+PER_0143,LOC_0091,Residence
+PER_0143,LOC_0085,Residence
+PER_0144,LOC_0021,Residence
+PER_0144,LOC_0009,Spotted
+PER_0145,LOC_0138,Frequent Hideout
+PER_0145,LOC_0066,Meeting Point
+PER_0145,LOC_0033,Frequent Hideout
+PER_0146,LOC_0013,Residence
+PER_0147,LOC_0108,Residence
+PER_0148,LOC_0035,Frequent Hideout
+PER_0148,LOC_0034,Spotted
+PER_0149,LOC_0040,Frequent Hideout
+PER_0150,LOC_0049,Spotted
+PER_0151,LOC_0037,Meeting Point
+PER_0151,LOC_0071,Spotted
+PER_0151,LOC_0051,Frequent Hideout
+PER_0152,LOC_0030,Frequent Hideout
+PER_0152,LOC_0112,Residence
+PER_0152,LOC_0147,Residence
+PER_0153,LOC_0102,Residence
+PER_0153,LOC_0057,Meeting Point
+PER_0154,LOC_0099,Meeting Point
+PER_0154,LOC_0143,Spotted
+PER_0155,LOC_0064,Frequent Hideout
+PER_0156,LOC_0066,Spotted
+PER_0157,LOC_0065,Residence
+PER_0157,LOC_0017,Meeting Point
+PER_0158,LOC_0112,Meeting Point
+PER_0159,LOC_0149,Residence
+PER_0159,LOC_0119,Residence
+PER_0160,LOC_0140,Spotted
+PER_0160,LOC_0074,Residence
+PER_0160,LOC_0075,Residence
+PER_0161,LOC_0025,Meeting Point
+PER_0161,LOC_0126,Spotted
+PER_0162,LOC_0149,Meeting Point
+PER_0163,LOC_0044,Frequent Hideout
+PER_0163,LOC_0133,Spotted
+PER_0163,LOC_0001,Residence
+PER_0164,LOC_0092,Residence
+PER_0165,LOC_0005,Meeting Point
+PER_0165,LOC_0105,Residence
+PER_0166,LOC_0050,Frequent Hideout
+PER_0166,LOC_0032,Spotted
+PER_0166,LOC_0085,Spotted
+PER_0167,LOC_0063,Frequent Hideout
+PER_0168,LOC_0142,Residence
+PER_0169,LOC_0129,Frequent Hideout
+PER_0169,LOC_0141,Meeting Point
+PER_0170,LOC_0114,Spotted
+PER_0170,LOC_0078,Spotted
+PER_0170,LOC_0061,Residence
+PER_0171,LOC_0079,Frequent Hideout
+PER_0171,LOC_0128,Spotted
+PER_0171,LOC_0104,Frequent Hideout
+PER_0172,LOC_0094,Residence
+PER_0172,LOC_0012,Residence
+PER_0172,LOC_0028,Spotted
+PER_0173,LOC_0084,Spotted
+PER_0174,LOC_0112,Meeting Point
+PER_0174,LOC_0047,Frequent Hideout
+PER_0174,LOC_0119,Meeting Point
+PER_0175,LOC_0057,Residence
+PER_0176,LOC_0071,Residence
+PER_0176,LOC_0137,Frequent Hideout
+PER_0177,LOC_0066,Spotted
+PER_0178,LOC_0130,Residence
+PER_0178,LOC_0002,Meeting Point
+PER_0178,LOC_0121,Residence
+PER_0179,LOC_0034,Frequent Hideout
+PER_0179,LOC_0046,Spotted
+PER_0180,LOC_0085,Frequent Hideout
+PER_0180,LOC_0076,Residence
+PER_0180,LOC_0094,Spotted
+PER_0181,LOC_0091,Meeting Point
+PER_0181,LOC_0145,Spotted
+PER_0181,LOC_0105,Meeting Point
+PER_0182,LOC_0023,Frequent Hideout
+PER_0182,LOC_0028,Meeting Point
+PER_0183,LOC_0141,Spotted
+PER_0183,LOC_0058,Spotted
+PER_0183,LOC_0005,Meeting Point
+PER_0184,LOC_0037,Spotted
+PER_0184,LOC_0114,Spotted
+PER_0185,LOC_0027,Residence
+PER_0185,LOC_0023,Spotted
+PER_0185,LOC_0100,Meeting Point
+PER_0186,LOC_0028,Spotted
+PER_0187,LOC_0043,Frequent Hideout
+PER_0187,LOC_0047,Frequent Hideout
+PER_0187,LOC_0030,Meeting Point
+PER_0188,LOC_0134,Residence
+PER_0188,LOC_0097,Frequent Hideout
+PER_0188,LOC_0016,Spotted
+PER_0189,LOC_0111,Frequent Hideout
+PER_0189,LOC_0019,Frequent Hideout
+PER_0190,LOC_0127,Spotted
+PER_0191,LOC_0028,Frequent Hideout
+PER_0191,LOC_0030,Meeting Point
+PER_0192,LOC_0033,Spotted
+PER_0192,LOC_0120,Meeting Point
+PER_0192,LOC_0027,Residence
+PER_0193,LOC_0055,Meeting Point
+PER_0194,LOC_0139,Frequent Hideout
+PER_0194,LOC_0133,Spotted
+PER_0194,LOC_0091,Meeting Point
+PER_0195,LOC_0027,Frequent Hideout
+PER_0195,LOC_0140,Meeting Point
+PER_0195,LOC_0067,Meeting Point
+PER_0196,LOC_0063,Residence
+PER_0196,LOC_0014,Residence
+PER_0196,LOC_0146,Meeting Point
+PER_0197,LOC_0128,Spotted
+PER_0198,LOC_0150,Spotted
+PER_0198,LOC_0077,Meeting Point
+PER_0198,LOC_0071,Spotted
+PER_0199,LOC_0071,Residence
+PER_0199,LOC_0029,Meeting Point
+PER_0200,LOC_0149,Meeting Point
+PER_0200,LOC_0044,Frequent Hideout
+PER_0201,LOC_0088,Frequent Hideout
+PER_0201,LOC_0073,Spotted
+PER_0202,LOC_0091,Residence
+PER_0202,LOC_0146,Meeting Point
+PER_0203,LOC_0067,Frequent Hideout
+PER_0204,LOC_0149,Frequent Hideout
+PER_0204,LOC_0132,Spotted
+PER_0205,LOC_0146,Meeting Point
+PER_0205,LOC_0014,Spotted
+PER_0205,LOC_0119,Spotted
+PER_0206,LOC_0130,Meeting Point
+PER_0206,LOC_0058,Spotted
+PER_0207,LOC_0142,Meeting Point
+PER_0207,LOC_0019,Meeting Point
+PER_0208,LOC_0080,Residence
+PER_0208,LOC_0056,Meeting Point
+PER_0208,LOC_0079,Frequent Hideout
+PER_0209,LOC_0114,Residence
+PER_0210,LOC_0120,Frequent Hideout
+PER_0210,LOC_0100,Spotted
+PER_0210,LOC_0025,Residence
+PER_0211,LOC_0001,Frequent Hideout
+PER_0211,LOC_0126,Meeting Point
+PER_0211,LOC_0131,Frequent Hideout
+PER_0212,LOC_0049,Frequent Hideout
+PER_0213,LOC_0129,Residence
+PER_0213,LOC_0083,Frequent Hideout
+PER_0213,LOC_0073,Frequent Hideout
+PER_0214,LOC_0149,Frequent Hideout
+PER_0214,LOC_0088,Spotted
+PER_0215,LOC_0012,Residence
+PER_0215,LOC_0048,Frequent Hideout
+PER_0215,LOC_0058,Meeting Point
+PER_0216,LOC_0051,Meeting Point
+PER_0216,LOC_0041,Frequent Hideout
+PER_0217,LOC_0085,Spotted
+PER_0217,LOC_0031,Meeting Point
+PER_0218,LOC_0068,Residence
+PER_0219,LOC_0036,Frequent Hideout
+PER_0220,LOC_0069,Meeting Point
+PER_0221,LOC_0020,Meeting Point
+PER_0221,LOC_0075,Spotted
+PER_0222,LOC_0150,Frequent Hideout
+PER_0223,LOC_0092,Spotted
+PER_0223,LOC_0081,Meeting Point
+PER_0223,LOC_0095,Residence
+PER_0224,LOC_0010,Residence
+PER_0225,LOC_0030,Spotted
+PER_0225,LOC_0121,Residence
+PER_0226,LOC_0108,Spotted
+PER_0227,LOC_0093,Spotted
+PER_0227,LOC_0145,Meeting Point
+PER_0228,LOC_0029,Residence
+PER_0228,LOC_0041,Frequent Hideout
+PER_0229,LOC_0024,Residence
+PER_0229,LOC_0038,Meeting Point
+PER_0229,LOC_0123,Spotted
+PER_0230,LOC_0113,Meeting Point
+PER_0231,LOC_0040,Frequent Hideout
+PER_0232,LOC_0139,Frequent Hideout
+PER_0233,LOC_0007,Spotted
+PER_0233,LOC_0094,Spotted
+PER_0233,LOC_0099,Meeting Point
+PER_0234,LOC_0091,Spotted
+PER_0234,LOC_0064,Spotted
+PER_0234,LOC_0002,Spotted
+PER_0235,LOC_0088,Spotted
+PER_0235,LOC_0149,Residence
+PER_0236,LOC_0105,Frequent Hideout
+PER_0237,LOC_0086,Meeting Point
+PER_0237,LOC_0110,Meeting Point
+PER_0237,LOC_0002,Meeting Point
+PER_0238,LOC_0080,Frequent Hideout
+PER_0238,LOC_0056,Meeting Point
+PER_0238,LOC_0060,Meeting Point
+PER_0239,LOC_0148,Residence
+PER_0240,LOC_0106,Residence
+PER_0240,LOC_0010,Frequent Hideout
+PER_0241,LOC_0063,Meeting Point
+PER_0241,LOC_0103,Frequent Hideout
+PER_0241,LOC_0145,Meeting Point
+PER_0242,LOC_0005,Residence
+PER_0242,LOC_0048,Meeting Point
+PER_0242,LOC_0039,Spotted
+PER_0243,LOC_0006,Residence
+PER_0243,LOC_0103,Meeting Point
+PER_0244,LOC_0010,Residence
+PER_0244,LOC_0111,Residence
+PER_0244,LOC_0119,Spotted
+PER_0245,LOC_0028,Residence
+PER_0245,LOC_0045,Frequent Hideout
+PER_0245,LOC_0010,Frequent Hideout
+PER_0246,LOC_0080,Meeting Point
+PER_0246,LOC_0009,Meeting Point
+PER_0247,LOC_0122,Meeting Point
+PER_0247,LOC_0042,Frequent Hideout
+PER_0247,LOC_0030,Residence
+PER_0248,LOC_0050,Residence
+PER_0248,LOC_0061,Frequent Hideout
+PER_0248,LOC_0060,Meeting Point
+PER_0249,LOC_0038,Spotted
+PER_0249,LOC_0029,Frequent Hideout
+PER_0249,LOC_0001,Residence
+PER_0250,LOC_0022,Frequent Hideout
+PER_0250,LOC_0041,Meeting Point
+PER_0251,LOC_0015,Frequent Hideout
+PER_0252,LOC_0131,Frequent Hideout
+PER_0253,LOC_0119,Frequent Hideout
+PER_0253,LOC_0114,Meeting Point
+PER_0253,LOC_0072,Residence
+PER_0254,LOC_0074,Spotted
+PER_0254,LOC_0144,Meeting Point
+PER_0255,LOC_0139,Frequent Hideout
+PER_0255,LOC_0138,Frequent Hideout
+PER_0255,LOC_0114,Residence
+PER_0256,LOC_0050,Frequent Hideout
+PER_0256,LOC_0039,Residence
+PER_0257,LOC_0043,Meeting Point
+PER_0258,LOC_0142,Spotted
+PER_0258,LOC_0014,Meeting Point
+PER_0258,LOC_0075,Meeting Point
+PER_0259,LOC_0129,Spotted
+PER_0259,LOC_0149,Frequent Hideout
+PER_0260,LOC_0070,Residence
+PER_0260,LOC_0126,Meeting Point
+PER_0260,LOC_0105,Residence
+PER_0261,LOC_0110,Frequent Hideout
+PER_0261,LOC_0068,Spotted
+PER_0261,LOC_0113,Spotted
+PER_0262,LOC_0093,Meeting Point
+PER_0263,LOC_0116,Meeting Point
+PER_0264,LOC_0065,Spotted
+PER_0264,LOC_0121,Residence
+PER_0264,LOC_0127,Meeting Point
+PER_0265,LOC_0070,Meeting Point
+PER_0266,LOC_0123,Meeting Point
+PER_0266,LOC_0120,Residence
+PER_0267,LOC_0023,Meeting Point
+PER_0267,LOC_0037,Frequent Hideout
+PER_0268,LOC_0079,Residence
+PER_0268,LOC_0040,Frequent Hideout
+PER_0268,LOC_0103,Frequent Hideout
+PER_0269,LOC_0019,Spotted
+PER_0269,LOC_0097,Residence
+PER_0270,LOC_0007,Spotted
+PER_0270,LOC_0001,Frequent Hideout
+PER_0271,LOC_0020,Meeting Point
+PER_0271,LOC_0133,Residence
+PER_0272,LOC_0100,Residence
+PER_0272,LOC_0102,Frequent Hideout
+PER_0273,LOC_0103,Meeting Point
+PER_0274,LOC_0121,Spotted
+PER_0274,LOC_0148,Residence
+PER_0275,LOC_0120,Frequent Hideout
+PER_0276,LOC_0045,Spotted
+PER_0277,LOC_0143,Spotted
+PER_0278,LOC_0096,Spotted
+PER_0279,LOC_0103,Residence
+PER_0280,LOC_0148,Residence
+PER_0281,LOC_0143,Meeting Point
+PER_0281,LOC_0067,Residence
+PER_0281,LOC_0006,Residence
+PER_0282,LOC_0001,Meeting Point
+PER_0282,LOC_0132,Meeting Point
+PER_0283,LOC_0094,Frequent Hideout
+PER_0284,LOC_0123,Meeting Point
+PER_0285,LOC_0027,Spotted
+PER_0285,LOC_0015,Residence
+PER_0285,LOC_0121,Spotted
+PER_0286,LOC_0058,Meeting Point
+PER_0287,LOC_0149,Meeting Point
+PER_0287,LOC_0096,Meeting Point
+PER_0287,LOC_0114,Frequent Hideout
+PER_0288,LOC_0076,Residence
+PER_0288,LOC_0106,Spotted
+PER_0288,LOC_0022,Residence
+PER_0289,LOC_0009,Residence
+PER_0290,LOC_0121,Residence
+PER_0291,LOC_0128,Spotted
+PER_0292,LOC_0046,Residence
+PER_0293,LOC_0013,Spotted
+PER_0293,LOC_0039,Spotted
+PER_0294,LOC_0122,Frequent Hideout
+PER_0294,LOC_0042,Residence
+PER_0294,LOC_0059,Residence
+PER_0295,LOC_0045,Meeting Point
+PER_0296,LOC_0122,Meeting Point
+PER_0296,LOC_0069,Spotted
+PER_0297,LOC_0059,Meeting Point
+PER_0297,LOC_0109,Spotted
+PER_0297,LOC_0083,Spotted
+PER_0298,LOC_0089,Frequent Hideout
+PER_0299,LOC_0067,Residence
+PER_0299,LOC_0043,Spotted
+PER_0300,LOC_0104,Spotted
+PER_0301,LOC_0090,Frequent Hideout
+PER_0302,LOC_0075,Spotted
+PER_0302,LOC_0011,Residence
+PER_0303,LOC_0062,Meeting Point
+PER_0304,LOC_0059,Meeting Point
+PER_0304,LOC_0114,Meeting Point
+PER_0304,LOC_0109,Meeting Point
+PER_0305,LOC_0030,Spotted
+PER_0305,LOC_0097,Spotted
+PER_0305,LOC_0002,Meeting Point
+PER_0306,LOC_0118,Spotted
+PER_0307,LOC_0012,Spotted
+PER_0307,LOC_0093,Meeting Point
+PER_0307,LOC_0134,Residence
+PER_0308,LOC_0070,Residence
+PER_0308,LOC_0009,Frequent Hideout
+PER_0309,LOC_0129,Frequent Hideout
+PER_0309,LOC_0103,Spotted
+PER_0310,LOC_0012,Spotted
+PER_0310,LOC_0092,Spotted
+PER_0310,LOC_0114,Spotted
+PER_0311,LOC_0145,Meeting Point
+PER_0312,LOC_0047,Spotted
+PER_0313,LOC_0063,Frequent Hideout
+PER_0313,LOC_0082,Meeting Point
+PER_0314,LOC_0028,Residence
+PER_0314,LOC_0025,Residence
+PER_0314,LOC_0030,Spotted
+PER_0315,LOC_0019,Meeting Point
+PER_0315,LOC_0137,Meeting Point
+PER_0315,LOC_0065,Spotted
+PER_0316,LOC_0057,Frequent Hideout
+PER_0316,LOC_0043,Spotted
+PER_0316,LOC_0020,Meeting Point
+PER_0317,LOC_0129,Frequent Hideout
+PER_0318,LOC_0117,Frequent Hideout
+PER_0319,LOC_0071,Residence
+PER_0319,LOC_0137,Frequent Hideout
+PER_0319,LOC_0003,Frequent Hideout
+PER_0320,LOC_0108,Spotted
+PER_0320,LOC_0068,Meeting Point
+PER_0320,LOC_0040,Frequent Hideout
+PER_0321,LOC_0086,Spotted
+PER_0322,LOC_0140,Meeting Point
+PER_0322,LOC_0042,Residence
+PER_0323,LOC_0037,Meeting Point
+PER_0323,LOC_0017,Spotted
+PER_0323,LOC_0073,Spotted
+PER_0324,LOC_0079,Residence
+PER_0324,LOC_0099,Spotted
+PER_0325,LOC_0150,Frequent Hideout
+PER_0326,LOC_0027,Spotted
+PER_0326,LOC_0124,Meeting Point
+PER_0327,LOC_0021,Spotted
+PER_0328,LOC_0021,Frequent Hideout
+PER_0328,LOC_0118,Meeting Point
+PER_0329,LOC_0138,Spotted
+PER_0329,LOC_0013,Spotted
+PER_0330,LOC_0047,Meeting Point
+PER_0331,LOC_0110,Meeting Point
+PER_0331,LOC_0129,Meeting Point
+PER_0332,LOC_0085,Spotted
+PER_0332,LOC_0076,Spotted
+PER_0333,LOC_0067,Residence
+PER_0333,LOC_0116,Frequent Hideout
+PER_0333,LOC_0076,Spotted
+PER_0334,LOC_0030,Frequent Hideout
+PER_0335,LOC_0149,Residence
+PER_0335,LOC_0055,Spotted
+PER_0335,LOC_0107,Meeting Point
+PER_0336,LOC_0117,Spotted
+PER_0337,LOC_0017,Spotted
+PER_0337,LOC_0149,Meeting Point
+PER_0337,LOC_0054,Frequent Hideout
+PER_0338,LOC_0007,Spotted
+PER_0338,LOC_0029,Spotted
+PER_0338,LOC_0040,Spotted
+PER_0339,LOC_0063,Spotted
+PER_0339,LOC_0109,Meeting Point
+PER_0340,LOC_0018,Spotted
+PER_0341,LOC_0142,Frequent Hideout
+PER_0341,LOC_0103,Frequent Hideout
+PER_0342,LOC_0062,Residence
+PER_0342,LOC_0016,Meeting Point
+PER_0342,LOC_0120,Spotted
+PER_0343,LOC_0065,Spotted
+PER_0343,LOC_0133,Frequent Hideout
+PER_0343,LOC_0008,Residence
+PER_0344,LOC_0009,Frequent Hideout
+PER_0344,LOC_0034,Meeting Point
+PER_0345,LOC_0077,Residence
+PER_0345,LOC_0062,Frequent Hideout
+PER_0345,LOC_0064,Meeting Point
+PER_0346,LOC_0046,Meeting Point
+PER_0346,LOC_0126,Frequent Hideout
+PER_0346,LOC_0018,Spotted
+PER_0347,LOC_0117,Meeting Point
+PER_0347,LOC_0091,Frequent Hideout
+PER_0348,LOC_0027,Frequent Hideout
+PER_0349,LOC_0020,Residence
+PER_0349,LOC_0054,Meeting Point
+PER_0349,LOC_0140,Frequent Hideout
+PER_0350,LOC_0125,Meeting Point
+PER_0350,LOC_0139,Meeting Point
+PER_0350,LOC_0013,Residence
+PER_0351,LOC_0077,Spotted
+PER_0351,LOC_0089,Meeting Point
+PER_0352,LOC_0060,Meeting Point
+PER_0352,LOC_0091,Spotted
+PER_0353,LOC_0076,Residence
+PER_0353,LOC_0021,Frequent Hideout
+PER_0353,LOC_0134,Frequent Hideout
+PER_0354,LOC_0036,Frequent Hideout
+PER_0354,LOC_0020,Meeting Point
+PER_0355,LOC_0150,Spotted
+PER_0355,LOC_0011,Spotted
+PER_0356,LOC_0135,Frequent Hideout
+PER_0356,LOC_0080,Frequent Hideout
+PER_0357,LOC_0137,Residence
+PER_0357,LOC_0074,Spotted
+PER_0357,LOC_0115,Frequent Hideout
+PER_0358,LOC_0063,Residence
+PER_0359,LOC_0057,Meeting Point
+PER_0359,LOC_0043,Residence
+PER_0359,LOC_0139,Frequent Hideout
+PER_0360,LOC_0041,Residence
+PER_0361,LOC_0111,Meeting Point
+PER_0362,LOC_0112,Meeting Point
+PER_0362,LOC_0076,Meeting Point
+PER_0362,LOC_0033,Meeting Point
+PER_0363,LOC_0110,Spotted
+PER_0364,LOC_0121,Frequent Hideout
+PER_0365,LOC_0119,Frequent Hideout
+PER_0365,LOC_0097,Frequent Hideout
+PER_0365,LOC_0008,Residence
+PER_0366,LOC_0124,Frequent Hideout
+PER_0366,LOC_0115,Spotted
+PER_0366,LOC_0144,Meeting Point
+PER_0367,LOC_0002,Meeting Point
+PER_0368,LOC_0138,Frequent Hideout
+PER_0369,LOC_0069,Spotted
+PER_0370,LOC_0095,Spotted
+PER_0370,LOC_0123,Meeting Point
+PER_0370,LOC_0063,Frequent Hideout
+PER_0371,LOC_0034,Meeting Point
+PER_0372,LOC_0010,Spotted
+PER_0372,LOC_0015,Spotted
+PER_0373,LOC_0087,Spotted
+PER_0374,LOC_0150,Residence
+PER_0374,LOC_0121,Frequent Hideout
+PER_0374,LOC_0056,Meeting Point
+PER_0375,LOC_0033,Frequent Hideout
+PER_0376,LOC_0089,Spotted
+PER_0376,LOC_0115,Frequent Hideout
+PER_0376,LOC_0006,Spotted
+PER_0377,LOC_0040,Spotted
+PER_0378,LOC_0087,Meeting Point
+PER_0378,LOC_0075,Frequent Hideout
+PER_0379,LOC_0116,Spotted
+PER_0379,LOC_0118,Residence
+PER_0379,LOC_0010,Residence
+PER_0380,LOC_0123,Residence
+PER_0380,LOC_0143,Spotted
+PER_0381,LOC_0108,Meeting Point
+PER_0381,LOC_0074,Frequent Hideout
+PER_0381,LOC_0103,Meeting Point
+PER_0382,LOC_0098,Spotted
+PER_0382,LOC_0003,Spotted
+PER_0383,LOC_0068,Frequent Hideout
+PER_0383,LOC_0111,Frequent Hideout
+PER_0383,LOC_0128,Frequent Hideout
+PER_0384,LOC_0046,Spotted
+PER_0384,LOC_0019,Spotted
+PER_0384,LOC_0042,Spotted
+PER_0385,LOC_0120,Residence
+PER_0385,LOC_0113,Meeting Point
+PER_0385,LOC_0008,Frequent Hideout
+PER_0386,LOC_0068,Spotted
+PER_0387,LOC_0072,Spotted
+PER_0387,LOC_0041,Residence
+PER_0387,LOC_0108,Meeting Point
+PER_0388,LOC_0007,Spotted
+PER_0388,LOC_0143,Frequent Hideout
+PER_0389,LOC_0022,Frequent Hideout
+PER_0390,LOC_0013,Residence
+PER_0390,LOC_0058,Residence
+PER_0390,LOC_0063,Frequent Hideout
+PER_0391,LOC_0130,Meeting Point
+PER_0391,LOC_0128,Frequent Hideout
+PER_0391,LOC_0024,Frequent Hideout
+PER_0392,LOC_0092,Meeting Point
+PER_0393,LOC_0014,Residence
+PER_0393,LOC_0083,Residence
+PER_0393,LOC_0141,Residence
+PER_0394,LOC_0094,Frequent Hideout
+PER_0395,LOC_0118,Spotted
+PER_0396,LOC_0084,Meeting Point
+PER_0397,LOC_0006,Meeting Point
+PER_0397,LOC_0034,Meeting Point
+PER_0398,LOC_0131,Meeting Point
+PER_0399,LOC_0082,Meeting Point
+PER_0400,LOC_0111,Meeting Point
+PER_0400,LOC_0095,Spotted
+PER_0401,LOC_0127,Spotted
+PER_0401,LOC_0088,Spotted
+PER_0402,LOC_0007,Spotted
+PER_0402,LOC_0088,Frequent Hideout
+PER_0403,LOC_0100,Residence
+PER_0403,LOC_0035,Meeting Point
+PER_0403,LOC_0145,Residence
+PER_0404,LOC_0132,Spotted
+PER_0404,LOC_0094,Residence
+PER_0405,LOC_0058,Spotted
+PER_0405,LOC_0089,Frequent Hideout
+PER_0405,LOC_0042,Spotted
+PER_0406,LOC_0016,Meeting Point
+PER_0407,LOC_0136,Residence
+PER_0407,LOC_0129,Meeting Point
+PER_0407,LOC_0042,Spotted
+PER_0408,LOC_0018,Frequent Hideout
+PER_0409,LOC_0077,Spotted
+PER_0410,LOC_0076,Frequent Hideout
+PER_0410,LOC_0082,Residence
+PER_0411,LOC_0011,Frequent Hideout
+PER_0412,LOC_0099,Meeting Point
+PER_0412,LOC_0068,Frequent Hideout
+PER_0413,LOC_0132,Frequent Hideout
+PER_0414,LOC_0015,Spotted
+PER_0414,LOC_0049,Frequent Hideout
+PER_0415,LOC_0024,Frequent Hideout
+PER_0416,LOC_0073,Frequent Hideout
+PER_0416,LOC_0074,Frequent Hideout
+PER_0416,LOC_0003,Meeting Point
+PER_0417,LOC_0075,Residence
+PER_0418,LOC_0065,Residence
+PER_0418,LOC_0024,Residence
+PER_0418,LOC_0046,Spotted
+PER_0419,LOC_0043,Spotted
+PER_0419,LOC_0091,Residence
+PER_0419,LOC_0123,Residence
+PER_0420,LOC_0123,Residence
+PER_0420,LOC_0065,Frequent Hideout
+PER_0421,LOC_0061,Spotted
+PER_0421,LOC_0040,Meeting Point
+PER_0421,LOC_0084,Residence
+PER_0422,LOC_0142,Residence
+PER_0423,LOC_0053,Spotted
+PER_0424,LOC_0060,Spotted
+PER_0424,LOC_0068,Meeting Point
+PER_0424,LOC_0129,Residence
+PER_0425,LOC_0055,Meeting Point
+PER_0426,LOC_0046,Meeting Point
+PER_0426,LOC_0119,Residence
+PER_0426,LOC_0110,Frequent Hideout
+PER_0427,LOC_0062,Frequent Hideout
+PER_0427,LOC_0075,Residence
+PER_0428,LOC_0039,Residence
+PER_0429,LOC_0023,Frequent Hideout
+PER_0430,LOC_0022,Residence
+PER_0430,LOC_0058,Spotted
+PER_0430,LOC_0011,Spotted
+PER_0431,LOC_0009,Residence
+PER_0431,LOC_0042,Residence
+PER_0431,LOC_0135,Meeting Point
+PER_0432,LOC_0106,Frequent Hideout
+PER_0432,LOC_0078,Frequent Hideout
+PER_0432,LOC_0093,Residence
+PER_0433,LOC_0028,Frequent Hideout
+PER_0433,LOC_0148,Residence
+PER_0433,LOC_0010,Frequent Hideout
+PER_0434,LOC_0083,Meeting Point
+PER_0435,LOC_0053,Frequent Hideout
+PER_0435,LOC_0025,Frequent Hideout
+PER_0435,LOC_0114,Meeting Point
+PER_0436,LOC_0103,Spotted
+PER_0436,LOC_0126,Residence
+PER_0436,LOC_0014,Meeting Point
+PER_0437,LOC_0003,Frequent Hideout
+PER_0438,LOC_0141,Residence
+PER_0438,LOC_0145,Meeting Point
+PER_0438,LOC_0024,Spotted
+PER_0439,LOC_0083,Residence
+PER_0440,LOC_0062,Frequent Hideout
+PER_0441,LOC_0006,Frequent Hideout
+PER_0442,LOC_0068,Meeting Point
+PER_0442,LOC_0095,Residence
+PER_0443,LOC_0020,Meeting Point
+PER_0443,LOC_0066,Meeting Point
+PER_0444,LOC_0015,Meeting Point
+PER_0444,LOC_0127,Spotted
+PER_0445,LOC_0040,Frequent Hideout
+PER_0445,LOC_0092,Frequent Hideout
+PER_0445,LOC_0118,Residence
+PER_0446,LOC_0054,Meeting Point
+PER_0446,LOC_0031,Residence
+PER_0447,LOC_0128,Residence
+PER_0448,LOC_0015,Spotted
+PER_0449,LOC_0113,Meeting Point
+PER_0449,LOC_0008,Frequent Hideout
+PER_0449,LOC_0049,Residence
+PER_0450,LOC_0103,Residence
+PER_0450,LOC_0119,Residence
+PER_0451,LOC_0072,Meeting Point
+PER_0451,LOC_0104,Meeting Point
+PER_0452,LOC_0063,Frequent Hideout
+PER_0452,LOC_0036,Meeting Point
+PER_0452,LOC_0064,Residence
+PER_0453,LOC_0127,Residence
+PER_0454,LOC_0082,Residence
+PER_0454,LOC_0134,Meeting Point
+PER_0454,LOC_0003,Residence
+PER_0455,LOC_0013,Meeting Point
+PER_0455,LOC_0144,Frequent Hideout
+PER_0456,LOC_0047,Frequent Hideout
+PER_0457,LOC_0056,Meeting Point
+PER_0457,LOC_0008,Spotted
+PER_0458,LOC_0126,Frequent Hideout
+PER_0458,LOC_0076,Frequent Hideout
+PER_0458,LOC_0074,Frequent Hideout
+PER_0459,LOC_0086,Meeting Point
+PER_0459,LOC_0002,Frequent Hideout
+PER_0460,LOC_0135,Spotted
+PER_0461,LOC_0037,Spotted
+PER_0461,LOC_0096,Spotted
+PER_0461,LOC_0141,Spotted
+PER_0462,LOC_0029,Residence
+PER_0462,LOC_0055,Meeting Point
+PER_0463,LOC_0055,Spotted
+PER_0464,LOC_0043,Meeting Point
+PER_0464,LOC_0061,Frequent Hideout
+PER_0464,LOC_0110,Meeting Point
+PER_0465,LOC_0102,Frequent Hideout
+PER_0466,LOC_0062,Residence
+PER_0467,LOC_0067,Frequent Hideout
+PER_0468,LOC_0066,Spotted
+PER_0468,LOC_0113,Spotted
+PER_0469,LOC_0108,Meeting Point
+PER_0469,LOC_0071,Meeting Point
+PER_0470,LOC_0069,Frequent Hideout
+PER_0470,LOC_0026,Meeting Point
+PER_0470,LOC_0101,Residence
+PER_0471,LOC_0010,Meeting Point
+PER_0472,LOC_0028,Meeting Point
+PER_0473,LOC_0089,Meeting Point
+PER_0473,LOC_0044,Meeting Point
+PER_0474,LOC_0010,Spotted
+PER_0474,LOC_0032,Spotted
+PER_0475,LOC_0078,Residence
+PER_0475,LOC_0002,Residence
+PER_0475,LOC_0132,Spotted
+PER_0476,LOC_0021,Meeting Point
+PER_0476,LOC_0095,Frequent Hideout
+PER_0477,LOC_0029,Meeting Point
+PER_0477,LOC_0080,Residence
+PER_0477,LOC_0055,Residence
+PER_0478,LOC_0138,Residence
+PER_0478,LOC_0098,Residence
+PER_0479,LOC_0099,Frequent Hideout
+PER_0479,LOC_0008,Meeting Point
+PER_0480,LOC_0023,Frequent Hideout
+PER_0481,LOC_0006,Spotted
+PER_0481,LOC_0086,Spotted
+PER_0482,LOC_0070,Spotted
+PER_0482,LOC_0098,Frequent Hideout
+PER_0482,LOC_0090,Meeting Point
+PER_0483,LOC_0064,Spotted
+PER_0483,LOC_0098,Frequent Hideout
+PER_0483,LOC_0130,Meeting Point
+PER_0484,LOC_0023,Residence
+PER_0484,LOC_0069,Frequent Hideout
+PER_0485,LOC_0070,Spotted
+PER_0485,LOC_0081,Spotted
+PER_0486,LOC_0091,Residence
+PER_0486,LOC_0106,Residence
+PER_0486,LOC_0109,Frequent Hideout
+PER_0487,LOC_0023,Residence
+PER_0488,LOC_0106,Meeting Point
+PER_0488,LOC_0036,Frequent Hideout
+PER_0488,LOC_0039,Frequent Hideout
+PER_0489,LOC_0097,Frequent Hideout
+PER_0489,LOC_0121,Residence
+PER_0489,LOC_0069,Meeting Point
+PER_0490,LOC_0054,Frequent Hideout
+PER_0490,LOC_0100,Spotted
+PER_0490,LOC_0136,Residence
+PER_0491,LOC_0084,Frequent Hideout
+PER_0491,LOC_0116,Spotted
+PER_0491,LOC_0006,Residence
+PER_0492,LOC_0147,Spotted
+PER_0492,LOC_0022,Residence
+PER_0492,LOC_0105,Residence
+PER_0493,LOC_0049,Meeting Point
+PER_0494,LOC_0067,Spotted
+PER_0494,LOC_0005,Spotted
+PER_0494,LOC_0062,Spotted
+PER_0495,LOC_0122,Meeting Point
+PER_0496,LOC_0004,Meeting Point
+PER_0497,LOC_0125,Spotted
+PER_0498,LOC_0148,Spotted
+PER_0498,LOC_0086,Frequent Hideout
+PER_0498,LOC_0032,Spotted
+PER_0499,LOC_0073,Meeting Point
+PER_0499,LOC_0100,Spotted
+PER_0500,LOC_0036,Meeting Point
+PER_0500,LOC_0022,Spotted
+PER_0501,LOC_0034,Spotted
+PER_0501,LOC_0122,Frequent Hideout
+PER_0502,LOC_0002,Meeting Point
+PER_0502,LOC_0004,Residence
+PER_0502,LOC_0029,Meeting Point
+PER_0503,LOC_0070,Spotted
+PER_0504,LOC_0149,Spotted
+PER_0504,LOC_0073,Frequent Hideout
+PER_0505,LOC_0081,Residence
+PER_0506,LOC_0055,Frequent Hideout
+PER_0506,LOC_0142,Frequent Hideout
+PER_0507,LOC_0072,Meeting Point
+PER_0507,LOC_0132,Residence
+PER_0508,LOC_0012,Meeting Point
+PER_0508,LOC_0014,Residence
+PER_0508,LOC_0024,Meeting Point
+PER_0509,LOC_0027,Spotted
+PER_0509,LOC_0033,Meeting Point
+PER_0509,LOC_0073,Meeting Point
+PER_0510,LOC_0062,Residence
+PER_0511,LOC_0145,Spotted
+PER_0511,LOC_0078,Residence
+PER_0512,LOC_0074,Spotted
+PER_0512,LOC_0045,Spotted
+PER_0512,LOC_0063,Frequent Hideout
+PER_0513,LOC_0052,Frequent Hideout
+PER_0513,LOC_0055,Meeting Point
+PER_0513,LOC_0124,Spotted
+PER_0514,LOC_0126,Residence
+PER_0514,LOC_0147,Frequent Hideout
+PER_0515,LOC_0036,Meeting Point
+PER_0516,LOC_0097,Meeting Point
+PER_0516,LOC_0071,Meeting Point
+PER_0517,LOC_0022,Spotted
+PER_0518,LOC_0144,Meeting Point
+PER_0518,LOC_0034,Residence
+PER_0518,LOC_0017,Spotted
+PER_0519,LOC_0001,Meeting Point
+PER_0520,LOC_0148,Meeting Point
+PER_0520,LOC_0031,Residence
+PER_0520,LOC_0030,Residence
+PER_0521,LOC_0103,Spotted
+PER_0521,LOC_0066,Meeting Point
+PER_0522,LOC_0021,Frequent Hideout
+PER_0522,LOC_0027,Residence
+PER_0522,LOC_0150,Meeting Point
+PER_0523,LOC_0078,Spotted
+PER_0523,LOC_0045,Meeting Point
+PER_0524,LOC_0133,Spotted
+PER_0525,LOC_0048,Meeting Point
+PER_0525,LOC_0062,Spotted
+PER_0525,LOC_0128,Meeting Point
+PER_0526,LOC_0002,Meeting Point
+PER_0526,LOC_0015,Residence
+PER_0527,LOC_0038,Frequent Hideout
+PER_0527,LOC_0088,Spotted
+PER_0527,LOC_0063,Residence
+PER_0528,LOC_0023,Residence
+PER_0529,LOC_0042,Meeting Point
+PER_0529,LOC_0043,Residence
+PER_0529,LOC_0104,Meeting Point
+PER_0530,LOC_0104,Frequent Hideout
+PER_0530,LOC_0106,Meeting Point
+PER_0530,LOC_0005,Spotted
+PER_0531,LOC_0053,Spotted
+PER_0531,LOC_0141,Meeting Point
+PER_0531,LOC_0056,Residence
+PER_0532,LOC_0079,Frequent Hideout
+PER_0532,LOC_0104,Residence
+PER_0533,LOC_0001,Meeting Point
+PER_0533,LOC_0004,Residence
+PER_0533,LOC_0049,Residence
+PER_0534,LOC_0012,Meeting Point
+PER_0534,LOC_0063,Residence
+PER_0535,LOC_0132,Frequent Hideout
+PER_0535,LOC_0107,Frequent Hideout
+PER_0535,LOC_0112,Residence
+PER_0536,LOC_0009,Frequent Hideout
+PER_0536,LOC_0147,Spotted
+PER_0537,LOC_0070,Meeting Point
+PER_0537,LOC_0040,Spotted
+PER_0537,LOC_0112,Meeting Point
+PER_0538,LOC_0046,Spotted
+PER_0538,LOC_0105,Residence
+PER_0539,LOC_0074,Spotted
+PER_0539,LOC_0069,Meeting Point
+PER_0540,LOC_0114,Meeting Point
+PER_0540,LOC_0035,Meeting Point
+PER_0541,LOC_0093,Residence
+PER_0541,LOC_0071,Frequent Hideout
+PER_0542,LOC_0027,Meeting Point
+PER_0542,LOC_0115,Meeting Point
+PER_0542,LOC_0070,Spotted
+PER_0543,LOC_0011,Frequent Hideout
+PER_0544,LOC_0086,Frequent Hideout
+PER_0544,LOC_0034,Residence
+PER_0545,LOC_0112,Frequent Hideout
+PER_0546,LOC_0058,Frequent Hideout
+PER_0546,LOC_0015,Frequent Hideout
+PER_0547,LOC_0100,Frequent Hideout
+PER_0547,LOC_0066,Spotted
+PER_0547,LOC_0089,Meeting Point
+PER_0548,LOC_0062,Residence
+PER_0549,LOC_0009,Residence
+PER_0549,LOC_0119,Meeting Point
+PER_0549,LOC_0067,Frequent Hideout
+PER_0550,LOC_0023,Spotted
+PER_0550,LOC_0111,Frequent Hideout
+PER_0551,LOC_0039,Meeting Point
+PER_0551,LOC_0070,Meeting Point
+PER_0551,LOC_0120,Spotted
+PER_0552,LOC_0033,Spotted
+PER_0553,LOC_0143,Residence
+PER_0553,LOC_0052,Residence
+PER_0553,LOC_0124,Spotted
+PER_0554,LOC_0103,Meeting Point
+PER_0555,LOC_0054,Meeting Point
+PER_0555,LOC_0050,Meeting Point
+PER_0555,LOC_0035,Frequent Hideout
+PER_0556,LOC_0067,Frequent Hideout
+PER_0557,LOC_0137,Spotted
+PER_0558,LOC_0103,Frequent Hideout
+PER_0558,LOC_0041,Meeting Point
+PER_0558,LOC_0134,Frequent Hideout
+PER_0559,LOC_0128,Frequent Hideout
+PER_0560,LOC_0087,Frequent Hideout
+PER_0561,LOC_0010,Frequent Hideout
+PER_0562,LOC_0121,Residence
+PER_0563,LOC_0140,Spotted
+PER_0564,LOC_0054,Spotted
+PER_0565,LOC_0053,Meeting Point
+PER_0566,LOC_0069,Frequent Hideout
+PER_0567,LOC_0060,Frequent Hideout
+PER_0568,LOC_0032,Frequent Hideout
+PER_0568,LOC_0138,Spotted
+PER_0568,LOC_0132,Spotted
+PER_0569,LOC_0022,Spotted
+PER_0569,LOC_0033,Meeting Point
+PER_0570,LOC_0004,Frequent Hideout
+PER_0570,LOC_0069,Meeting Point
+PER_0570,LOC_0119,Residence
+PER_0571,LOC_0135,Meeting Point
+PER_0571,LOC_0096,Meeting Point
+PER_0571,LOC_0030,Meeting Point
+PER_0572,LOC_0005,Spotted
+PER_0572,LOC_0099,Spotted
+PER_0572,LOC_0076,Spotted
+PER_0573,LOC_0037,Spotted
+PER_0573,LOC_0025,Meeting Point
+PER_0574,LOC_0139,Frequent Hideout
+PER_0574,LOC_0057,Meeting Point
+PER_0574,LOC_0119,Spotted
+PER_0575,LOC_0083,Frequent Hideout
+PER_0576,LOC_0038,Meeting Point
+PER_0576,LOC_0116,Spotted
+PER_0576,LOC_0051,Frequent Hideout
+PER_0577,LOC_0034,Frequent Hideout
+PER_0577,LOC_0135,Residence
+PER_0578,LOC_0117,Meeting Point
+PER_0579,LOC_0133,Residence
+PER_0579,LOC_0056,Spotted
+PER_0579,LOC_0055,Residence
+PER_0580,LOC_0043,Residence
+PER_0581,LOC_0131,Meeting Point
+PER_0581,LOC_0096,Spotted
+PER_0581,LOC_0149,Spotted
+PER_0582,LOC_0008,Frequent Hideout
+PER_0583,LOC_0003,Meeting Point
+PER_0583,LOC_0102,Meeting Point
+PER_0584,LOC_0135,Meeting Point
+PER_0584,LOC_0104,Meeting Point
+PER_0584,LOC_0010,Frequent Hideout
+PER_0585,LOC_0127,Meeting Point
+PER_0585,LOC_0107,Residence
+PER_0586,LOC_0146,Meeting Point
+PER_0586,LOC_0148,Frequent Hideout
+PER_0587,LOC_0144,Spotted
+PER_0588,LOC_0023,Spotted
+PER_0588,LOC_0001,Frequent Hideout
+PER_0588,LOC_0060,Spotted
+PER_0589,LOC_0121,Meeting Point
+PER_0590,LOC_0040,Residence
+PER_0591,LOC_0091,Meeting Point
+PER_0591,LOC_0145,Frequent Hideout
+PER_0592,LOC_0114,Meeting Point
+PER_0592,LOC_0076,Frequent Hideout
+PER_0592,LOC_0053,Spotted
+PER_0593,LOC_0087,Frequent Hideout
+PER_0593,LOC_0074,Spotted
+PER_0593,LOC_0002,Spotted
+PER_0594,LOC_0074,Meeting Point
+PER_0594,LOC_0107,Spotted
+PER_0594,LOC_0093,Frequent Hideout
+PER_0595,LOC_0121,Residence
+PER_0596,LOC_0126,Residence
+PER_0596,LOC_0056,Frequent Hideout
+PER_0596,LOC_0009,Residence
+PER_0597,LOC_0038,Meeting Point
+PER_0598,LOC_0098,Meeting Point
+PER_0599,LOC_0043,Spotted
+PER_0600,LOC_0100,Frequent Hideout
+PER_0600,LOC_0119,Frequent Hideout
+PER_0600,LOC_0053,Frequent Hideout
+PER_0601,LOC_0130,Spotted
+PER_0601,LOC_0116,Frequent Hideout
+PER_0602,LOC_0017,Residence
+PER_0602,LOC_0110,Residence
+PER_0602,LOC_0101,Residence
+PER_0603,LOC_0003,Spotted
+PER_0604,LOC_0133,Residence
+PER_0604,LOC_0111,Meeting Point
+PER_0604,LOC_0102,Frequent Hideout
+PER_0605,LOC_0040,Spotted
+PER_0605,LOC_0106,Meeting Point
+PER_0605,LOC_0080,Frequent Hideout
+PER_0606,LOC_0121,Spotted
+PER_0606,LOC_0132,Spotted
+PER_0606,LOC_0092,Residence
+PER_0607,LOC_0111,Residence
+PER_0607,LOC_0015,Frequent Hideout
+PER_0608,LOC_0025,Spotted
+PER_0608,LOC_0107,Spotted
+PER_0609,LOC_0144,Spotted
+PER_0609,LOC_0028,Spotted
+PER_0609,LOC_0004,Meeting Point
+PER_0610,LOC_0070,Meeting Point
+PER_0611,LOC_0148,Spotted
+PER_0611,LOC_0077,Meeting Point
+PER_0612,LOC_0060,Meeting Point
+PER_0613,LOC_0015,Residence
+PER_0613,LOC_0084,Spotted
+PER_0613,LOC_0034,Meeting Point
+PER_0614,LOC_0089,Frequent Hideout
+PER_0614,LOC_0023,Meeting Point
+PER_0615,LOC_0078,Residence
+PER_0615,LOC_0116,Frequent Hideout
+PER_0615,LOC_0114,Meeting Point
+PER_0616,LOC_0063,Spotted
+PER_0616,LOC_0068,Residence
+PER_0617,LOC_0104,Frequent Hideout
+PER_0617,LOC_0131,Residence
+PER_0617,LOC_0082,Meeting Point
+PER_0618,LOC_0083,Residence
+PER_0619,LOC_0062,Residence
+PER_0620,LOC_0147,Meeting Point
+PER_0620,LOC_0100,Frequent Hideout
+PER_0620,LOC_0072,Spotted
+PER_0621,LOC_0077,Frequent Hideout
+PER_0622,LOC_0065,Meeting Point
+PER_0622,LOC_0136,Spotted
+PER_0623,LOC_0029,Frequent Hideout
+PER_0624,LOC_0092,Meeting Point
+PER_0625,LOC_0061,Meeting Point
+PER_0626,LOC_0002,Residence
+PER_0627,LOC_0085,Spotted
+PER_0628,LOC_0075,Meeting Point
+PER_0628,LOC_0098,Residence
+PER_0629,LOC_0016,Meeting Point
+PER_0629,LOC_0055,Meeting Point
+PER_0630,LOC_0113,Meeting Point
+PER_0630,LOC_0071,Meeting Point
+PER_0631,LOC_0150,Meeting Point
+PER_0631,LOC_0032,Residence
+PER_0631,LOC_0021,Frequent Hideout
+PER_0632,LOC_0030,Spotted
+PER_0633,LOC_0061,Meeting Point
+PER_0634,LOC_0081,Meeting Point
+PER_0634,LOC_0090,Residence
+PER_0634,LOC_0142,Residence
+PER_0635,LOC_0078,Residence
+PER_0636,LOC_0134,Frequent Hideout
+PER_0636,LOC_0057,Frequent Hideout
+PER_0637,LOC_0034,Meeting Point
+PER_0637,LOC_0140,Meeting Point
+PER_0638,LOC_0026,Frequent Hideout
+PER_0639,LOC_0081,Frequent Hideout
+PER_0639,LOC_0001,Spotted
+PER_0639,LOC_0007,Meeting Point
+PER_0640,LOC_0133,Residence
+PER_0641,LOC_0008,Residence
+PER_0642,LOC_0076,Spotted
+PER_0643,LOC_0025,Residence
+PER_0643,LOC_0139,Spotted
+PER_0644,LOC_0015,Spotted
+PER_0644,LOC_0099,Residence
+PER_0644,LOC_0024,Frequent Hideout
+PER_0645,LOC_0096,Spotted
+PER_0645,LOC_0010,Spotted
+PER_0646,LOC_0148,Residence
+PER_0647,LOC_0057,Meeting Point
+PER_0647,LOC_0148,Residence
+PER_0647,LOC_0106,Meeting Point
+PER_0648,LOC_0127,Residence
+PER_0648,LOC_0020,Residence
+PER_0648,LOC_0124,Spotted
+PER_0649,LOC_0038,Spotted
+PER_0649,LOC_0053,Residence
+PER_0649,LOC_0042,Meeting Point
+PER_0650,LOC_0026,Frequent Hideout
+PER_0650,LOC_0109,Frequent Hideout
+PER_0650,LOC_0022,Frequent Hideout
+PER_0651,LOC_0020,Frequent Hideout
+PER_0652,LOC_0148,Frequent Hideout
+PER_0652,LOC_0091,Frequent Hideout
+PER_0653,LOC_0145,Spotted
+PER_0654,LOC_0014,Frequent Hideout
+PER_0655,LOC_0019,Meeting Point
+PER_0655,LOC_0121,Spotted
+PER_0656,LOC_0143,Frequent Hideout
+PER_0656,LOC_0090,Meeting Point
+PER_0656,LOC_0099,Spotted
+PER_0657,LOC_0002,Residence
+PER_0657,LOC_0100,Residence
+PER_0657,LOC_0103,Frequent Hideout
+PER_0658,LOC_0034,Frequent Hideout
+PER_0658,LOC_0009,Residence
+PER_0659,LOC_0095,Meeting Point
+PER_0659,LOC_0019,Spotted
+PER_0660,LOC_0024,Residence
+PER_0660,LOC_0044,Residence
+PER_0661,LOC_0111,Residence
+PER_0661,LOC_0013,Residence
+PER_0661,LOC_0017,Frequent Hideout
+PER_0662,LOC_0059,Residence
+PER_0662,LOC_0057,Frequent Hideout
+PER_0662,LOC_0051,Spotted
+PER_0663,LOC_0150,Meeting Point
+PER_0663,LOC_0131,Frequent Hideout
+PER_0664,LOC_0110,Frequent Hideout
+PER_0665,LOC_0030,Spotted
+PER_0666,LOC_0088,Residence
+PER_0666,LOC_0111,Residence
+PER_0666,LOC_0143,Meeting Point
+PER_0667,LOC_0028,Residence
+PER_0667,LOC_0147,Spotted
+PER_0667,LOC_0104,Spotted
+PER_0668,LOC_0089,Frequent Hideout
+PER_0669,LOC_0017,Frequent Hideout
+PER_0670,LOC_0056,Meeting Point
+PER_0671,LOC_0133,Residence
+PER_0672,LOC_0071,Residence
+PER_0672,LOC_0027,Spotted
+PER_0673,LOC_0105,Residence
+PER_0673,LOC_0011,Meeting Point
+PER_0674,LOC_0066,Residence
+PER_0675,LOC_0061,Spotted
+PER_0675,LOC_0070,Spotted
+PER_0675,LOC_0109,Spotted
+PER_0676,LOC_0091,Residence
+PER_0676,LOC_0008,Spotted
+PER_0676,LOC_0104,Residence
+PER_0677,LOC_0034,Spotted
+PER_0677,LOC_0117,Spotted
+PER_0678,LOC_0111,Frequent Hideout
+PER_0678,LOC_0143,Spotted
+PER_0679,LOC_0011,Frequent Hideout
+PER_0679,LOC_0125,Spotted
+PER_0679,LOC_0067,Residence
+PER_0680,LOC_0037,Spotted
+PER_0680,LOC_0005,Spotted
+PER_0681,LOC_0114,Frequent Hideout
+PER_0681,LOC_0111,Spotted
+PER_0682,LOC_0137,Spotted
+PER_0683,LOC_0104,Residence
+PER_0683,LOC_0100,Spotted
+PER_0684,LOC_0012,Residence
+PER_0685,LOC_0074,Frequent Hideout
+PER_0685,LOC_0127,Meeting Point
+PER_0686,LOC_0121,Spotted
+PER_0687,LOC_0097,Residence
+PER_0687,LOC_0133,Frequent Hideout
+PER_0687,LOC_0082,Meeting Point
+PER_0688,LOC_0115,Meeting Point
+PER_0689,LOC_0031,Meeting Point
+PER_0690,LOC_0036,Meeting Point
+PER_0690,LOC_0139,Meeting Point
+PER_0691,LOC_0049,Spotted
+PER_0692,LOC_0134,Meeting Point
+PER_0692,LOC_0033,Meeting Point
+PER_0692,LOC_0070,Meeting Point
+PER_0693,LOC_0012,Spotted
+PER_0693,LOC_0032,Meeting Point
+PER_0693,LOC_0102,Frequent Hideout
+PER_0694,LOC_0126,Residence
+PER_0694,LOC_0076,Frequent Hideout
+PER_0695,LOC_0094,Meeting Point
+PER_0696,LOC_0053,Residence
+PER_0697,LOC_0038,Frequent Hideout
+PER_0697,LOC_0083,Frequent Hideout
+PER_0697,LOC_0071,Spotted
+PER_0698,LOC_0088,Meeting Point
+PER_0699,LOC_0001,Spotted
+PER_0700,LOC_0134,Residence
+PER_0700,LOC_0080,Meeting Point
+PER_0700,LOC_0100,Frequent Hideout
+PER_0701,LOC_0093,Residence
+PER_0702,LOC_0039,Spotted
+PER_0702,LOC_0003,Frequent Hideout
+PER_0703,LOC_0051,Frequent Hideout
+PER_0703,LOC_0023,Residence
+PER_0704,LOC_0070,Residence
+PER_0704,LOC_0096,Spotted
+PER_0704,LOC_0106,Frequent Hideout
+PER_0705,LOC_0039,Frequent Hideout
+PER_0705,LOC_0063,Frequent Hideout
+PER_0706,LOC_0032,Frequent Hideout
+PER_0706,LOC_0002,Spotted
+PER_0706,LOC_0022,Spotted
+PER_0707,LOC_0058,Residence
+PER_0707,LOC_0028,Spotted
+PER_0707,LOC_0071,Residence
+PER_0708,LOC_0125,Spotted
+PER_0708,LOC_0132,Frequent Hideout
+PER_0708,LOC_0057,Meeting Point
+PER_0709,LOC_0140,Spotted
+PER_0709,LOC_0039,Residence
+PER_0710,LOC_0025,Residence
+PER_0711,LOC_0136,Frequent Hideout
+PER_0711,LOC_0038,Residence
+PER_0712,LOC_0126,Residence
+PER_0713,LOC_0028,Meeting Point
+PER_0713,LOC_0004,Frequent Hideout
+PER_0713,LOC_0011,Spotted
+PER_0714,LOC_0105,Spotted
+PER_0715,LOC_0133,Frequent Hideout
+PER_0715,LOC_0112,Spotted
+PER_0716,LOC_0130,Meeting Point
+PER_0716,LOC_0122,Spotted
+PER_0717,LOC_0033,Frequent Hideout
+PER_0717,LOC_0107,Spotted
+PER_0718,LOC_0134,Frequent Hideout
+PER_0718,LOC_0137,Meeting Point
+PER_0718,LOC_0037,Frequent Hideout
+PER_0719,LOC_0080,Frequent Hideout
+PER_0719,LOC_0076,Frequent Hideout
+PER_0720,LOC_0083,Residence
+PER_0720,LOC_0052,Residence
+PER_0720,LOC_0084,Meeting Point
+PER_0721,LOC_0143,Residence
+PER_0721,LOC_0048,Spotted
+PER_0721,LOC_0142,Residence
+PER_0722,LOC_0065,Spotted
+PER_0723,LOC_0059,Frequent Hideout
+PER_0723,LOC_0142,Meeting Point
+PER_0724,LOC_0002,Spotted
+PER_0725,LOC_0102,Meeting Point
+PER_0725,LOC_0122,Meeting Point
+PER_0726,LOC_0012,Frequent Hideout
+PER_0726,LOC_0137,Meeting Point
+PER_0727,LOC_0083,Meeting Point
+PER_0727,LOC_0129,Residence
+PER_0728,LOC_0034,Spotted
+PER_0728,LOC_0015,Frequent Hideout
+PER_0728,LOC_0121,Residence
+PER_0729,LOC_0056,Spotted
+PER_0729,LOC_0100,Frequent Hideout
+PER_0729,LOC_0143,Residence
+PER_0730,LOC_0035,Frequent Hideout
+PER_0730,LOC_0102,Residence
+PER_0731,LOC_0009,Residence
+PER_0731,LOC_0124,Spotted
+PER_0731,LOC_0076,Spotted
+PER_0732,LOC_0001,Residence
+PER_0733,LOC_0100,Residence
+PER_0734,LOC_0074,Frequent Hideout
+PER_0734,LOC_0092,Meeting Point
+PER_0735,LOC_0091,Spotted
+PER_0735,LOC_0119,Spotted
+PER_0736,LOC_0055,Residence
+PER_0737,LOC_0123,Spotted
+PER_0737,LOC_0025,Frequent Hideout
+PER_0737,LOC_0032,Frequent Hideout
+PER_0738,LOC_0071,Meeting Point
+PER_0739,LOC_0111,Meeting Point
+PER_0740,LOC_0024,Residence
+PER_0741,LOC_0053,Spotted
+PER_0742,LOC_0076,Spotted
+PER_0743,LOC_0128,Spotted
+PER_0743,LOC_0094,Meeting Point
+PER_0743,LOC_0139,Residence
+PER_0744,LOC_0136,Residence
+PER_0744,LOC_0135,Meeting Point
+PER_0744,LOC_0130,Meeting Point
+PER_0745,LOC_0034,Residence
+PER_0746,LOC_0147,Meeting Point
+PER_0746,LOC_0040,Spotted
+PER_0747,LOC_0117,Meeting Point
+PER_0748,LOC_0132,Frequent Hideout
+PER_0749,LOC_0074,Residence
+PER_0749,LOC_0150,Frequent Hideout
+PER_0750,LOC_0031,Frequent Hideout
+PER_0751,LOC_0048,Frequent Hideout
+PER_0752,LOC_0083,Residence
+PER_0752,LOC_0068,Meeting Point
+PER_0752,LOC_0143,Residence
+PER_0753,LOC_0116,Residence
+PER_0753,LOC_0053,Spotted
+PER_0754,LOC_0135,Meeting Point
+PER_0754,LOC_0056,Spotted
+PER_0754,LOC_0102,Meeting Point
+PER_0755,LOC_0128,Residence
+PER_0755,LOC_0066,Meeting Point
+PER_0756,LOC_0057,Meeting Point
+PER_0757,LOC_0106,Meeting Point
+PER_0757,LOC_0091,Residence
+PER_0758,LOC_0116,Meeting Point
+PER_0759,LOC_0036,Frequent Hideout
+PER_0759,LOC_0042,Residence
+PER_0759,LOC_0141,Frequent Hideout
+PER_0760,LOC_0138,Frequent Hideout
+PER_0760,LOC_0033,Meeting Point
+PER_0760,LOC_0031,Frequent Hideout
+PER_0761,LOC_0143,Meeting Point
+PER_0761,LOC_0067,Frequent Hideout
+PER_0762,LOC_0067,Frequent Hideout
+PER_0762,LOC_0056,Frequent Hideout
+PER_0763,LOC_0077,Spotted
+PER_0764,LOC_0111,Residence
+PER_0764,LOC_0146,Meeting Point
+PER_0764,LOC_0043,Meeting Point
+PER_0765,LOC_0102,Spotted
+PER_0765,LOC_0009,Frequent Hideout
+PER_0765,LOC_0070,Residence
+PER_0766,LOC_0052,Spotted
+PER_0767,LOC_0068,Spotted
+PER_0767,LOC_0053,Residence
+PER_0767,LOC_0088,Residence
+PER_0768,LOC_0080,Residence
+PER_0768,LOC_0111,Frequent Hideout
+PER_0768,LOC_0090,Spotted
+PER_0769,LOC_0031,Residence
+PER_0770,LOC_0061,Residence
+PER_0770,LOC_0120,Meeting Point
+PER_0771,LOC_0005,Frequent Hideout
+PER_0771,LOC_0079,Meeting Point
+PER_0771,LOC_0144,Spotted
+PER_0772,LOC_0136,Meeting Point
+PER_0772,LOC_0025,Spotted
+PER_0772,LOC_0022,Spotted
+PER_0773,LOC_0142,Spotted
+PER_0773,LOC_0096,Frequent Hideout
+PER_0774,LOC_0064,Meeting Point
+PER_0775,LOC_0051,Meeting Point
+PER_0775,LOC_0027,Frequent Hideout
+PER_0775,LOC_0054,Meeting Point
+PER_0776,LOC_0148,Frequent Hideout
+PER_0776,LOC_0128,Meeting Point
+PER_0777,LOC_0119,Meeting Point
+PER_0777,LOC_0110,Meeting Point
+PER_0778,LOC_0094,Frequent Hideout
+PER_0778,LOC_0146,Spotted
+PER_0779,LOC_0109,Spotted
+PER_0779,LOC_0019,Residence
+PER_0779,LOC_0054,Meeting Point
+PER_0780,LOC_0019,Spotted
+PER_0780,LOC_0150,Frequent Hideout
+PER_0781,LOC_0007,Spotted
+PER_0781,LOC_0141,Frequent Hideout
+PER_0781,LOC_0140,Meeting Point
+PER_0782,LOC_0034,Frequent Hideout
+PER_0782,LOC_0050,Residence
+PER_0783,LOC_0126,Spotted
+PER_0783,LOC_0104,Residence
+PER_0783,LOC_0030,Residence
+PER_0784,LOC_0020,Residence
+PER_0785,LOC_0028,Spotted
+PER_0786,LOC_0135,Spotted
+PER_0786,LOC_0001,Spotted
+PER_0787,LOC_0051,Meeting Point
+PER_0788,LOC_0128,Residence
+PER_0788,LOC_0041,Spotted
+PER_0789,LOC_0004,Meeting Point
+PER_0789,LOC_0023,Residence
+PER_0789,LOC_0001,Meeting Point
+PER_0790,LOC_0118,Spotted
+PER_0790,LOC_0005,Residence
+PER_0791,LOC_0124,Residence
+PER_0791,LOC_0058,Meeting Point
+PER_0792,LOC_0147,Meeting Point
+PER_0792,LOC_0098,Frequent Hideout
+PER_0793,LOC_0116,Residence
+PER_0793,LOC_0047,Meeting Point
+PER_0794,LOC_0012,Frequent Hideout
+PER_0795,LOC_0118,Frequent Hideout
+PER_0796,LOC_0079,Frequent Hideout
+PER_0796,LOC_0058,Residence
+PER_0797,LOC_0131,Meeting Point
+PER_0797,LOC_0100,Frequent Hideout
+PER_0798,LOC_0093,Residence
+PER_0798,LOC_0121,Spotted
+PER_0799,LOC_0114,Frequent Hideout
+PER_0799,LOC_0051,Meeting Point
+PER_0800,LOC_0002,Residence
+PER_0800,LOC_0031,Spotted
+PER_0801,LOC_0025,Meeting Point
+PER_0801,LOC_0120,Frequent Hideout
+PER_0802,LOC_0047,Meeting Point
+PER_0802,LOC_0106,Spotted
+PER_0802,LOC_0002,Meeting Point
+PER_0803,LOC_0142,Meeting Point
+PER_0803,LOC_0138,Residence
+PER_0803,LOC_0141,Residence
+PER_0804,LOC_0088,Spotted
+PER_0804,LOC_0122,Meeting Point
+PER_0804,LOC_0052,Meeting Point
+PER_0805,LOC_0076,Meeting Point
+PER_0805,LOC_0055,Spotted
+PER_0805,LOC_0050,Spotted
+PER_0806,LOC_0014,Meeting Point
+PER_0806,LOC_0044,Frequent Hideout
+PER_0807,LOC_0126,Meeting Point
+PER_0808,LOC_0109,Meeting Point
+PER_0808,LOC_0090,Spotted
+PER_0809,LOC_0086,Meeting Point
+PER_0809,LOC_0133,Meeting Point
+PER_0809,LOC_0114,Spotted
+PER_0810,LOC_0068,Spotted
+PER_0810,LOC_0114,Spotted
+PER_0810,LOC_0021,Frequent Hideout
+PER_0811,LOC_0114,Spotted
+PER_0811,LOC_0065,Residence
+PER_0812,LOC_0034,Spotted
+PER_0812,LOC_0065,Frequent Hideout
+PER_0812,LOC_0007,Meeting Point
+PER_0813,LOC_0044,Spotted
+PER_0813,LOC_0002,Meeting Point
+PER_0814,LOC_0059,Spotted
+PER_0814,LOC_0067,Residence
+PER_0815,LOC_0113,Spotted
+PER_0816,LOC_0142,Meeting Point
+PER_0816,LOC_0009,Residence
+PER_0817,LOC_0059,Frequent Hideout
+PER_0817,LOC_0137,Frequent Hideout
+PER_0818,LOC_0137,Frequent Hideout
+PER_0818,LOC_0096,Frequent Hideout
+PER_0818,LOC_0104,Residence
+PER_0819,LOC_0105,Meeting Point
+PER_0820,LOC_0135,Spotted
+PER_0820,LOC_0011,Residence
+PER_0821,LOC_0057,Frequent Hideout
+PER_0821,LOC_0118,Residence
+PER_0822,LOC_0023,Residence
+PER_0822,LOC_0091,Meeting Point
+PER_0823,LOC_0046,Spotted
+PER_0824,LOC_0081,Residence
+PER_0825,LOC_0037,Meeting Point
+PER_0826,LOC_0133,Meeting Point
+PER_0826,LOC_0059,Meeting Point
+PER_0827,LOC_0052,Spotted
+PER_0828,LOC_0120,Meeting Point
+PER_0828,LOC_0072,Spotted
+PER_0829,LOC_0101,Frequent Hideout
+PER_0829,LOC_0111,Frequent Hideout
+PER_0829,LOC_0010,Frequent Hideout
+PER_0830,LOC_0051,Meeting Point
+PER_0830,LOC_0147,Spotted
+PER_0831,LOC_0086,Frequent Hideout
+PER_0832,LOC_0148,Spotted
+PER_0833,LOC_0014,Residence
+PER_0834,LOC_0046,Meeting Point
+PER_0835,LOC_0012,Residence
+PER_0835,LOC_0124,Spotted
+PER_0836,LOC_0101,Spotted
+PER_0837,LOC_0068,Meeting Point
+PER_0837,LOC_0119,Frequent Hideout
+PER_0837,LOC_0122,Frequent Hideout
+PER_0838,LOC_0006,Meeting Point
+PER_0839,LOC_0068,Spotted
+PER_0840,LOC_0083,Meeting Point
+PER_0841,LOC_0096,Frequent Hideout
+PER_0841,LOC_0070,Spotted
+PER_0841,LOC_0122,Residence
+PER_0842,LOC_0047,Residence
+PER_0842,LOC_0105,Frequent Hideout
+PER_0843,LOC_0008,Meeting Point
+PER_0843,LOC_0104,Spotted
+PER_0844,LOC_0121,Meeting Point
+PER_0844,LOC_0016,Residence
+PER_0845,LOC_0139,Frequent Hideout
+PER_0845,LOC_0031,Frequent Hideout
+PER_0845,LOC_0041,Meeting Point
+PER_0846,LOC_0056,Residence
+PER_0847,LOC_0049,Meeting Point
+PER_0848,LOC_0065,Spotted
+PER_0848,LOC_0094,Residence
+PER_0849,LOC_0054,Meeting Point
+PER_0849,LOC_0064,Meeting Point
+PER_0849,LOC_0128,Residence
+PER_0850,LOC_0130,Meeting Point
+PER_0850,LOC_0003,Residence
+PER_0851,LOC_0104,Spotted
+PER_0852,LOC_0008,Meeting Point
+PER_0853,LOC_0011,Residence
+PER_0853,LOC_0127,Meeting Point
+PER_0854,LOC_0053,Meeting Point
+PER_0854,LOC_0138,Spotted
+PER_0854,LOC_0078,Frequent Hideout
+PER_0855,LOC_0059,Spotted
+PER_0856,LOC_0090,Meeting Point
+PER_0856,LOC_0119,Spotted
+PER_0856,LOC_0055,Spotted
+PER_0857,LOC_0002,Frequent Hideout
+PER_0857,LOC_0075,Meeting Point
+PER_0857,LOC_0068,Frequent Hideout
+PER_0858,LOC_0015,Residence
+PER_0858,LOC_0003,Meeting Point
+PER_0858,LOC_0049,Frequent Hideout
+PER_0859,LOC_0100,Residence
+PER_0859,LOC_0066,Meeting Point
+PER_0859,LOC_0063,Meeting Point
+PER_0860,LOC_0133,Spotted
+PER_0860,LOC_0084,Spotted
+PER_0860,LOC_0129,Spotted
+PER_0861,LOC_0142,Spotted
+PER_0862,LOC_0056,Frequent Hideout
+PER_0862,LOC_0007,Residence
+PER_0862,LOC_0052,Meeting Point
+PER_0863,LOC_0096,Spotted
+PER_0863,LOC_0112,Frequent Hideout
+PER_0863,LOC_0002,Meeting Point
+PER_0864,LOC_0014,Frequent Hideout
+PER_0864,LOC_0032,Frequent Hideout
+PER_0864,LOC_0093,Residence
+PER_0865,LOC_0103,Meeting Point
+PER_0866,LOC_0057,Residence
+PER_0867,LOC_0043,Meeting Point
+PER_0867,LOC_0063,Spotted
+PER_0867,LOC_0092,Spotted
+PER_0868,LOC_0063,Residence
+PER_0869,LOC_0031,Spotted
+PER_0869,LOC_0091,Residence
+PER_0870,LOC_0119,Frequent Hideout
+PER_0871,LOC_0007,Residence
+PER_0872,LOC_0092,Frequent Hideout
+PER_0873,LOC_0143,Spotted
+PER_0874,LOC_0006,Spotted
+PER_0875,LOC_0052,Residence
+PER_0876,LOC_0137,Meeting Point
+PER_0876,LOC_0036,Frequent Hideout
+PER_0876,LOC_0010,Residence
+PER_0877,LOC_0136,Residence
+PER_0877,LOC_0032,Frequent Hideout
+PER_0878,LOC_0089,Spotted
+PER_0879,LOC_0074,Spotted
+PER_0879,LOC_0115,Meeting Point
+PER_0879,LOC_0056,Meeting Point
+PER_0880,LOC_0115,Frequent Hideout
+PER_0880,LOC_0053,Spotted
+PER_0880,LOC_0135,Spotted
+PER_0881,LOC_0084,Residence
+PER_0881,LOC_0061,Spotted
+PER_0881,LOC_0135,Residence
+PER_0882,LOC_0041,Frequent Hideout
+PER_0882,LOC_0125,Frequent Hideout
+PER_0882,LOC_0038,Meeting Point
+PER_0883,LOC_0034,Residence
+PER_0883,LOC_0091,Spotted
+PER_0884,LOC_0093,Spotted
+PER_0885,LOC_0120,Residence
+PER_0885,LOC_0108,Spotted
+PER_0885,LOC_0136,Spotted
+PER_0886,LOC_0011,Residence
+PER_0886,LOC_0063,Meeting Point
+PER_0886,LOC_0014,Spotted
+PER_0887,LOC_0068,Meeting Point
+PER_0887,LOC_0129,Meeting Point
+PER_0888,LOC_0087,Residence
+PER_0889,LOC_0076,Spotted
+PER_0889,LOC_0132,Residence
+PER_0889,LOC_0142,Spotted
+PER_0890,LOC_0008,Frequent Hideout
+PER_0890,LOC_0131,Spotted
+PER_0890,LOC_0147,Spotted
+PER_0891,LOC_0075,Frequent Hideout
+PER_0891,LOC_0011,Spotted
+PER_0892,LOC_0114,Meeting Point
+PER_0893,LOC_0093,Frequent Hideout
+PER_0893,LOC_0089,Spotted
+PER_0893,LOC_0091,Spotted
+PER_0894,LOC_0131,Frequent Hideout
+PER_0894,LOC_0020,Frequent Hideout
+PER_0894,LOC_0016,Meeting Point
+PER_0895,LOC_0085,Meeting Point
+PER_0895,LOC_0077,Meeting Point
+PER_0896,LOC_0128,Spotted
+PER_0896,LOC_0127,Frequent Hideout
+PER_0896,LOC_0070,Spotted
+PER_0897,LOC_0031,Frequent Hideout
+PER_0897,LOC_0033,Meeting Point
+PER_0898,LOC_0074,Frequent Hideout
+PER_0899,LOC_0121,Residence
+PER_0899,LOC_0010,Meeting Point
+PER_0900,LOC_0073,Spotted
+PER_0901,LOC_0073,Spotted
+PER_0901,LOC_0141,Meeting Point
+PER_0902,LOC_0068,Meeting Point
+PER_0902,LOC_0028,Meeting Point
+PER_0903,LOC_0051,Spotted
+PER_0904,LOC_0126,Frequent Hideout
+PER_0904,LOC_0031,Spotted
+PER_0905,LOC_0057,Residence
+PER_0905,LOC_0088,Frequent Hideout
+PER_0906,LOC_0111,Spotted
+PER_0906,LOC_0115,Residence
+PER_0907,LOC_0078,Frequent Hideout
+PER_0907,LOC_0032,Frequent Hideout
+PER_0908,LOC_0038,Meeting Point
+PER_0908,LOC_0124,Spotted
+PER_0909,LOC_0017,Spotted
+PER_0910,LOC_0029,Spotted
+PER_0910,LOC_0052,Residence
+PER_0911,LOC_0013,Spotted
+PER_0911,LOC_0015,Spotted
+PER_0912,LOC_0087,Frequent Hideout
+PER_0912,LOC_0143,Spotted
+PER_0913,LOC_0092,Spotted
+PER_0913,LOC_0087,Meeting Point
+PER_0914,LOC_0032,Meeting Point
+PER_0915,LOC_0055,Meeting Point
+PER_0915,LOC_0053,Meeting Point
+PER_0915,LOC_0096,Meeting Point
+PER_0916,LOC_0014,Residence
+PER_0916,LOC_0144,Spotted
+PER_0916,LOC_0092,Residence
+PER_0917,LOC_0129,Meeting Point
+PER_0918,LOC_0014,Residence
+PER_0918,LOC_0076,Meeting Point
+PER_0918,LOC_0052,Residence
+PER_0919,LOC_0085,Spotted
+PER_0919,LOC_0121,Frequent Hideout
+PER_0920,LOC_0149,Meeting Point
+PER_0921,LOC_0060,Meeting Point
+PER_0921,LOC_0058,Residence
+PER_0921,LOC_0101,Frequent Hideout
+PER_0922,LOC_0108,Residence
+PER_0923,LOC_0148,Spotted
+PER_0923,LOC_0133,Residence
+PER_0923,LOC_0130,Residence
+PER_0924,LOC_0095,Spotted
+PER_0925,LOC_0051,Residence
+PER_0925,LOC_0021,Spotted
+PER_0925,LOC_0024,Frequent Hideout
+PER_0926,LOC_0012,Frequent Hideout
+PER_0927,LOC_0073,Residence
+PER_0927,LOC_0013,Frequent Hideout
+PER_0928,LOC_0061,Meeting Point
+PER_0928,LOC_0056,Frequent Hideout
+PER_0928,LOC_0147,Meeting Point
+PER_0929,LOC_0011,Frequent Hideout
+PER_0929,LOC_0048,Meeting Point
+PER_0929,LOC_0001,Frequent Hideout
+PER_0930,LOC_0017,Frequent Hideout
+PER_0930,LOC_0144,Spotted
+PER_0930,LOC_0137,Spotted
+PER_0931,LOC_0134,Meeting Point
+PER_0931,LOC_0026,Meeting Point
+PER_0932,LOC_0104,Spotted
+PER_0932,LOC_0064,Frequent Hideout
+PER_0933,LOC_0003,Spotted
+PER_0933,LOC_0140,Residence
+PER_0933,LOC_0060,Frequent Hideout
+PER_0934,LOC_0048,Meeting Point
+PER_0934,LOC_0104,Spotted
+PER_0935,LOC_0072,Meeting Point
+PER_0935,LOC_0039,Spotted
+PER_0936,LOC_0008,Meeting Point
+PER_0936,LOC_0066,Frequent Hideout
+PER_0937,LOC_0043,Meeting Point
+PER_0937,LOC_0127,Frequent Hideout
+PER_0937,LOC_0112,Meeting Point
+PER_0938,LOC_0084,Meeting Point
+PER_0938,LOC_0133,Meeting Point
+PER_0938,LOC_0024,Spotted
+PER_0939,LOC_0146,Spotted
+PER_0939,LOC_0044,Meeting Point
+PER_0940,LOC_0115,Spotted
+PER_0940,LOC_0023,Meeting Point
+PER_0940,LOC_0079,Frequent Hideout
+PER_0941,LOC_0086,Spotted
+PER_0941,LOC_0064,Spotted
+PER_0941,LOC_0024,Meeting Point
+PER_0942,LOC_0080,Frequent Hideout
+PER_0942,LOC_0037,Spotted
+PER_0943,LOC_0040,Meeting Point
+PER_0944,LOC_0003,Meeting Point
+PER_0944,LOC_0143,Spotted
+PER_0944,LOC_0145,Meeting Point
+PER_0945,LOC_0108,Residence
+PER_0945,LOC_0133,Residence
+PER_0946,LOC_0138,Frequent Hideout
+PER_0946,LOC_0047,Frequent Hideout
+PER_0946,LOC_0036,Frequent Hideout
+PER_0947,LOC_0099,Meeting Point
+PER_0947,LOC_0144,Frequent Hideout
+PER_0948,LOC_0014,Frequent Hideout
+PER_0949,LOC_0054,Meeting Point
+PER_0949,LOC_0059,Spotted
+PER_0950,LOC_0100,Residence
+PER_0951,LOC_0132,Meeting Point
+PER_0952,LOC_0078,Spotted
+PER_0952,LOC_0134,Meeting Point
+PER_0953,LOC_0063,Spotted
+PER_0953,LOC_0014,Spotted
+PER_0953,LOC_0068,Meeting Point
+PER_0954,LOC_0084,Spotted
+PER_0954,LOC_0116,Meeting Point
+PER_0954,LOC_0103,Meeting Point
+PER_0955,LOC_0001,Spotted
+PER_0955,LOC_0014,Residence
+PER_0955,LOC_0091,Frequent Hideout
+PER_0956,LOC_0123,Spotted
+PER_0956,LOC_0109,Spotted
+PER_0957,LOC_0068,Frequent Hideout
+PER_0957,LOC_0055,Frequent Hideout
+PER_0957,LOC_0107,Meeting Point
+PER_0958,LOC_0095,Meeting Point
+PER_0959,LOC_0066,Meeting Point
+PER_0960,LOC_0050,Spotted
+PER_0960,LOC_0065,Frequent Hideout
+PER_0961,LOC_0016,Spotted
+PER_0962,LOC_0023,Meeting Point
+PER_0963,LOC_0065,Residence
+PER_0963,LOC_0117,Spotted
+PER_0964,LOC_0013,Frequent Hideout
+PER_0965,LOC_0022,Residence
+PER_0965,LOC_0148,Spotted
+PER_0966,LOC_0006,Spotted
+PER_0966,LOC_0088,Residence
+PER_0966,LOC_0105,Frequent Hideout
+PER_0967,LOC_0082,Spotted
+PER_0968,LOC_0140,Residence
+PER_0969,LOC_0068,Frequent Hideout
+PER_0969,LOC_0049,Meeting Point
+PER_0969,LOC_0048,Meeting Point
+PER_0970,LOC_0053,Meeting Point
+PER_0970,LOC_0048,Residence
+PER_0971,LOC_0033,Frequent Hideout
+PER_0971,LOC_0054,Residence
+PER_0972,LOC_0103,Residence
+PER_0973,LOC_0130,Residence
+PER_0973,LOC_0020,Residence
+PER_0973,LOC_0126,Spotted
+PER_0974,LOC_0033,Residence
+PER_0975,LOC_0069,Spotted
+PER_0975,LOC_0090,Meeting Point
+PER_0975,LOC_0118,Spotted
+PER_0976,LOC_0006,Meeting Point
+PER_0976,LOC_0086,Residence
+PER_0976,LOC_0034,Frequent Hideout
+PER_0977,LOC_0110,Residence
+PER_0977,LOC_0025,Spotted
+PER_0978,LOC_0082,Frequent Hideout
+PER_0979,LOC_0080,Residence
+PER_0980,LOC_0124,Residence
+PER_0980,LOC_0123,Frequent Hideout
+PER_0980,LOC_0094,Residence
+PER_0981,LOC_0020,Frequent Hideout
+PER_0981,LOC_0003,Frequent Hideout
+PER_0982,LOC_0103,Meeting Point
+PER_0983,LOC_0087,Meeting Point
+PER_0983,LOC_0052,Residence
+PER_0984,LOC_0115,Frequent Hideout
+PER_0984,LOC_0062,Residence
+PER_0985,LOC_0063,Frequent Hideout
+PER_0985,LOC_0022,Meeting Point
+PER_0986,LOC_0064,Frequent Hideout
+PER_0986,LOC_0023,Meeting Point
+PER_0987,LOC_0106,Meeting Point
+PER_0987,LOC_0090,Residence
+PER_0988,LOC_0057,Frequent Hideout
+PER_0989,LOC_0023,Spotted
+PER_0989,LOC_0106,Spotted
+PER_0990,LOC_0006,Spotted
+PER_0990,LOC_0108,Meeting Point
+PER_0990,LOC_0038,Spotted
+PER_0991,LOC_0087,Meeting Point
+PER_0991,LOC_0039,Meeting Point
+PER_0992,LOC_0014,Frequent Hideout
+PER_0993,LOC_0122,Frequent Hideout
+PER_0993,LOC_0015,Meeting Point
+PER_0994,LOC_0081,Residence
+PER_0994,LOC_0029,Spotted
+PER_0994,LOC_0002,Meeting Point
+PER_0995,LOC_0125,Residence
+PER_0995,LOC_0011,Spotted
+PER_0995,LOC_0110,Meeting Point
+PER_0996,LOC_0019,Frequent Hideout
+PER_0997,LOC_0134,Residence
+PER_0998,LOC_0117,Frequent Hideout
+PER_0998,LOC_0052,Frequent Hideout
+PER_0999,LOC_0049,Frequent Hideout
+PER_0999,LOC_0148,Frequent Hideout
+PER_1000,LOC_0095,Spotted
