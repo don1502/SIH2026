@@ -3,9 +3,10 @@ import GraphView from "./components/GraphView";
 import Sidebar from "./components/Sidebar";
 import EntityPanel from "./components/EntityPanel";
 import PredictPage from "./components/PredictPage";
+import AnomaliesPage from "./components/AnomaliesPage";
 import { EntityProfile, Subgraph, getProfile, getSubgraph } from "./api";
 
-type Tab = "explore" | "predict";
+type Tab = "explore" | "predict" | "anomalies";
 
 export default function App() {
   const [tab, setTab] = useState<Tab>("predict");
@@ -40,6 +41,9 @@ export default function App() {
           <button className={tab === "predict" ? "tab active" : "tab"} onClick={() => setTab("predict")}>
             Predict Suspects
           </button>
+          <button className={tab === "anomalies" ? "tab active" : "tab"} onClick={() => setTab("anomalies")}>
+            Anomalies
+          </button>
           <button className={tab === "explore" ? "tab active" : "tab"} onClick={() => setTab("explore")}>
             Explore Graph
           </button>
@@ -48,6 +52,8 @@ export default function App() {
 
       {tab === "predict" ? (
         <PredictPage />
+      ) : tab === "anomalies" ? (
+        <AnomaliesPage />
       ) : (
         <div className="app">
           <Sidebar onSelect={(id) => selectEntity(id)} />

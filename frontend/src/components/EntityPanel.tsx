@@ -57,6 +57,9 @@ export default function EntityPanel({ profile, edge, onSelect, onExpand }: Props
         {p.crime_type && <Field k="Crime" v={String(p.crime_type)} />}
         {p.status && <Field k="Status" v={String(p.status)} badge />}
         {p.pagerank !== undefined && <Field k="PageRank" v={Number(p.pagerank).toFixed(4)} />}
+        {p.anomaly_score !== undefined && p.anomaly_score !== null && (
+          <Field k="Anomaly" v={Number(p.anomaly_score).toFixed(3)} />
+        )}
       </div>
 
       <button className="btn" onClick={() => onExpand(profile.id)}>Expand 2 hops</button>

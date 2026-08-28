@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import GraphView from "./GraphView";
 import {
+  AnomalyTxn,
   MLMetrics,
   PredictResult,
   Suspect,
@@ -203,6 +204,7 @@ export default function PredictPage() {
               <Field k="Gender" v={selected.gender || "-"} />
               <Field k="Role" v={selected.role || "-"} />
               <Field k="Risk score" v={selected.risk_score || "-"} />
+              <Field k="Anomaly" v={selected.anomaly_score != null ? selected.anomaly_score.toFixed(3) : "-"} />
             </div>
             {selected.indicators.length > 0 && (
               <>
@@ -212,6 +214,19 @@ export default function PredictPage() {
                     <li key={ind}>{ind}</li>
                   ))}
                 </ul>
+              </>
+            )}
+            {result?.anomalies && result.anomalies.transactions.length > 0 && (
+              <>
+                <h3>Flagged money flows</h3>
+                <div className="mini-anomaly">
+                  {result.anomalies.transactions.slice(0, 5).map((t: AnomalyTxn) => (
+                    <div key={t.transaction_id} className="mini-anomaly-row">
+                      <span>{t.transaction_id}</span>
+                      <span>₹{t.amount.toLocaleString()}</span>
+                    </div>
+                  ))}
+                </div>
               </>
             )}
             <p className="disclaimer">

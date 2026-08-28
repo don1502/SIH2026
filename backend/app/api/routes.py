@@ -7,6 +7,7 @@ import pandas as pd
 from fastapi import APIRouter, File, HTTPException, Query, UploadFile
 
 from app.api import graph_service as gs
+from app.ml import anomaly as ml_anomaly
 from app.ml import predict as ml_predict
 from app.schema import detect_table
 
@@ -53,10 +54,26 @@ def analytics_summary():
 
 @router.get("/analytics/top")
 def analytics_top(metric: str = "pagerank", limit: int = 20):
-    valid = ("pagerank", "betweenness", "degree")
+    valid = ("pagerank", "betweenness", "degree", "anomaly_score")
     if metric not in valid:
         raise HTTPException(status_code=400, detail=f"metric must be one of {valid}")
     return gs.top_by_metric(metric, limit)
+
+
+# ---------------------------------------------------------------- anomalies
+@router.get("/anomalies/transactions")
+def anomalies_transactions(limit: int = 20):
+    return ml_anomaly.top_transactions(limit)
+
+
+@router.get("/anomalies/calls")
+def anomalies_calls(limit: int = 20):
+    return ml_anomaly.top_calls(limit)
+
+
+@router.get("/anomalies/persons")
+def anomalies_persons(limit: int = 20):
+    return ml_anomaly.top_persons(limit)
 
 
 @router.get("/analytics/communities")
@@ -78,7 +95,9 @@ def predict_sample(case_id: str | None = None):
     """Predict suspects for one case from the dataset (demo without upload)."""
     try:
         tables = ml_predict.sample_case(case_id)
-        return ml_predict.predict_suspects(tables)
+        result = ml_predict.predict_suspects(tables)
+        result["anomalies"] = ml_anomaly.score_all(tables)
+        return result
     except FileNotFoundError as e:
         raise HTTPException(status_code=503, detail=str(e))
 
@@ -114,6 +133,7 @@ async def predict_upload(files: list[UploadFile] = File(...)):
 
     try:
         result = ml_predict.predict_suspects(tables)
+        result["anomalies"] = ml_anomaly.score_all(tables)
     except FileNotFoundError as e:
         raise HTTPException(status_code=503, detail=str(e))
 
@@ -132,11 +152,20 @@ def run_pipeline():
     graph = bootstrap()
     a = analytics.compute_analytics()
     written = analytics.write_back_to_neo4j(a)
+    from app.ml import anomaly as anomaly_mod
+    from app.ml.train import train as train_suspect
+
+    suspect = train_suspect()
+    anomaly_trained = anomaly_mod.train()
+    anomaly_written = anomaly_mod.write_back_person_anomaly()
     return {
         "ingested_tables": len(ingest),
         "ingested_rows": sum(ingest.values()),
         "graph": graph,
         "nodes_scored": written,
+        "suspect_model": suspect.get("test"),
+        "anomaly_model": anomaly_trained,
+        "anomaly_persons_scored": anomaly_written,
     }
 
 
@@ -145,3 +174,11 @@ def train_model():
     from app.ml.train import train
 
     return train()
+
+
+@router.post("/admin/train-anomaly")
+def train_anomaly():
+    return {
+        "trained": ml_anomaly.train(),
+        "persons_scored": ml_anomaly.write_back_person_anomaly(),
+    }

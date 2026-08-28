@@ -63,6 +63,13 @@ export default function GraphView({ data, onSelectNode, onSelectEdge, showSuspec
           style: { "border-width": 4, "border-color": "#ffd23f" },
         },
         {
+          selector: "node[?is_anomalous]",
+          style: {
+            "border-width": 3,
+            "border-color": "#ff8c42",
+          },
+        },
+        {
           selector: "node[?is_suspect]",
           style: {
             "background-color": "#ff4d4d",

@@ -23,6 +23,8 @@ export interface CyNode {
     is_center?: boolean;
     suspect_probability?: number | null;
     is_suspect?: boolean;
+    anomaly_score?: number | null;
+    is_anomalous?: boolean;
   };
 }
 
@@ -81,6 +83,7 @@ export interface Suspect {
   risk_score: string | null;
   suspect_probability: number;
   is_suspect: boolean;
+  anomaly_score?: number;
   indicators: string[];
 }
 
@@ -96,6 +99,7 @@ export interface PredictResult {
     recognized: Record<string, string>;
     unrecognized: string[];
   };
+  anomalies?: AnomalyBundle;
 }
 
 export interface MLMetrics {
@@ -115,6 +119,46 @@ export interface MLMetrics {
   cv_roc_auc_mean: number;
   cv_roc_auc_std: number;
   feature_importances: { feature: string; importance: number }[];
+}
+
+export interface AnomalyTxn {
+  transaction_id: string;
+  sender_account: string;
+  receiver_account: string;
+  sender_owner: string;
+  receiver_owner: string;
+  amount: number;
+  transaction_type: string;
+  timestamp: string;
+  anomaly_score: number;
+  reasons: string[];
+}
+
+export interface AnomalyCall {
+  phone_id: string;
+  phone_number: string;
+  owner: string;
+  call_count: number;
+  distinct_contacts: number;
+  max_calls_in_hour: number;
+  total_duration: number;
+  anomaly_score: number;
+  reasons: string[];
+}
+
+export interface AnomalyPerson {
+  person_id: string;
+  name: string;
+  role: string | null;
+  risk_score: string | null;
+  anomaly_score: number;
+  reasons: string[];
+}
+
+export interface AnomalyBundle {
+  transactions: AnomalyTxn[];
+  calls: AnomalyCall[];
+  persons: AnomalyPerson[];
 }
 
 export const getHealth = () => api.get("/health").then((r) => r.data);
@@ -139,3 +183,9 @@ export const predictUpload = (files: File[]) => {
     .post<PredictResult>("/predict/upload", form, { headers: { "Content-Type": "multipart/form-data" } })
     .then((r) => r.data);
 };
+export const getAnomalyTransactions = (limit = 20) =>
+  api.get<AnomalyTxn[]>("/anomalies/transactions", { params: { limit } }).then((r) => r.data);
+export const getAnomalyCalls = (limit = 20) =>
+  api.get<AnomalyCall[]>("/anomalies/calls", { params: { limit } }).then((r) => r.data);
+export const getAnomalyPersons = (limit = 20) =>
+  api.get<AnomalyPerson[]>("/anomalies/persons", { params: { limit } }).then((r) => r.data);

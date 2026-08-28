@@ -10,6 +10,7 @@ import pandas as pd
 
 from app.config import settings
 from app.data_access import load_cleaned_tables
+from app.ml.anomaly import compute_person_scores
 from app.ml.features import ALL_FEATURES, NUMERIC_FEATURES, build_person_features
 from app.ml.train import METRICS_PATH, MODEL_PATH
 from app.schema import NODE_TYPES, resolve_account_ids, resolve_phone_ids
@@ -80,9 +81,16 @@ def predict_suspects(tables: dict[str, pd.DataFrame], top_k: int = 25) -> dict:
     pinfo = persons.set_index("person_id") if persons is not None else pd.DataFrame()
 
     ranked = scores.sort_values(ascending=False)
+
+    try:
+        anomaly_scores = compute_person_scores(tables)
+    except Exception:
+        anomaly_scores = pd.Series(dtype=float)
+
     suspects = []
     for pid, prob in ranked.items():
         info = pinfo.loc[pid].to_dict() if pid in pinfo.index else {}
+        a_score = float(anomaly_scores.get(pid, 0.0)) if len(anomaly_scores) else 0.0
         suspects.append(
             {
                 "person_id": pid,
@@ -93,12 +101,14 @@ def predict_suspects(tables: dict[str, pd.DataFrame], top_k: int = 25) -> dict:
                 "risk_score": info.get("risk_score"),
                 "suspect_probability": round(float(prob), 4),
                 "is_suspect": bool(prob >= 0.5),
+                "anomaly_score": round(a_score, 4),
                 "indicators": _indicators(features.loc[pid], stats),
             }
         )
 
     proba_map = {pid: float(prob) for pid, prob in scores.items()}
-    graph = build_graph_elements(tables, proba_map)
+    anomaly_map = {pid: float(anomaly_scores.get(pid, 0.0)) for pid in scores.index} if len(anomaly_scores) else {}
+    graph = build_graph_elements(tables, proba_map, anomaly_map)
     summary = {
         "persons_scored": int(len(scores)),
         "flagged_suspects": int((scores >= 0.5).sum()),
@@ -107,8 +117,13 @@ def predict_suspects(tables: dict[str, pd.DataFrame], top_k: int = 25) -> dict:
     return {"suspects": suspects[:top_k], "graph": graph, "summary": summary}
 
 
-def build_graph_elements(tables: dict[str, pd.DataFrame], proba_map: dict[str, float]) -> dict:
+def build_graph_elements(
+    tables: dict[str, pd.DataFrame],
+    proba_map: dict[str, float],
+    anomaly_map: dict[str, float] | None = None,
+) -> dict:
     nodes: dict[str, dict] = {}
+    anomaly_map = anomaly_map or {}
 
     def add_node(node_id: str, node_type: str, label: str, extra: dict | None = None):
         if node_id in nodes:
@@ -118,6 +133,10 @@ def build_graph_elements(tables: dict[str, pd.DataFrame], proba_map: dict[str, f
             prob = proba_map.get(node_id)
             data["suspect_probability"] = round(prob, 4) if prob is not None else None
             data["is_suspect"] = bool(prob is not None and prob >= 0.5)
+            a_score = anomaly_map.get(node_id)
+            if a_score is not None:
+                data["anomaly_score"] = round(a_score, 4)
+                data["is_anomalous"] = bool(a_score >= 0.8)
         if extra:
             data.update(extra)
         nodes[node_id] = {"data": data}

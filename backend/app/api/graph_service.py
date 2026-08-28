@@ -66,7 +66,8 @@ def subgraph(entity_id: str, hops: int = 1, limit: int = 250) -> dict:
         "UNWIND nodes(path) AS node "
         "RETURN DISTINCT node.id AS id, node.name AS name, labels(node) AS labels, "
         "       node.role AS role, node.risk_score AS risk_score, "
-        "       node.pagerank AS pagerank, node.community AS community "
+        "       node.pagerank AS pagerank, node.community AS community, "
+        "       node.anomaly_score AS anomaly_score "
         "LIMIT $limit",
         id=entity_id,
         limit=limit * 3,
@@ -106,6 +107,8 @@ def _node_element(row: dict, center_id: str) -> dict:
             "risk_score": row.get("risk_score"),
             "pagerank": row.get("pagerank"),
             "community": row.get("community"),
+            "anomaly_score": row.get("anomaly_score"),
+            "is_anomalous": bool((row.get("anomaly_score") or 0) >= 0.8),
             "is_center": row["id"] == center_id,
         }
     }
